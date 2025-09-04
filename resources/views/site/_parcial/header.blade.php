@@ -1,6 +1,6 @@
     <!--================= Preloader Section Start Here =================-->
     <div id="rts__preloader">
-        <div class="loader">barrons<span>24.</span></div>
+        <div class="loader">eco<span>Feminino</span></div>
     </div>
     <!--================= Preloader End Here =================-->
 

@@ -22,12 +22,14 @@
                                         src="assets/user/images/trending/primeiraDama.jfif" alt="main-post-image"></a></div>
                             <div class="contents">
                                 <a href="#0" class="news-catagory-tag-2">Política</a>
-                                <div class="post-title"><a href="news-details.html">Primeira dama de angola, 
-                                    Ana Dias Lourenço, realizou encontro de trabalho com a sua homóloga da serra leoa,
-                                    após eleição como presidente e vice presidente da oaflad.</a></div>
+                                <div class="post-title"><a href="news-details.html">Primeira dama de angola,
+                                        Ana Dias Lourenço, realizou encontro de trabalho com a sua homóloga da serra leoa,
+                                        após eleição como presidente e vice presidente da oaflad.</a></div>
                                 <div class="post-bottom-info">
-                                    <a href="author.html" class="post-author
-                                            item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                    <a href="author.html"
+                                        class="post-author
+                                            item"><img
+                                            src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January 16, 2024</span>
                                     <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
@@ -39,17 +41,21 @@
                     <div class="col-xl-4 col-lg-4 col-sm-12">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/fititel.webp" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/fititel.webp" alt="main-post-image"></a>
+                                    </div>
                                     <div class="contents">
                                         <a href="#0" class="news-catagory-tag-2">Technology</a>
                                         <div class="post-title"><a href="news-details.html">Zayn malik returns instagram
                                                 new selfie afterlong hiatus</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -57,18 +63,22 @@
                                 </div>
                             </div>
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image"></a>
+                                    </div>
                                     <div class="contents">
                                         <a href="#0" class="news-catagory-tag-2">IT
                                             News</a>
                                         <div class="post-title"><a href="news-details.html">The coach who gave Valieva a
                                                 'chilling' reception</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -91,11 +101,14 @@
                                         on why he bought house
                                         across from kim kardashian</a></div>
                                 <div class="post-bottom-info">
-                                    <a href="author.html" class="post-author
-                                            item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                    <a href="author.html"
+                                        class="post-author
+                                            item"><img
+                                            src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January 16, 2024</span>
-                                    <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
+                                    <span class="post-date item"><img src="assets/user/images/share.svg"
+                                            alt="date-icon">16
                                         Shares</span>
                                 </div>
                             </div>
@@ -104,7 +117,8 @@
                     <div class="col-xl-4 col-lg-4 col-sm-12">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
                                                 src="assets/user/images/trending/3.jpg" alt="main-post-image"></a></div>
@@ -113,8 +127,10 @@
                                         <div class="post-title"><a href="news-details.html">Zayn malik returns instagram
                                                 new selfie afterlong hiatus</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -122,7 +138,8 @@
                                 </div>
                             </div>
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside">
                                     <div class="post-picture"><a href="news-details.html"><img
                                                 src="assets/user/images/trending/1.jpg" alt="main-post-image"></a></div>
@@ -132,8 +149,10 @@
                                         <div class="post-title"><a href="news-details.html">The coach who gave Valieva a
                                                 'chilling' reception</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -156,11 +175,14 @@
                                         on why he bought house
                                         across from kim kardashian</a></div>
                                 <div class="post-bottom-info">
-                                    <a href="author.html" class="post-author
-                                            item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                    <a href="author.html"
+                                        class="post-author
+                                            item"><img
+                                            src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January 16, 2024</span>
-                                    <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
+                                    <span class="post-date item"><img src="assets/user/images/share.svg"
+                                            alt="date-icon">16
                                         Shares</span>
                                 </div>
                             </div>
@@ -169,7 +191,8 @@
                     <div class="col-xl-4 col-lg-4 col-sm-12">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
                                                 src="assets/user/images/trending/3.jpg" alt="main-post-image"></a></div>
@@ -178,8 +201,10 @@
                                         <div class="post-title"><a href="news-details.html">Zayn malik returns instagram
                                                 new selfie afterlong hiatus</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -187,7 +212,8 @@
                                 </div>
                             </div>
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside">
                                     <div class="post-picture"><a href="news-details.html"><img
                                                 src="assets/user/images/trending/1.jpg" alt="main-post-image"></a></div>
@@ -197,8 +223,10 @@
                                         <div class="post-title"><a href="news-details.html">The coach who gave Valieva a
                                                 'chilling' reception</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -221,11 +249,14 @@
                                         on why he bought house
                                         across from kim kardashian</a></div>
                                 <div class="post-bottom-info">
-                                    <a href="author.html" class="post-author
-                                            item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                    <a href="author.html"
+                                        class="post-author
+                                            item"><img
+                                            src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January 16, 2024</span>
-                                    <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
+                                    <span class="post-date item"><img src="assets/user/images/share.svg"
+                                            alt="date-icon">16
                                         Shares</span>
                                 </div>
                             </div>
@@ -234,7 +265,8 @@
                     <div class="col-xl-4 col-lg-4 col-sm-12">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
                                                 src="assets/user/images/trending/3.jpg" alt="main-post-image"></a></div>
@@ -243,8 +275,10 @@
                                         <div class="post-title"><a href="news-details.html">Zayn malik returns instagram
                                                 new selfie afterlong hiatus</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -252,7 +286,8 @@
                                 </div>
                             </div>
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside">
                                     <div class="post-picture"><a href="news-details.html"><img
                                                 src="assets/user/images/trending/1.jpg" alt="main-post-image"></a></div>
@@ -262,8 +297,10 @@
                                         <div class="post-title"><a href="news-details.html">The coach who gave Valieva a
                                                 'chilling' reception</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -286,11 +323,14 @@
                                         on why he bought house
                                         across from kim kardashian</a></div>
                                 <div class="post-bottom-info">
-                                    <a href="author.html" class="post-author
-                                            item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                    <a href="author.html"
+                                        class="post-author
+                                            item"><img
+                                            src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January 16, 2024</span>
-                                    <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
+                                    <span class="post-date item"><img src="assets/user/images/share.svg"
+                                            alt="date-icon">16
                                         Shares</span>
                                 </div>
                             </div>
@@ -299,7 +339,8 @@
                     <div class="col-xl-4 col-lg-4 col-sm-12">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
                                                 src="assets/user/images/trending/3.jpg" alt="main-post-image"></a></div>
@@ -308,8 +349,10 @@
                                         <div class="post-title"><a href="news-details.html">Zayn malik returns instagram
                                                 new selfie afterlong hiatus</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -317,7 +360,8 @@
                                 </div>
                             </div>
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div class="rts-post-2 rts-post-2-medium
+                                <div
+                                    class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside">
                                     <div class="post-picture"><a href="news-details.html"><img
                                                 src="assets/user/images/trending/1.jpg" alt="main-post-image"></a></div>
@@ -327,8 +371,10 @@
                                         <div class="post-title"><a href="news-details.html">The coach who gave Valieva a
                                                 'chilling' reception</a></div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
+                                            <a href="author.html"
+                                                class="post-author
+                                                item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
                                                     alt="date-icon">January 16, 2024</span>
                                         </div>
@@ -357,17 +403,20 @@
             <div class="row">
                 <div class="col-xl-5 col-md-7">
                     <div class="rts-post-2 mb--30">
-                        <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/afro-moda2.jpg"
-                                    alt="main-post-image"></a></div>
+                        <div class="post-picture"><a href="news-details.html"><img
+                                    src="assets/user/images/trending/afro-moda2.jpg" alt="main-post-image"></a></div>
                         <div class="contents">
                             <a href="#0" class="news-catagory-tag-2">Photography</a>
                             <div class="post-title"><a href="news-details.html">Kanye west on
                                     why he bought house
                                     across from kim kardashian</a></div>
                             <div class="post-bottom-info">
-                                <a href="author.html" class="post-author
-                                        item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                <span class="post-date item"><img src="assets/user/images/date.svg" alt="date-icon">January
+                                <a href="author.html"
+                                    class="post-author
+                                        item"><img
+                                        src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                <span class="post-date item"><img src="assets/user/images/date.svg"
+                                        alt="date-icon">January
                                     16, 2024</span>
                                 <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
                                     Shares</span>
@@ -385,9 +434,12 @@
                             <div class="post-title"><a href="news-details.html">City barbecue joint tells customers:
                                     Don’t buy the brisket.</a></div>
                             <div class="post-bottom-info">
-                                <a href="author.html" class="post-author
-                                        item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                <span class="post-date item"><img src="assets/user/images/date.svg" alt="date-icon">January
+                                <a href="author.html"
+                                    class="post-author
+                                        item"><img
+                                        src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                <span class="post-date item"><img src="assets/user/images/date.svg"
+                                        alt="date-icon">January
                                     16, 2024</span>
                                 <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
                                     Shares</span>
@@ -406,9 +458,12 @@
                                     why he bought house
                                     across from kim kardashian</a></div>
                             <div class="post-bottom-info">
-                                <a href="author.html" class="post-author
-                                        item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                <span class="post-date item"><img src="assets/user/images/date.svg" alt="date-icon">January
+                                <a href="author.html"
+                                    class="post-author
+                                        item"><img
+                                        src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                <span class="post-date item"><img src="assets/user/images/date.svg"
+                                        alt="date-icon">January
                                     16, 2024</span>
                                 <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
                                     Shares</span>
@@ -426,14 +481,17 @@
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-6">
                             <div class="rts-post-2 rts-post-medium rts-post-2-medium mb--30">
                                 <div class="post-picture"><a href="news-details.html"><img
-                                            src="assets/user/images/trending/evaDiva.jfif" alt="main-post-image"></a></div>
+                                            src="assets/user/images/trending/evaDiva.jfif" alt="main-post-image"></a>
+                                </div>
                                 <div class="contents">
                                     <a href="#0" class="news-catagory-tag-2">Photography</a>
                                     <div class="post-title"><a href="news-details.html">The New York Times faces 'cancel
                                             culture' for 'telling the truth'</a></div>
                                     <div class="post-bottom-info">
-                                        <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley
+                                        <a href="author.html"
+                                            class="post-author
+                                                item"><img
+                                                src="assets/user/images/user.svg" alt="user-icon">Ashley
                                             Graham</a>
                                         <span class="post-date item"><img src="assets/user/images/date.svg"
                                                 alt="date-icon">January
@@ -453,14 +511,17 @@
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-6">
                             <div class="rts-post-2 rts-post-medium rts-post-2-medium">
                                 <div class="post-picture"><a href="news-details.html"><img
-                                            src="assets/user/images/trending/orange_girl.jfif" alt="main-post-image"></a></div>
+                                            src="assets/user/images/trending/orange_girl.jfif" alt="main-post-image"></a>
+                                </div>
                                 <div class="contents">
                                     <a href="#0" class="news-catagory-tag-2">Photography</a>
                                     <div class="post-title"><a href="news-details.html">We know Van Gogh’s face from his
                                             self-portraits.</a></div>
                                     <div class="post-bottom-info">
-                                        <a href="author.html" class="post-author
-                                                item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley
+                                        <a href="author.html"
+                                            class="post-author
+                                                item"><img
+                                                src="assets/user/images/user.svg" alt="user-icon">Ashley
                                             Graham</a>
                                         <span class="post-date item"><img src="assets/user/images/date.svg"
                                                 alt="date-icon">January
@@ -488,7 +549,8 @@
                                     <h3 class="side-content-title">Histórias Populares</h3>
                                     <div class="rts-post rts-post-small">
                                         <div class="post-picture"><a href="news-details.html"><img
-                                                    src="assets/user/images/trending/evaDiva.jfif" alt="main-post-image"></a></div>
+                                                    src="assets/user/images/trending/evaDiva.jfif"
+                                                    alt="main-post-image"></a></div>
                                         <div class="contents">
                                             <div class="news-catagory-tag">Fashion</div>
                                             <div class="post-title"><a href="news-details.html">Modern
@@ -503,7 +565,8 @@
                                     </div>
                                     <div class="rts-post rts-post-small">
                                         <div class="post-picture"><a href="news-details.html"><img
-                                                    src="assets/user/images/trending/tecno.jfif" alt="main-post-image"></a></div>
+                                                    src="assets/user/images/trending/tecno.jfif"
+                                                    alt="main-post-image"></a></div>
                                         <div class="contents">
                                             <div class="news-catagory-tag">Audio
                                                 music</div>
@@ -519,7 +582,8 @@
                                     </div>
                                     <div class="rts-post rts-post-small">
                                         <div class="post-picture"><a href="news-details.html"><img
-                                                    src="assets/user/images/trending/images.jfif" alt="main-post-image"></a></div>
+                                                    src="assets/user/images/trending/images.jfif"
+                                                    alt="main-post-image"></a></div>
                                         <div class="contents">
                                             <div class="news-catagory-tag">Audio
                                                 music</div>
@@ -535,7 +599,8 @@
                                     </div>
                                     <div class="rts-post rts-post-small">
                                         <div class="post-picture"><a href="news-details.html"><img
-                                                    src="assets/user/images/trending/transferir (2).jfif" alt="main-post-image"></a></div>
+                                                    src="assets/user/images/trending/transferir (2).jfif"
+                                                    alt="main-post-image"></a></div>
                                         <div class="contents">
                                             <div class="news-catagory-tag">Audio
                                                 music</div>
@@ -630,7 +695,8 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/videos/5.jpg" alt="video-thumbnail">
+                            <div class="video-thumbnail"><img src="assets/user/images/videos/5.jpg"
+                                    alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Fashion</a>
                                     <a href="#0" class="video-tag red-tag">Fashion</a>
@@ -665,7 +731,8 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/videos/6.jpg" alt="video-thumbnail">
+                            <div class="video-thumbnail"><img src="assets/user/images/videos/6.jpg"
+                                    alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Fashion</a>
                                     <a href="#0" class="video-tag red-tag">Life Style</a>
@@ -683,7 +750,8 @@
                                             16,
                                             2024</span></div>
                                 </div>
-                                <a href="#0" class="card-title">The body organism sustain growth and vital processes and
+                                <a href="#0" class="card-title">The body organism sustain growth and vital processes
+                                    and
                                     to furnish energy.</a>
                             </div>
                             <div class="card-action-bar action-bar">
@@ -698,7 +766,8 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/videos/7.jpg" alt="video-thumbnail">
+                            <div class="video-thumbnail"><img src="assets/user/images/videos/7.jpg"
+                                    alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Travel</a>
                                     <a href="#0" class="video-tag red-tag">Fashion</a>
@@ -716,7 +785,8 @@
                                             16,
                                             2024</span></div>
                                 </div>
-                                <a href="#0" class="card-title">Travel agencies are a need of every country and a medium
+                                <a href="#0" class="card-title">Travel agencies are a need of every country and a
+                                    medium
                                     of traveling.</a>
                             </div>
                             <div class="card-action-bar action-bar">
@@ -731,7 +801,8 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/videos/8.jpg" alt="video-thumbnail">
+                            <div class="video-thumbnail"><img src="assets/user/images/videos/8.jpg"
+                                    alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Animal</a>
                                     <a href="#0" class="video-tag red-tag">Life History</a>
@@ -749,7 +820,8 @@
                                             16,
                                             2024</span></div>
                                 </div>
-                                <a href="#0" class="card-title">According to eyewitness elephants ran for higher ground
+                                <a href="#0" class="card-title">According to eyewitness elephants ran for higher
+                                    ground
                                     ahead.</a>
                             </div>
                             <div class="card-action-bar action-bar">
@@ -776,7 +848,8 @@
                 <h2 class="section-title">Últimas Notícias</h2>
                 <div class="wide-border"></div>
                 <div class="filter-buttons">
-                    <div class="filter-btn filter-navigation-btn active" data-show=".trendingnews">Notícias em destaque</div>
+                    <div class="filter-btn filter-navigation-btn active" data-show=".trendingnews">Notícias em destaque
+                    </div>
                     <div class="filter-btn filter-navigation-btn" data-show=".recentsnews">Notícias Recentes</div>
                 </div>
             </div>
@@ -787,7 +860,8 @@
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/finance.jfif" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/finance.jfif" alt="main-post-image"></a>
+                                    </div>
                                     <div class="contents">
                                         <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
                                                 Every
@@ -796,8 +870,10 @@
                                             sagittis
                                             bibendum quisque turpis placerat.</p>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                            item"><img src="assets/user/images/user.svg" alt="user-icon">By
+                                            <a href="author.html"
+                                                class="post-author
+                                                            item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">By
                                                 Jenny
                                                 Wilson</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
@@ -811,7 +887,8 @@
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image"></a>
+                                    </div>
                                     <div class="contents">
                                         <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
                                                 Every
@@ -820,8 +897,10 @@
                                             sagittis
                                             bibendum quisque turpis placerat.</p>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                            item"><img src="assets/user/images/user.svg" alt="user-icon">By
+                                            <a href="author.html"
+                                                class="post-author
+                                                            item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">By
                                                 Jenny
                                                 Wilson</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
@@ -835,7 +914,8 @@
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/primeiraDama.jfif" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/primeiraDama.jfif"
+                                                alt="main-post-image"></a></div>
                                     <div class="contents">
                                         <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
                                                 Every
@@ -844,8 +924,10 @@
                                             sagittis
                                             bibendum quisque turpis placerat.</p>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                            item"><img src="assets/user/images/user.svg" alt="user-icon">By
+                                            <a href="author.html"
+                                                class="post-author
+                                                            item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">By
                                                 Jenny
                                                 Wilson</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
@@ -859,7 +941,8 @@
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/bodiva.jfif" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/bodiva.jfif" alt="main-post-image"></a>
+                                    </div>
                                     <div class="contents">
                                         <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
                                                 Every
@@ -868,8 +951,10 @@
                                             sagittis
                                             bibendum quisque turpis placerat.</p>
                                         <div class="post-bottom-info">
-                                            <a href="author.html" class="post-author
-                                                            item"><img src="assets/user/images/user.svg" alt="user-icon">By
+                                            <a href="author.html"
+                                                class="post-author
+                                                            item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">By
                                                 Jenny
                                                 Wilson</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
@@ -884,16 +969,18 @@
                     </div>
                     <div class="rts-post-area recentsnews hide">
                         <div class="rts-post-2 rts-post-2-wide mb--20">
-                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/7.jpg"
-                                        alt="main-post-image"></a></div>
+                            <div class="post-picture"><a href="news-details.html"><img
+                                        src="assets/user/images/trending/7.jpg" alt="main-post-image"></a></div>
                             <div class="contents">
                                 <div class="post-title"><a href="news-details.html">5 Personal Finance Tips Every
                                         Freelancer Should Know</a></div>
                                 <p>Tenetur culpa, senectus inceptos porttitor dictumst animi at? Laoreet sagittis
                                     bibendum quisque turpis placerat.</p>
                                 <div class="post-bottom-info">
-                                    <a href="author.html" class="post-author
-                                                    item"><img src="assets/user/images/user.svg" alt="user-icon">By Jenny
+                                    <a href="author.html"
+                                        class="post-author
+                                                    item"><img
+                                            src="assets/user/images/user.svg" alt="user-icon">By Jenny
                                         Wilson</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January
@@ -903,16 +990,18 @@
                             </div>
                         </div>
                         <div class="rts-post-2 rts-post-2-wide mb--20">
-                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/8.jpg"
-                                        alt="main-post-image"></a></div>
+                            <div class="post-picture"><a href="news-details.html"><img
+                                        src="assets/user/images/trending/8.jpg" alt="main-post-image"></a></div>
                             <div class="contents">
                                 <div class="post-title"><a href="news-details.html">5 Personal Finance Tips Every
                                         Freelancer Should Know</a></div>
                                 <p>Tenetur culpa, senectus inceptos porttitor dictumst animi at? Laoreet sagittis
                                     bibendum quisque turpis placerat.</p>
                                 <div class="post-bottom-info">
-                                    <a href="author.html" class="post-author
-                                                    item"><img src="assets/user/images/user.svg" alt="user-icon">By Jenny
+                                    <a href="author.html"
+                                        class="post-author
+                                                    item"><img
+                                            src="assets/user/images/user.svg" alt="user-icon">By Jenny
                                         Wilson</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January
@@ -922,16 +1011,18 @@
                             </div>
                         </div>
                         <div class="rts-post-2 rts-post-2-wide mb--20">
-                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/9.png"
-                                        alt="main-post-image"></a></div>
+                            <div class="post-picture"><a href="news-details.html"><img
+                                        src="assets/user/images/trending/9.png" alt="main-post-image"></a></div>
                             <div class="contents">
                                 <div class="post-title"><a href="news-details.html">5 Personal Finance Tips Every
                                         Freelancer Should Know</a></div>
                                 <p>Tenetur culpa, senectus inceptos porttitor dictumst animi at? Laoreet sagittis
                                     bibendum quisque turpis placerat.</p>
                                 <div class="post-bottom-info">
-                                    <a href="author.html" class="post-author
-                                                    item"><img src="assets/user/images/user.svg" alt="user-icon">By Jenny
+                                    <a href="author.html"
+                                        class="post-author
+                                                    item"><img
+                                            src="assets/user/images/user.svg" alt="user-icon">By Jenny
                                         Wilson</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January
@@ -941,16 +1032,18 @@
                             </div>
                         </div>
                         <div class="rts-post-2 rts-post-2-wide">
-                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/10.jpg"
-                                        alt="main-post-image"></a></div>
+                            <div class="post-picture"><a href="news-details.html"><img
+                                        src="assets/user/images/trending/10.jpg" alt="main-post-image"></a></div>
                             <div class="contents">
                                 <div class="post-title"><a href="news-details.html">5 Personal Finance Tips Every
                                         Freelancer Should Know</a></div>
                                 <p>Tenetur culpa, senectus inceptos porttitor dictumst animi at? Laoreet sagittis
                                     bibendum quisque turpis placerat.</p>
                                 <div class="post-bottom-info">
-                                    <a href="author.html" class="post-author
-                                                    item"><img src="assets/user/images/user.svg" alt="user-icon">By Jenny
+                                    <a href="author.html"
+                                        class="post-author
+                                                    item"><img
+                                            src="assets/user/images/user.svg" alt="user-icon">By Jenny
                                         Wilson</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January
@@ -965,7 +1058,8 @@
                     <div class="row">
                         <div class="col-xl-12 col-md-6">
                             <div class="rts-post-2 rts-post-2-small rts-post-2-inside">
-                                <div class="post-picture"><img src="assets/user/images/trending/tecno.jfif" alt="post-picture">
+                                <div class="post-picture"><img src="assets/user/images/trending/tecno.jfif"
+                                        alt="post-picture">
                                 </div>
                                 <div class="contents">
                                     <div class="news-catagory-tag-2">Fashion</div>
@@ -974,8 +1068,8 @@
                                             front of train</a>
                                     </div>
                                     <div class="post-bottom-info">
-                                        <span class="post-date item"><img class="span-icon" src="assets/user/images/date.svg"
-                                                alt="date-icon">
+                                        <span class="post-date item"><img class="span-icon"
+                                                src="assets/user/images/date.svg" alt="date-icon">
                                             October 16, 2024</span>
                                     </div>
                                 </div>
@@ -989,8 +1083,8 @@
                                                 class="far fa-arrow-right"></i></a>
                                     </div>
                                     <div class="post-bottom-info">
-                                        <span class="post-date item"><img class="span-icon" src="assets/user/images/date.svg"
-                                                alt="date-icon">
+                                        <span class="post-date item"><img class="span-icon"
+                                                src="assets/user/images/date.svg" alt="date-icon">
                                             October 16, 2024</span>
                                     </div>
                                 </div>
@@ -1004,8 +1098,8 @@
                                                 class="far fa-arrow-right"></i></a>
                                     </div>
                                     <div class="post-bottom-info">
-                                        <span class="post-date item"><img class="span-icon" src="assets/user/images/date.svg"
-                                                alt="date-icon">
+                                        <span class="post-date item"><img class="span-icon"
+                                                src="assets/user/images/date.svg" alt="date-icon">
                                             October 16, 2024</span>
                                     </div>
                                 </div>
@@ -1019,8 +1113,8 @@
                                                 class="far fa-arrow-right"></i></a>
                                     </div>
                                     <div class="post-bottom-info">
-                                        <span class="post-date item"><img class="span-icon" src="assets/user/images/date.svg"
-                                                alt="date-icon">
+                                        <span class="post-date item"><img class="span-icon"
+                                                src="assets/user/images/date.svg" alt="date-icon">
                                             October 16, 2024</span>
                                     </div>
                                 </div>
@@ -1095,7 +1189,8 @@
                 </div>
                 <div class="col-xl-2 col-md-4 col-sm-4 col-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/6.jpg" title="6.jpg">
+                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/6.jpg"
+                            title="6.jpg">
                             <img src="assets/user/images/gallery/6.jpg" alt="9.jpg" />
                         </a>
                     </div>
@@ -1104,14 +1199,13 @@
         </div>
     </div>
 
-    <!-- 
-       Color switcher
-    -->
+    <!--
+           Color switcher
+        -->
     <div class="modal-sidebar-scroll rts-dark-light">
         <ul>
             <li><span>Dark</span><i class="rts-go-dark fal fa-moon"></i></li>
             <li><span>Light</span><i class="rts-go-light far fa-sun"></i></li>
         </ul>
     </div>
-
 @endsection

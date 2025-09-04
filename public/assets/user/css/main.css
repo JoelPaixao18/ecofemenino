@@ -3291,18 +3291,18 @@ img {
           transform: translate(-50%, -50%);
   font-family: "Playfair Display", serif;
   font-weight: 900;
-  color: #000;
+  color: #FF1856;
   font-style: italic;
 }
 .loader span {
-  color: #1399FB;
+  color: #060707;
 }
 .loader::before, .loader::after {
   content: "";
   display: block;
   width: 10px;
   height: 10px;
-  background: #1399FB;
+  background: #FF1856;
   position: absolute;
   -webkit-animation: load 0.7s infinite alternate ease-in-out;
           animation: load 0.7s infinite alternate ease-in-out;
