@@ -102,7 +102,7 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <a href="#" class="topic">
-                                            <div class="topic-picture"><img src="assets/user/images/topics/1.png"
+                                            <div class="topic-picture"><img src="assets/user/images/topics/afro-moda2.jpg"
                                                     alt="topic-picture"></div>
                                             <div class="content">
                                                 <h3 class="item-title">IT

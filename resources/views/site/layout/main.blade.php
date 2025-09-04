@@ -7,7 +7,7 @@
     <title>Ecofemenino - News & Magazine Html Template</title>
     <!--================= Favicon =================-->
     <link rel="apple-touch-icon" href="{{ url('assets/user/images/24..png')}}">
-    <link rel="shortcut icon" type="image/x-icon" href="{{ url('assets/user/images/fav.png')}}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ url('assets/user/images/ecofem1.png')}}">
     <!--================= Bootstrap V5 CSS =================-->
     <link rel="stylesheet" type="text/css" href="{{ url('assets/user/css/bootstrap.min.css')}}">
     <!--================= Font Awesome 5 CSS =================-->

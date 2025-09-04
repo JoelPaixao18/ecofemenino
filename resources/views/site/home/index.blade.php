@@ -19,12 +19,12 @@
                     <div class="col-xl-8 col-lg-8">
                         <div class="rts-main-post rts-post-2 rts-post-2-large rts-post-2-inside">
                             <div class="post-picture"><a href="news-details.html"><img
-                                        src="assets/user/images/trending/1.jpg" alt="main-post-image"></a></div>
+                                        src="assets/user/images/trending/primeiraDama.jfif" alt="main-post-image"></a></div>
                             <div class="contents">
                                 <a href="#0" class="news-catagory-tag-2">Games</a>
-                                <div class="post-title"><a href="news-details.html">Kanye west
-                                        on why he bought house
-                                        across from kim kardashian</a></div>
+                                <div class="post-title"><a href="news-details.html">Primeira dama de angola, 
+                                    Ana Dias Lourenço, realizou encontro de trabalho com a sua homóloga da serra leoa,
+                                    após eleição como presidente e vice presidente da oaflad.</a></div>
                                 <div class="post-bottom-info">
                                     <a href="author.html" class="post-author
                                             item"><img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
@@ -42,7 +42,7 @@
                                 <div class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/3.jpg" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/fititel.webp" alt="main-post-image"></a></div>
                                     <div class="contents">
                                         <a href="#0" class="news-catagory-tag-2">Technology</a>
                                         <div class="post-title"><a href="news-details.html">Zayn malik returns instagram
@@ -60,7 +60,7 @@
                                 <div class="rts-post-2 rts-post-2-medium
                                     rts-post-2-inside">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/1.jpg" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image"></a></div>
                                     <div class="contents">
                                         <a href="#0" class="news-catagory-tag-2">IT
                                             News</a>
@@ -357,7 +357,7 @@
             <div class="row">
                 <div class="col-xl-5 col-md-7">
                     <div class="rts-post-2 mb--30">
-                        <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/latest/4.jpg"
+                        <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/afro-moda2.jpg"
                                     alt="main-post-image"></a></div>
                         <div class="contents">
                             <a href="#0" class="news-catagory-tag-2">Photography</a>
@@ -426,7 +426,7 @@
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-6">
                             <div class="rts-post-2 rts-post-medium rts-post-2-medium mb--30">
                                 <div class="post-picture"><a href="news-details.html"><img
-                                            src="assets/user/images/latest/5.jpg" alt="main-post-image"></a></div>
+                                            src="assets/user/images/trending/evaDiva.jfif" alt="main-post-image"></a></div>
                                 <div class="contents">
                                     <a href="#0" class="news-catagory-tag-2">Photography</a>
                                     <div class="post-title"><a href="news-details.html">The New York Times faces 'cancel
@@ -453,7 +453,7 @@
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-6">
                             <div class="rts-post-2 rts-post-medium rts-post-2-medium">
                                 <div class="post-picture"><a href="news-details.html"><img
-                                            src="assets/user/images/latest/6.jpg" alt="main-post-image"></a></div>
+                                            src="assets/user/images/trending/orange_girl.jfif" alt="main-post-image"></a></div>
                                 <div class="contents">
                                     <a href="#0" class="news-catagory-tag-2">Photography</a>
                                     <div class="post-title"><a href="news-details.html">We know Van Gogh’s face from his
@@ -787,7 +787,7 @@
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/latest/7.jpg" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/finance.jfif" alt="main-post-image"></a></div>
                                     <div class="contents">
                                         <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
                                                 Every
@@ -811,7 +811,7 @@
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/latest/8.jpg" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image"></a></div>
                                     <div class="contents">
                                         <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
                                                 Every
@@ -835,7 +835,7 @@
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/latest/9.jpg" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/primeiraDama.jfif" alt="main-post-image"></a></div>
                                     <div class="contents">
                                         <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
                                                 Every
@@ -859,7 +859,7 @@
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/latest/10.jpg" alt="main-post-image"></a></div>
+                                                src="assets/user/images/trending/bodiva.jfif" alt="main-post-image"></a></div>
                                     <div class="contents">
                                         <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
                                                 Every
@@ -884,7 +884,7 @@
                     </div>
                     <div class="rts-post-area recentsnews hide">
                         <div class="rts-post-2 rts-post-2-wide mb--20">
-                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/latest/7.jpg"
+                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/7.jpg"
                                         alt="main-post-image"></a></div>
                             <div class="contents">
                                 <div class="post-title"><a href="news-details.html">5 Personal Finance Tips Every
@@ -903,7 +903,7 @@
                             </div>
                         </div>
                         <div class="rts-post-2 rts-post-2-wide mb--20">
-                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/latest/8.jpg"
+                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/8.jpg"
                                         alt="main-post-image"></a></div>
                             <div class="contents">
                                 <div class="post-title"><a href="news-details.html">5 Personal Finance Tips Every
@@ -922,7 +922,7 @@
                             </div>
                         </div>
                         <div class="rts-post-2 rts-post-2-wide mb--20">
-                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/latest/9.png"
+                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/9.png"
                                         alt="main-post-image"></a></div>
                             <div class="contents">
                                 <div class="post-title"><a href="news-details.html">5 Personal Finance Tips Every
@@ -941,7 +941,7 @@
                             </div>
                         </div>
                         <div class="rts-post-2 rts-post-2-wide">
-                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/latest/10.jpg"
+                            <div class="post-picture"><a href="news-details.html"><img src="assets/user/images/trending/10.jpg"
                                         alt="main-post-image"></a></div>
                             <div class="contents">
                                 <div class="post-title"><a href="news-details.html">5 Personal Finance Tips Every
@@ -965,7 +965,7 @@
                     <div class="row">
                         <div class="col-xl-12 col-md-6">
                             <div class="rts-post-2 rts-post-2-small rts-post-2-inside">
-                                <div class="post-picture"><img src="assets/user/images/latest/11.jpg" alt="post-picture">
+                                <div class="post-picture"><img src="assets/user/images/trending/tecno.jfif" alt="post-picture">
                                 </div>
                                 <div class="contents">
                                     <div class="news-catagory-tag-2">Fashion</div>
