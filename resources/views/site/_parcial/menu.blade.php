@@ -1,131 +1,110 @@
-        <div class="navbar-sticky-mobile">
-            <div class="navbar-part navbar-part-1 navbar-part-4">
-                <div class="container">
-                    <div class="navbar-inner navbar-inner-4">
-                        <div class="header-left">
-                            <div class="catagory-menu-icon icon-2">
-                                <svg width="25" height="15" viewBox="0 0 25 15" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M1 1H23.5" stroke="#12181C" stroke-width="2" stroke-linecap="round"
-                                        stroke-linejoin="round" />
-                                    <path d="M1 7.25H12.8375" stroke="#12181C" stroke-width="2" stroke-linecap="round"
-                                        stroke-linejoin="round" />
-                                    <path d="M1 13.5H17" stroke="#12181C" stroke-width="2" stroke-linecap="round"
-                                        stroke-linejoin="round" />
-                                </svg>
-                            </div>
-                            <div
-                                class="header-action-items header-action-items-2 header-action-items-3 header-action-items-first">
-                                <div class="search-part-2 d-flex">
-                                    <div class="search-input-div">
-                                        <input type="text" placeholder="Search...">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <a href="index.html" class="logo">
-                            <img class="logo-default" src="assets/user/images/logo.svg" alt="Barrons24-logo">
-                            <img class="logo-dark" src="assets/user/images/logo-light.svg" alt="Barrons24-logo">
-                        </a>
-                        <div class="header-right">
-                            <div class="search-part">
-                                <div class="search-icon"><i class="far fa-search"></i></div>
-                                <div class="search-input-area">
-                                    <div class="search-input-area-close"></div>
-                                    <input id="searchInput" class="search-input" type="text"
-                                        placeholder="Search here...">
-                                    <div class="search-close-icon"><i class="far fa-times"></i></div>
-                                </div>
-                            </div>
-                            <a href="sign.html" class="account">
-                                <img src="assets/user/images/header/user.svg" alt="user">
-                                <span>Sign In</span>
-                            </a>
-                            <div class="hamburger"><span></span></div>
-                            <a href="#0" class="subscribe-btn">Subscribe Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
         <div class="navbar-sticky">
-            <div class="navbar-part navbar-part1 sticked-navbar">
+            <div class="navbar-part navbar-part2">
                 <div class="container">
-                    <div class="navbar-inner navbar-inner-2">
-                        <a href="index.html" class="logo"><img class="logo-default" src="assets/user/images/logo.svg"
+                    <div class="navbar-inner">
+                        <a href="index.html" class="logo">
+                            <img class="logo-default" src="assets/user/images/ecofem1.png" alt="ecofemenino-logo">
+                            <img class="logo-dark" src="assets/user/images/ecofem1.png"
                                 alt="Barrons24-logo">
-                            <img class="logo-dark" src="assets/user/images/logo-light.svg" alt="Barrons24-logo"></a>
+                            </a>
                         <div class="rts-menu rts-menu1 m-0">
                             <nav class="menus menu-toggle">
                                 <ul class="nav__menu">
-                                    <li class="dropdown"><a class="menu-item item-1 active" href="#">Home</a>
+                                    <li class="dropdown"><a class="menu-item item-1 item-2 active" href="#">Início</a>
                                         <ul class="drop scnd-lvl">
-                                            <li class="flyout-right flyout"><a class="flyout-link"
+                                            <li class="flyout-right1 flyout"><a class="flyout-link-1"
                                                     href="index.html">Homepage 1</a></li>
-                                            <li class="flyout-right flyout"><a class="flyout-link"
+                                            <li class="flyout-right1 flyout"><a class="flyout-link-1"
                                                     href="index-two.html">Homepage 2</a></li>
-                                            <li class="flyout-right flyout"><a class="flyout-link"
+                                            <li class="flyout-right1 flyout"><a class="flyout-link-1"
                                                     href="index-three.html">Homepage 3</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a class="menu-item" href="#">News</a>
-                                        <ul>
-                                            <li class="flyout-right flyout"><a class="flyout-link"
-                                                    href="news-details.html">News Style 1</a></li>
-                                            <li class="flyout-right flyout"><a class="flyout-link"
-                                                    href="news-details2.html">News Style 2</a></li>
+                                    <li class="dropdown"><a class="menu-item item-2" href="#">Sobre Nós</a></li>
+                                    <li class="dropdown"><a class="menu-item item-2" href="#">Multimídia</a>
+                                        <ul class="dropdown-sub">
+                                            <li class="flyout-right1 flyout"><a class="flyout-link-1" href="author.html">Imagens</a></li>
+                                            <li class="flyout-right1 flyout"><a class="flyout-link-1" href="team.html">Videos</a></li>
+                                            <li class="flyout-right1 dropdown"><a class="flyout-link-1" href="#">Podcasts</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a class="menu-item" href="#">Pages</a>
+                                    <li class="dropdown"><a class="menu-item item-2" href="fashion.html">Atualidades</a>
                                         <ul class="dropdown-sub">
-                                            <li class="flyout"><a class="flyout-link" href="author.html">Author</a>
-                                            </li>
-                                            <li class="flyout"><a class="flyout-link" href="team.html">Team</a></li>
-                                            <li class="dropdown"><a class="flyout-link" href="#">Catagory
-                                                    Details</a>
+                                            <li class="flyout-right1 flyout"><a class="flyout-link-1" href="author.html">Perfil Inspirador</a></li>
+                                            <li class="dropdown"><a class="flyout-link-1" href="team.html">Notícias</a>
                                                 <ul class="sub-flyout">
-                                                    <li class="flyout1"><a class="flyout-sub-link"
-                                                            href="catagory-details.html">Catagory Style 1</a>
+                                                    <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                            href="catagory-details.html">Mulher na Política</a>
                                                     </li>
-                                                    <li class="flyout1"><a class="flyout-sub-link"
-                                                            href="catagory-details2.html">Catagory Style 2</a>
+                                                    <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                            href="catagory-details2.html">Mulher na Economia</a>
+                                                    </li>
+                                                    <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                            href="catagory-details2.html">Sociedade e Cultura</a>
+                                                    </li>
+                                                    <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                            href="catagory-details2.html">Coluna Internacional</a>
+                                                    </li>
+                                                </ul>
+                                            </li>
+                                            <li class="flyout-right1 flyout"><a class="flyout-link-1" href="author.html">Eventos</a></li>
+                                            <li class="dropdown"><a class="flyout-link-1" href="team.html">Artigos</a></li>
+                                                <ul class="sub-flyout">
+                                                    <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                            href="catagory-details.html">Editorial</a>
+                                                    </li>
+                                                    <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                            href="catagory-details2.html">Debate Femenino</a>
+                                                    </li>
+                                                    <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                            href="catagory-details2.html">Direito Humanos e Género</a>
+                                                    </li>
+                                                    <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                            href="catagory-details2.html">Coluna Internacional</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                         </ul>
                                     </li>
-                                    <li><a class="menu-item" href="fashion.html">Fashion</a></li>
-                                    <li><a class="menu-item" href="lifestyle.html">Lifestyle</a></li>
-                                    <li><a class="menu-item" href="sports.html">Sports</a></li>
-                                    <li><a class="menu-item" href="contact.html">Contact</a></li>
+
+                                    <li><a class="menu-item item-2" href="lifestyle.html">Juventude e Liderança</a>
+                                    
+                                    </li>
+                                    <li><a class="menu-item item-2" href="contact.html">Contacto</a></li>
                                 </ul>
                             </nav>
                         </div>
-                        <div class="catagory-select-area">
-                            <div class="category-icon"><img src="assets/user/images/header/category.svg" alt=""></div>
-                            <div class="select">
-                                <select class="custom-select">
-                                    <option value="hide">All Catagories</option>
-                                    <option value="all">All</option>
-                                    <option value="men">Sports</option>
-                                    <option value="women">Fashion</option>
-                                    <option value="shoes">Lifestyle</option>
-                                    <option value="shoes">Politics</option>
-                                    <option value="shoes">Travel</option>
-                                    <option value="shoes">Technology</option>
-                                </select>
+                        <div class="header-action-items header-action-items-2 header-action-items-first">
+                            <div class="search-part-2 d-flex">
+                                <div class="search-icon"><i class="far
+                                            fa-search"></i></div>
+                                <div class="search-input-div">
+                                    <input type="text" placeholder="Type your keyword...">
+                                </div>
                             </div>
                         </div>
+                        <div class="header-action-items header-action-items-2 header-action-items-last">
+                            <div class="search-part m-0">
+                                <div class="search-icon"><i class="far fa-search"></i></div>
+                                <div class="search-input-area">
+                                    <div class="search-input-area-close"></div>
+                                    <input class="search-input" type="text" placeholder="Search here...">
+                                    <div class="search-close-icon"><i class="far fa-times"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="hamburger m-0" href="#"><span></span></a>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- slide-bar start -->
         <aside class="slide-bar">
             <div class="offset-sidebar">
                 <a class="hamburger mobile-hamburger ml--30" href="#"><span></span></a>
                 <div class="offset-widget offset-logo mb-30">
                     <a href="index.html">
-                        <img src="assets/user/images/logo.svg" alt="Barrons24-logo">
+                        <img src="assets/user/images/logo.svg" alt="logo">
                     </a>
                 </div>
             </div>

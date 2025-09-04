@@ -3839,7 +3839,7 @@ header .social-links-3 .platform:hover i {
   color: #1D72FF;
 }
 header .navbar-part1 {
-  background-color: #EDF0F2;
+  background-color: white;
 }
 @media (max-width: 900px) {
   header .navbar-part1 {

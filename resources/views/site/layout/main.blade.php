@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Barrons24 - News & Magazine Html Template</title>
+    <title>Ecofemenino - News & Magazine Html Template</title>
     <!--================= Favicon =================-->
     <link rel="apple-touch-icon" href="{{ url('assets/user/images/24..png')}}">
     <link rel="shortcut icon" type="image/x-icon" href="{{ url('assets/user/images/fav.png')}}">

@@ -3,68 +3,160 @@
         <div class="loader">barrons<span>24.</span></div>
     </div>
     <!--================= Preloader End Here =================-->
-   
-   <!--================= Header Section Start Here =================-->
+
+    <!--================= Header Section Start Here =================-->
     <div class="anywere"></div>
     <header id="rtsHeader">
+        <div class="topbar-area">
+            <div class="container">
+                <div class="topbar-inner">
+                    <div class="right-part">
+                        <div class="quick-weather">
+                            <span class="weather-tempreture"><img src="assets/user/images/icons/weather.svg"
+                                    alt="weather-icon"> 10.7<span>C</span>
+                            </span>
+                            <span class="weather-location">New York</span>
+                        </div>
+                        <ul class="mini-nav">
+                            <li><a href="#0">Login</a></li>
+                            <li><a href="#0">Blog</a></li>
+                            <li><a href="#0">Forum</a></li>
+                            <li><a href="#0">Contact</a></li>
+                        </ul>
+                    </div>
+                    <ul class="social-links">
+                        <li> <a href="#" class="platform"><i class="fab fa-facebook-f"></i></a></li>
+                        <li> <a href="#" class="platform"><i class="fab fa-pinterest-p twitter"></i></a>
+                        </li>
+                        <li><a href="#" class="platform"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li> <a href="#" class="platform"><i class="fab fa-vimeo-v"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
 
-        <!--================= Catagory Menu Area Start Here =================-->
+
         @include('site._parcial.menu')
-        <!--================= Catagory Menu Area End Here =================-->
 
         <div class="body-overlay"></div>
-        <div class="catagory-menu-area">
-            <div class="catagory-menu">
-                <span class="menu-item-title">Recent Posts</span>
-                <div class="recent-post">
-                    <div class="picture"><a href="news-details.htm"><img src="assets/user/images/footer/1.png"
-                                alt="side-post-image"></a></div>
-                    <div class="content">
-                        <div class="recent-post-title"><a href="#0">The incident began as an argument among.</a>
+        <!-- slide-bar end -->
+        <div class="banner-2">
+            <div class="swiper bannerSlide">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="banner-single">
+                            <div class="container">
+                                <div class="banner-content">
+                                    <a href="#" class="content-catagory-tag">UX
+                                        Design</a>
+                                    <div class="contents">
+                                        <div class="content-title"><a href="news-details.html">Mattis
+                                                pellentesque id
+                                                nibh tortor id aliquet
+                                                lectus proin.</a></div>
+                                        <div class="post-bottom-info content-bottom-info mb--25">
+                                            <a href="author.html" class="content-author item"><img
+                                                    src="assets/user/images/user.svg" alt="user-icon">Ashley
+                                                Graham</a>
+                                            <span class="content-date item"><img src="assets/user/images/date.svg"
+                                                    alt="date-icon">January
+                                                16, 2024</span>
+                                            <span class="content-comment
+                                                    item"><img src="assets/user/images/comment.svg" alt="date-icon">7
+                                                comments</span>
+                                        </div>
+                                    </div>
+                                    <a href="#0" class="border-btn">Read
+                                        More</a>
+                                </div>
+                            </div>
                         </div>
-                        <a href="author.html" class="post-author item"><img src="assets/user/images/user.svg"
-                                alt="user-icon">Ashley Graham</a>
                     </div>
                 </div>
-                <div class="recent-post">
-                    <div class="picture"><a href="news-details.htm"><img src="assets/user/images/footer/2.png"
-                                alt="side-post-image"></a></div>
-                    <div class="content">
-                        <div class="recent-post-title"><a href="#0">The incident began as an argument among.</a>
-                        </div>
-                        <a href="author.html" class="post-author item"><img src="assets/user/images/user.svg"
-                                alt="user-icon">Emily Dickinson</a>
-                    </div>
-                </div>
-                <div class="newsletter">
-                    <div class="newsletter-icon"><img src="assets/user/images/icons/newsletter.png" alt="newsletter-icon">
-                    </div>
-                    <h2 class="newsletter-title">Get Newsletter</h2>
-                    <p>Notification products, updates.</p>
-                    <form class="form">
-                        <div class="input-div">
-                            <input type="email" placeholder="Your email...">
-                        </div>
-                        <button class="subscribe-btn">Subscribe Now</button>
-                    </form>
-                    <div class="foating-elements">
-                        <div class="item1"><img src="assets/user/images/icons/dot_01.png" alt="floating-element"></div>
-                    </div>
-                </div>
-                <div class="contact">
-                    <span class="menu-item-title">Contact</span>
-                    <span class="email item"><span>Email:</span> sangbanews@gmail.com</span>
-                    <span class="phone item"><span>Phone:</span> +022 887 964 865</span>
-                </div>
-                <ul class="social-links">
-                    <li> <a href="#" class="platform"><i class="fab fa-facebook-f"></i></a></li>
-                    <li> <a href="#" class="platform"><i class="fab fa-pinterest-p"></i></a>
-                    </li>
-                    <li><a href="#" class="platform"><i class="fab fa-linkedin-in"></i></a></li>
-                    <li> <a href="#" class="platform"><i class="fab fa-vimeo-v"></i></a>
-                    </li>
-                </ul>
+            </div>
+            <div class="banner-slider-navigation">
+                <div class="swiper-button-prev nav-btn"><i class="fal
+                            fa-angle-left"></i></div>
+                <div class="swiper-button-next nav-btn"><i class="fal
+                            fa-angle-right"></i></div>
             </div>
         </div>
     </header>
+
+
+    <div class="topics">
+        <div class="container">
+            <div class="topics-inner">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-xl-3">
+                        <div class="action">
+                            <h2 class="topics-title">Today Best
+                                Trending Topics</h2>
+                            <div class="swiper-pagination"></div>
+                        </div>
+                    </div>
+                    <div class="col-xl-9">
+                        <div class="slider-area">
+                            <div class="swiper noGapSlide">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/topics/1.png"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">IT
+                                                    News</h3>
+                                                <p>7 psots</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/topics/2.png"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">Fashion</h3>
+                                                <p>6 psots</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/topics/3.png"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">Technology</h3>
+                                                <p>3 psots</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/topics/4.png"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">Magazine</h3>
+                                                <p>5 psots</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/topics/5.png"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">Sports</h3>
+                                                <p>4 psots</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <!--================= Header Section End Here =================-->
