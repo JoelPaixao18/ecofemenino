@@ -4,14 +4,14 @@
     <div class="rts-trending-section section-gap-2 wow fadeIn" data-wow-duration="1.5s">
         <div class="container">
             <div class="news-topbar news-topbar-2">
-                <h2 class="section-title">Trending News</h2>
+                <h2 class="section-title">Notícias em alta</h2>
                 <div class="wide-border"></div>
                 <div class="filter-buttons">
-                    <div class="filter-btn filter-navigation-btn active" data-show=".technology">Technology</div>
-                    <div class="filter-btn filter-navigation-btn" data-show=".action">Action</div>
-                    <div class="filter-btn filter-navigation-btn" data-show=".racing">Racing</div>
-                    <div class="filter-btn filter-navigation-btn" data-show=".music">Music</div>
-                    <div class="filter-btn filter-navigation-btn" data-show=".itnews">IT News</div>
+                    <div class="filter-btn filter-navigation-btn active" data-show=".technology">Tecnologia</div>
+                    <div class="filter-btn filter-navigation-btn" data-show=".action">Atuação</div>
+                    <div class="filter-btn filter-navigation-btn" data-show=".racing">Corrida</div>
+                    <div class="filter-btn filter-navigation-btn" data-show=".music">Música</div>
+                    <div class="filter-btn filter-navigation-btn" data-show=".itnews">TI</div>
                 </div>
             </div>
             <div class="rts-post-area technology">
@@ -21,7 +21,7 @@
                             <div class="post-picture"><a href="news-details.html"><img
                                         src="assets/user/images/trending/primeiraDama.jfif" alt="main-post-image"></a></div>
                             <div class="contents">
-                                <a href="#0" class="news-catagory-tag-2">Games</a>
+                                <a href="#0" class="news-catagory-tag-2">Política</a>
                                 <div class="post-title"><a href="news-details.html">Primeira dama de angola, 
                                     Ana Dias Lourenço, realizou encontro de trabalho com a sua homóloga da serra leoa,
                                     após eleição como presidente e vice presidente da oaflad.</a></div>
@@ -349,7 +349,7 @@
         <div class="container">
             <div class="col-xl-9">
                 <div class="news-topbar news-topbar-2">
-                    <h2 class="section-title">Latest Updates</h2>
+                    <h2 class="section-title">Novidades</h2>
                     <div class="wide-border"></div>
                     <a href="#0" class="border-btn">View Archive <i class="far fa-long-arrow-right"></i></a>
                 </div>
@@ -485,10 +485,10 @@
 
                             <div class="col-xl-12 col-md-6">
                                 <div class="popular-stories mb--50">
-                                    <h3 class="side-content-title">Popular Stories</h3>
+                                    <h3 class="side-content-title">Histórias Populares</h3>
                                     <div class="rts-post rts-post-small">
                                         <div class="post-picture"><a href="news-details.html"><img
-                                                    src="assets/user/images/popular/1.png" alt="main-post-image"></a></div>
+                                                    src="assets/user/images/trending/evaDiva.jfif" alt="main-post-image"></a></div>
                                         <div class="contents">
                                             <div class="news-catagory-tag">Fashion</div>
                                             <div class="post-title"><a href="news-details.html">Modern
@@ -503,7 +503,7 @@
                                     </div>
                                     <div class="rts-post rts-post-small">
                                         <div class="post-picture"><a href="news-details.html"><img
-                                                    src="assets/user/images/popular/2.png" alt="main-post-image"></a></div>
+                                                    src="assets/user/images/trending/tecno.jfif" alt="main-post-image"></a></div>
                                         <div class="contents">
                                             <div class="news-catagory-tag">Audio
                                                 music</div>
@@ -519,7 +519,7 @@
                                     </div>
                                     <div class="rts-post rts-post-small">
                                         <div class="post-picture"><a href="news-details.html"><img
-                                                    src="assets/user/images/popular/3.png" alt="main-post-image"></a></div>
+                                                    src="assets/user/images/trending/images.jfif" alt="main-post-image"></a></div>
                                         <div class="contents">
                                             <div class="news-catagory-tag">Audio
                                                 music</div>
@@ -535,7 +535,7 @@
                                     </div>
                                     <div class="rts-post rts-post-small">
                                         <div class="post-picture"><a href="news-details.html"><img
-                                                    src="assets/user/images/popular/4.png" alt="main-post-image"></a></div>
+                                                    src="assets/user/images/trending/transferir (2).jfif" alt="main-post-image"></a></div>
                                         <div class="contents">
                                             <div class="news-catagory-tag">Audio
                                                 music</div>
@@ -619,7 +619,7 @@
     <div class="rts-featured_video-section section-bg ptb--60 wow fadeIn" data-wow-duration="1.5s">
         <div class="container">
             <div class="news-topbar news-topbar-2">
-                <h2 class="section-title">Featured Videos</h2>
+                <h2 class="section-title">Vídeos em Destaque</h2>
                 <div class="wide-border"></div>
                 <div class="slider-navigation">
                     <div class="swiper-button-prev navigation-btn"><i class="far fa-chevron-left"></i></div>
@@ -773,11 +773,11 @@
     <div class="rts-news-two-section section-gap-2 wow fadeIn" data-wow-duration="1.5s">
         <div class="container">
             <div class="news-topbar news-topbar-2">
-                <h2 class="section-title">Latest News</h2>
+                <h2 class="section-title">Últimas Notícias</h2>
                 <div class="wide-border"></div>
                 <div class="filter-buttons">
-                    <div class="filter-btn filter-navigation-btn active" data-show=".trendingnews">Trending News</div>
-                    <div class="filter-btn filter-navigation-btn" data-show=".recentsnews">Recents News</div>
+                    <div class="filter-btn filter-navigation-btn active" data-show=".trendingnews">Notícias em destaque</div>
+                    <div class="filter-btn filter-navigation-btn" data-show=".recentsnews">Notícias Recentes</div>
                 </div>
             </div>
             <div class="row">

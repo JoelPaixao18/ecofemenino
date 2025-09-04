@@ -9,9 +9,9 @@
                                 <img class="logo-dark" src="assets/user/images/ecofem1.png"
                                     alt="Barrons24-logo">
                             </div>
-                            <p class="text">When an unknown printer took scrambled it to make specimen book not only
-                                five.</p>
-                            <a href="sign-up.html" class="find-us">Find us here <i
+                            <p class="text">Quando um impressor desconhecido pegou,
+                                 para fazer um livro de amostras, ficou top.</p>
+                            <a href="sign-up.html" class="find-us">Nos encontre aqui <i
                                     class="far fa-long-arrow-right"></i></a>
                             <ul class="social-links">
                                 <li> <a href="#" class="platform platform-2"><i
@@ -27,42 +27,38 @@
                     </div>
                     <div class="col-xl-3 col-md-6 col-sm-6">
                         <div class="footer-widget">
-                            <h3 class="footer-widget-title">Categories</h3>
+                            <h3 class="footer-widget-title">Categorias</h3>
                             <ul class="widget-items cata-widget">
-                                <li class="widget-list-item item-2"><a href="catagory-details.html">Fashion</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details2.html">Design</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details.html">Technology</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details2.html">Robot</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details.html">Racing</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details2.html">Music</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details.html">Travel</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details2.html">Politics</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details.html">Food</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details2.html">Health</a></li>
-                                <li class="widget-list-item item-2"><a href="catagory-details.html">Sports</a></li>
+                                <li class="widget-list-item item-2"><a href="catagory-details.html">Moda</a></li>
+                                <li class="widget-list-item item-2"><a href="catagory-details.html">Tecnologia</a></li>
+                                <li class="widget-list-item item-2"><a href="catagory-details2.html">Cultura</a></li>
+                                <li class="widget-list-item item-2"><a href="catagory-details2.html">Música</a></li>
+                                <li class="widget-list-item item-2"><a href="catagory-details.html">Viagem</a></li>
+                                <li class="widget-list-item item-2"><a href="catagory-details2.html">Política</a></li>
+                                <li class="widget-list-item item-2"><a href="catagory-details.html">Gastronomia</a></li>
+                                <li class="widget-list-item item-2"><a href="catagory-details2.html">Saúde</a></li>
+                                <li class="widget-list-item item-2"><a href="catagory-details.html">Desporto</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6 col-sm-6">
                         <h3 class="footer-widget-title">Entertainment</h3>
                         <ul class="footer-widget">
-                            <li class="widget-list-item item-2"><a href="catagory-details2.html">Celebrity News</a></li>
-                            <li class="widget-list-item item-2"><a href="catagory-details.html">Movies</a></li>
-                            <li class="widget-list-item item-2"><a href="catagory-details2.html">Music News</a></li>
-                            <li class="widget-list-item item-2"><a href="catagory-details.html">TV News</a></li>
-                            <li class="widget-list-item item-2"><a href="catagory-details2.html">Entertainment Video</a></li>
-                            <li class="widget-list-item item-2"><a href="catagory-details.html">Style News</a></li>
+                            <li class="widget-list-item item-2"><a href="catagory-details2.html">Mundo dos Famoso</a></li>
+                            <li class="widget-list-item item-2"><a href="catagory-details.html">Filmes</a></li>
+                            <li class="widget-list-item item-2"><a href="catagory-details2.html">Música</a></li>
+                            <li class="widget-list-item item-2"><a href="catagory-details.html">TV</a></li>
+                            <li class="widget-list-item item-2"><a href="catagory-details2.html">Entretenimento</a></li>
                         </ul>
                     </div>
                     <div class="col-xl-3 col-md-6 col-sm-6">
                         <div class="footer-widget">
-                            <h3 class="footer-widget-title">Recent Posts</h3>
+                            <h3 class="footer-widget-title">Publicações Recentes</h3>
                             <div class="recent-post">
                                 <div class="picture"><a href="news-details.htm"><img src="assets/user/images/footer/1.png"
                                             alt="side-post-image"></a></div>
                                 <div class="content">
-                                    <div class="recent-post-title"><a href="#0">The incident began as an argument
-                                            among.</a>
+                                    <div class="recent-post-title"><a href="#0">Atualmente tenho amado a tecnologia</a>
                                     </div>
                                     <a href="author.html" class="post-author item"><img class="span-icon"
                                             src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
@@ -72,8 +68,7 @@
                                 <div class="picture"><a href="news-details.htm"><img src="assets/user/images/footer/2.png"
                                             alt="side-post-image"></a></div>
                                 <div class="content">
-                                    <div class="recent-post-title"><a href="#0">Peloton denies halting production
-                                            warns.</a>
+                                    <div class="recent-post-title"><a href="#0">A educação tem tido fácil acesso com os dispositivos electrônicos</a>
                                     </div>
                                     <a href="author.html" class="post-author item"><img class="span-icon"
                                             src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>

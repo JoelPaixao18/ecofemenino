@@ -48,27 +48,26 @@
                         <div class="banner-single">
                             <div class="container">
                                 <div class="banner-content">
-                                    <a href="#" class="content-catagory-tag">UX
-                                        Design</a>
+                                    <a href="#" class="content-catagory-tag">Mundo
+                                        Feminino</a>
                                     <div class="contents">
-                                        <div class="content-title"><a href="news-details.html">Mattis
-                                                pellentesque id
-                                                nibh tortor id aliquet
-                                                lectus proin.</a></div>
+                                        <div class="content-title"><a href="news-details.html">Em Angola, 
+                                            o panorama da finança feminina está em 
+                                            transformação</a></div>
                                         <div class="post-bottom-info content-bottom-info mb--25">
                                             <a href="author.html" class="content-author item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">Ashley
-                                                Graham</a>
+                                                    src="assets/user/images/user.svg" alt="user-icon">Mauro
+                                                Oliveira</a>
                                             <span class="content-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">January
+                                                    alt="date-icon">Januário
                                                 16, 2024</span>
                                             <span class="content-comment
                                                     item"><img src="assets/user/images/comment.svg" alt="date-icon">7
-                                                comments</span>
+                                                comentários</span>
                                         </div>
                                     </div>
-                                    <a href="#0" class="border-btn">Read
-                                        More</a>
+                                    <a href="#0" class="border-btn">Ler
+                                        Mais</a>
                                 </div>
                             </div>
                         </div>
@@ -91,8 +90,8 @@
                 <div class="row justify-content-between align-items-center">
                     <div class="col-xl-3">
                         <div class="action">
-                            <h2 class="topics-title">Today Best
-                                Trending Topics</h2>
+                            <h2 class="topics-title">Melhores
+                                Tópicos da Atualidade</h2>
                             <div class="swiper-pagination"></div>
                         </div>
                     </div>
@@ -105,9 +104,9 @@
                                             <div class="topic-picture"><img src="assets/user/images/topics/afro-moda2.jpg"
                                                     alt="topic-picture"></div>
                                             <div class="content">
-                                                <h3 class="item-title">IT
-                                                    News</h3>
-                                                <p>7 psots</p>
+                                                <h3 class="item-title">TI
+                                                    Notícias</h3>
+                                                <p>7 postagens</p>
                                             </div>
                                         </a>
                                     </div>
@@ -116,8 +115,8 @@
                                             <div class="topic-picture"><img src="assets/user/images/topics/2.png"
                                                     alt="topic-picture"></div>
                                             <div class="content">
-                                                <h3 class="item-title">Fashion</h3>
-                                                <p>6 psots</p>
+                                                <h3 class="item-title">Moda</h3>
+                                                <p>6 postagens</p>
                                             </div>
                                         </a>
                                     </div>
@@ -126,8 +125,8 @@
                                             <div class="topic-picture"><img src="assets/user/images/topics/3.png"
                                                     alt="topic-picture"></div>
                                             <div class="content">
-                                                <h3 class="item-title">Technology</h3>
-                                                <p>3 psots</p>
+                                                <h3 class="item-title">Tecnologia</h3>
+                                                <p>3 postagens</p>
                                             </div>
                                         </a>
                                     </div>
@@ -137,7 +136,7 @@
                                                     alt="topic-picture"></div>
                                             <div class="content">
                                                 <h3 class="item-title">Magazine</h3>
-                                                <p>5 psots</p>
+                                                <p>5 postagens</p>
                                             </div>
                                         </a>
                                     </div>
@@ -147,7 +146,7 @@
                                                     alt="topic-picture"></div>
                                             <div class="content">
                                                 <h3 class="item-title">Sports</h3>
-                                                <p>4 psots</p>
+                                                <p>4 postagens</p>
                                             </div>
                                         </a>
                                     </div>
