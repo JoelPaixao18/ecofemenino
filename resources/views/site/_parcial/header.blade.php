@@ -1,6 +1,6 @@
     <!--================= Preloader Section Start Here =================-->
     <div id="rts__preloader">
-        <div class="loader">eco<span>Feminino</span></div>
+        <div class="loader">Eco<span>Feminino</span></div>
     </div>
     <!--================= Preloader End Here =================-->
 
@@ -52,7 +52,7 @@
                                         Feminino</a>
                                     <div class="contents">
                                         <div class="content-title"><a href="news-details.html">A ministra das Finanças, 
-                                            Vera Daves de Sousa e fala sobre gestão da dívida pública.</a></div>
+                                            Vera Daves de Sousa fala sobre gestão da dívida pública.</a></div>
                                         <div class="post-bottom-info content-bottom-info mb--25">
                                             <a href="author.html" class="content-author item"><img
                                                     src="assets/user/images/user.svg" alt="user-icon">Mauro
