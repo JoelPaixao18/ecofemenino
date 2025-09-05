@@ -552,10 +552,9 @@
                                                     src="assets/user/images/trending/evaDiva.jfif"
                                                     alt="main-post-image"></a></div>
                                         <div class="contents">
-                                            <div class="news-catagory-tag">Fashion</div>
-                                            <div class="post-title"><a href="news-details.html">Modern
-                                                    construction latest
-                                                    luxury model</a></div>
+                                            <div class="news-catagory-tag">Moda</div>
+                                            <div class="post-title"><a href="news-details.html">Eva Rap Diva
+                                                exibindo um visual mais formal</a></div>
                                             <div class="post-bottom-info">
                                                 <span class="post-date item"><img class="span-icon"
                                                         src="assets/user/images/date.svg" alt="date-icon">
@@ -568,11 +567,9 @@
                                                     src="assets/user/images/trending/tecno.jfif"
                                                     alt="main-post-image"></a></div>
                                         <div class="contents">
-                                            <div class="news-catagory-tag">Audio
-                                                music</div>
-                                            <div class="post-title"><a href="news-details.html">Modern
-                                                    construction latest
-                                                    luxury model</a></div>
+                                            <div class="news-catagory-tag">Tecnologia</div>
+                                            <div class="post-title"><a href="news-details.html">Explore 
+                                                novos dispositivos eletrônicos</a></div>
                                             <div class="post-bottom-info">
                                                 <span class="post-date item"><img class="span-icon"
                                                         src="assets/user/images/date.svg" alt="date-icon">
@@ -585,11 +582,9 @@
                                                     src="assets/user/images/trending/images.jfif"
                                                     alt="main-post-image"></a></div>
                                         <div class="contents">
-                                            <div class="news-catagory-tag">Audio
-                                                music</div>
-                                            <div class="post-title"><a href="news-details.html">Modern
-                                                    construction latest
-                                                    luxury model</a></div>
+                                            <div class="news-catagory-tag">TI</div>
+                                            <div class="post-title"><a href="news-details.html">Exposição
+                                                de projetos na FITITEL</a></div>
                                             <div class="post-bottom-info">
                                                 <span class="post-date item"><img class="span-icon"
                                                         src="assets/user/images/date.svg" alt="date-icon">
@@ -602,11 +597,9 @@
                                                     src="assets/user/images/trending/transferir (2).jfif"
                                                     alt="main-post-image"></a></div>
                                         <div class="contents">
-                                            <div class="news-catagory-tag">Audio
-                                                music</div>
-                                            <div class="post-title"><a href="news-details.html">Modern
-                                                    construction latest
-                                                    luxury model</a></div>
+                                            <div class="news-catagory-tag">Cultura</div>
+                                            <div class="post-title"><a href="news-details.html">Celebração
+                                                do povo no Moxico</a></div>
                                             <div class="post-bottom-info">
                                                 <span class="post-date item"><img class="span-icon"
                                                         src="assets/user/images/date.svg" alt="date-icon">
@@ -1049,7 +1042,7 @@
                                             alt="date-icon">January
                                         16, 2024</span>
                                 </div>
-                                <a href="#0" class="read-more-btn">Read more</a>
+                                <a href="#0" class="read-more-btn">Ler mais</a>
                             </div>
                         </div>
                     </div>
