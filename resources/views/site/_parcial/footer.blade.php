@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-xl-3 col-md-6 col-sm-6">
                         <div class="footer-widget">
-                            <div class="footer-logo"><img class="logo-default" src="assets/user/images/ecofem1.png" alt="ecofemenino-logo">
+                            <div class="footer-logo"><img class="logo-default" src="assets/user/images/ecofem2.png" alt="ecofemenino-logo">
                                 <img class="logo-dark" src="assets/user/images/ecofem1.png"
                                     alt="Barrons24-logo">
                             </div>

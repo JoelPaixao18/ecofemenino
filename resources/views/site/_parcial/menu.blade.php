@@ -10,16 +10,7 @@
                         <div class="rts-menu rts-menu1 m-0">
                             <nav class="menus menu-toggle">
                                 <ul class="nav__menu">
-                                    <li class="dropdown"><a class="menu-item item-1 item-2 active" href="#">Início</a>
-                                        <ul class="drop scnd-lvl">
-                                            <li class="flyout-right1 flyout"><a class="flyout-link-1"
-                                                    href="index.html">Homepage 1</a></li>
-                                            <li class="flyout-right1 flyout"><a class="flyout-link-1"
-                                                    href="index-two.html">Homepage 2</a></li>
-                                            <li class="flyout-right1 flyout"><a class="flyout-link-1"
-                                                    href="index-three.html">Homepage 3</a></li>
-                                        </ul>
-                                    </li>
+                                    <li class="dropdown"><a class="menu-item item-1 item-2 active" href="#">Início</a></li>
                                     <li class="dropdown"><a class="menu-item item-2" href="#">Sobre Nós</a></li>
                                     <li class="dropdown"><a class="menu-item item-2" href="#">Multimídia</a>
                                         <ul class="dropdown-sub">
@@ -48,7 +39,7 @@
                                                 </ul>
                                             </li>
                                             <li class="flyout-right1 flyout"><a class="flyout-link-1" href="author.html">Eventos</a></li>
-                                            <li class="dropdown"><a class="flyout-link-1" href="team.html">Artigos</a></li>
+                                            <li class="dropdown"><a class="flyout-link-1" href="team.html">Artigos</a>
                                                 <ul class="sub-flyout">
                                                     <li class="flyout1 flyout2"><a class="flyout-sub-link1"
                                                             href="catagory-details.html">Editorial</a>

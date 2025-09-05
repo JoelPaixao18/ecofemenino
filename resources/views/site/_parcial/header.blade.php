@@ -51,9 +51,8 @@
                                     <a href="#" class="content-catagory-tag">Mundo
                                         Feminino</a>
                                     <div class="contents">
-                                        <div class="content-title"><a href="news-details.html">Em Angola, 
-                                            o panorama da finança feminina está em 
-                                            transformação</a></div>
+                                        <div class="content-title"><a href="news-details.html">A ministra das Finanças, 
+                                            Vera Daves de Sousa e fala sobre gestão da dívida pública.</a></div>
                                         <div class="post-bottom-info content-bottom-info mb--25">
                                             <a href="author.html" class="content-author item"><img
                                                     src="assets/user/images/user.svg" alt="user-icon">Mauro
@@ -72,8 +71,43 @@
                             </div>
                         </div>
                     </div>
+
+                        <!-- Slide 2 -->
+                        <div class="swiper-slide">
+                        <div class="banner-single" style="background-image: url('assets/user/images/trending/sport2.webp');">
+                            <div class="container">
+                            <div class="banner-content">
+                                <a href="#" class="content-catagory-tag">Esportes</a>
+                                <div class="contents">
+                                <div class="content-title">
+                                    <a href="news-details.html">Angola vence campeonato regional de basquete.</a>
+                                </div>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+
+                        <!-- Slide 3 -->
+                        <div class="swiper-slide">
+                        <div class="banner-single" style="background-image: url('assets/user/images/trending/primeiraDama.jfif');">
+                            <div class="container">
+                            <div class="banner-content">
+                                <a href="#" class="content-catagory-tag">Política</a>
+                                <div class="contents">
+                                <div class="content-title">
+                                    <a href="news-details.html">Primeira dama de angola,
+                                        Ana Dias Lourenço visita Serra Leoa</a>
+                                </div>
+                                </div>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+
                 </div>
             </div>
+
             <div class="banner-slider-navigation">
                 <div class="swiper-button-prev nav-btn"><i class="fal
                             fa-angle-left"></i></div>
@@ -101,7 +135,7 @@
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide">
                                         <a href="#" class="topic">
-                                            <div class="topic-picture"><img src="assets/user/images/topics/afro-moda2.jpg"
+                                            <div class="topic-picture"><img src="assets/user/images/trending/fititel.webp"
                                                     alt="topic-picture"></div>
                                             <div class="content">
                                                 <h3 class="item-title">TI
@@ -112,7 +146,7 @@
                                     </div>
                                     <div class="swiper-slide">
                                         <a href="#" class="topic">
-                                            <div class="topic-picture"><img src="assets/user/images/topics/2.png"
+                                            <div class="topic-picture"><img src="assets/user/images/topics/afro-moda2.jpg"
                                                     alt="topic-picture"></div>
                                             <div class="content">
                                                 <h3 class="item-title">Moda</h3>
@@ -122,7 +156,7 @@
                                     </div>
                                     <div class="swiper-slide">
                                         <a href="#" class="topic">
-                                            <div class="topic-picture"><img src="assets/user/images/topics/3.png"
+                                            <div class="topic-picture"><img src="assets/user/images/trending/tecno.jfif"
                                                     alt="topic-picture"></div>
                                             <div class="content">
                                                 <h3 class="item-title">Tecnologia</h3>
@@ -132,7 +166,7 @@
                                     </div>
                                     <div class="swiper-slide">
                                         <a href="#" class="topic">
-                                            <div class="topic-picture"><img src="assets/user/images/topics/4.png"
+                                            <div class="topic-picture"><img src="assets/user/images/trending/magazine.jpg"
                                                     alt="topic-picture"></div>
                                             <div class="content">
                                                 <h3 class="item-title">Magazine</h3>
@@ -142,7 +176,7 @@
                                     </div>
                                     <div class="swiper-slide">
                                         <a href="#" class="topic">
-                                            <div class="topic-picture"><img src="assets/user/images/topics/5.png"
+                                            <div class="topic-picture"><img src="assets/user/images/trending/sport.webp"
                                                     alt="topic-picture"></div>
                                             <div class="content">
                                                 <h3 class="item-title">Sports</h3>

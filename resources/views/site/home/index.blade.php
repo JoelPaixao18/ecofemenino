@@ -8,10 +8,10 @@
                 <div class="wide-border"></div>
                 <div class="filter-buttons">
                     <div class="filter-btn filter-navigation-btn active" data-show=".technology">Tecnologia</div>
-                    <div class="filter-btn filter-navigation-btn" data-show=".action">Atuação</div>
-                    <div class="filter-btn filter-navigation-btn" data-show=".racing">Corrida</div>
-                    <div class="filter-btn filter-navigation-btn" data-show=".music">Música</div>
-                    <div class="filter-btn filter-navigation-btn" data-show=".itnews">TI</div>
+                    <div class="filter-btn filter-navigation-btn" data-show=".technology">Atuação</div>
+                    <div class="filter-btn filter-navigation-btn" data-show=".technology">Corrida</div>
+                    <div class="filter-btn filter-navigation-btn" data-show=".technology">Música</div>
+                    <div class="filter-btn filter-navigation-btn" data-show=".technology">TI</div>
                 </div>
             </div>
             <div class="rts-post-area technology">
@@ -695,7 +695,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/videos/5.jpg"
+                            <div class="video-thumbnail"><img src="assets/user/images/trending/fititel.webp"
                                     alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Fashion</a>
@@ -703,7 +703,7 @@
                                 </div>
                             </div>
                             <div class="play-btn play-video"><a class="popup-video"
-                                    href="https://www.youtube.com/watch?v=hJHgxH7VSp4"
+                                    href="https://www.youtube.com/watch?v=hQ41QrQE_iE"
                                     data-effect="mfp-move-horizontal"><img src="assets/user/images/play-btn-2.svg"
                                         alt="play-btn"></a></div>
 
@@ -731,7 +731,7 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/videos/6.jpg"
+                            <div class="video-thumbnail"><img src="assets/user/images/topics/transferir (2).jfif"
                                     alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Fashion</a>
@@ -739,7 +739,7 @@
                                 </div>
                             </div>
                             <div class="play-btn play-video"><a class="popup-video"
-                                    href="https://www.youtube.com/watch?v=hJHgxH7VSp4"
+                                    href="https://www.youtube.com/watch?v=hQ41QrQE_iE"
                                     data-effect="mfp-move-horizontal"><img src="assets/user/images/play-btn-2.svg"
                                         alt="play-btn"></a></div>
 
@@ -766,7 +766,7 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/videos/7.jpg"
+                            <div class="video-thumbnail"><img src="assets/user/images/topics/transferir.jfif"
                                     alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Travel</a>
@@ -774,7 +774,7 @@
                                 </div>
                             </div>
                             <div class="play-btn play-video"><a class="popup-video"
-                                    href="https://www.youtube.com/watch?v=hJHgxH7VSp4"
+                                    href="https://www.youtube.com/watch?v=hQ41QrQE_iE"
                                     data-effect="mfp-move-horizontal"><img src="assets/user/images/play-btn-2.svg"
                                         alt="play-btn"></a></div>
 
@@ -801,7 +801,7 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/videos/8.jpg"
+                            <div class="video-thumbnail"><img src="assets/user/images/topics/transferir (1).jfif"
                                     alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Animal</a>
@@ -809,7 +809,7 @@
                                 </div>
                             </div>
                             <div class="play-btn play-video"><a class="popup-video"
-                                    href="https://www.youtube.com/watch?v=hJHgxH7VSp4"
+                                    href="https://www.youtube.com/watch?v=hQ41QrQE_iE"
                                     data-effect="mfp-move-horizontal"><img src="assets/user/images/play-btn-2.svg"
                                         alt="play-btn"></a></div>
 

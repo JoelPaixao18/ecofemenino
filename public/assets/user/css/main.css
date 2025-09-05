@@ -5463,6 +5463,7 @@ header .header-action-items-2 {
 
 .banner-single {
   width: 100%;
+  height: 100%;
   background-image: url("../images/finance.jfif");
   background-size: cover;
   background-position: center;
@@ -5470,6 +5471,7 @@ header .header-action-items-2 {
   padding: 165px 0;
   position: relative;
 }
+
 .banner-single .banner-content {
   position: relative;
   z-index: 1;
