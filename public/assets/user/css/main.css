@@ -197,8 +197,8 @@
 }
 
 .check-option input:checked + label:before {
-  background: #1D72FF;
-  border: 1px solid #1D72FF;
+  background: #FF1856;
+  border: 1px solid #FF1856;
 }
 
 .noContent {
@@ -294,7 +294,7 @@
 }
 .select-options li:hover, .select-options li.is-selected {
   color: #fff;
-  background: #1399FB;
+  background: #FF1856;
 }
 .select-options li[rel=hide] {
   display: none;
@@ -471,7 +471,7 @@
 .hamburger:hover span,
 .hamburger:hover span:before,
 .hamburger:hover span:after {
-  background: #1D72FF;
+  background: #FF1856;
 }
 
 .mobile-hamburger {
@@ -661,7 +661,7 @@
 }
 .side-mobile-menu ul li a:hover {
   padding-left: 5px;
-  color: #1D72FF;
+  color: #FF1856;
 }
 .side-mobile-menu ul li ul {
   padding-left: 0;
@@ -672,7 +672,7 @@
 }
 .side-mobile-menu ul li ul li:hover > a {
   padding-left: 20px;
-  color: #1D72FF;
+  color: #FF1856;
 }
 .side-mobile-menu ul li ul li a {
   position: relative;
@@ -822,7 +822,7 @@
 }
 
 .firstlvl.mm-active .mm-link {
-  color: #1D72FF;
+  color: #FF1856;
 }
 .firstlvl.mm-active .mm-link::after {
   -webkit-transform: rotate(225deg) !important;
@@ -830,7 +830,7 @@
 }
 
 .thirdlvl.mm-active .mm-link-3 {
-  color: #1D72FF;
+  color: #FF1856;
 }
 .thirdlvl.mm-active .mm-link-3::after {
   -webkit-transform: rotate(225deg) !important;
@@ -838,7 +838,7 @@
 }
 
 .sub-menu a:hover {
-  color: #1D72FF;
+  color: #FF1856;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -1200,7 +1200,7 @@ body {
   font-size: 16px;
 }
 body.bg-1 {
-  background: #EDF0F2;
+  background: white;
 }
 
 *,
@@ -4028,7 +4028,7 @@ header .navbar-inner-4 .header-left .header-action-items-first .search-part-2 .s
   position: relative;
 }
 header .navbar-inner-4 .header-left .header-action-items-first .search-part-2 .search-input-div input:focus {
-  border: 1.5px solid #1399FB;
+  border: 1.5px solid #FF1856;
   border-radius: 30px;
 }
 header .navbar-inner-4 .header-left .header-action-items-first .search-part-2 .search-input-div .search-icon {
@@ -4136,7 +4136,7 @@ header .navbar-inner-4 .header-right .search-part .search-input-area input {
   width: 70%;
   font-size: 15px;
   color: #0e1013;
-  border-bottom: 2px solid #1D72FF;
+  border-bottom: 2px solid #FF1856;
   z-index: 2;
 }
 header .navbar-inner-4 .header-right .search-part .search-input-area .search-close-icon {
@@ -4973,7 +4973,7 @@ header .header-action-items .search-part .search-input-area input {
   width: 70%;
   font-size: 15px;
   color: #0e1013;
-  border-bottom: 2px solid #1D72FF;
+  border-bottom: 2px solid #FF1856;
   z-index: 2;
 }
 header .header-action-items .search-part .search-input-area .search-close-icon {
@@ -5442,6 +5442,19 @@ header .header-action-items-2 {
   width: 70%;
 }
 
+/* Ajusta ícone do submenu */
+.nav__menu li.has-submenu > a i {
+  margin-left: 5px;
+  font-size: 0.8em;
+  transition: transform 0.3s;
+}
+
+/* Rotaciona seta quando abre submenu */
+.nav__menu li.has-submenu:hover > a i {
+  transform: rotate(180deg);
+}
+
+
 /**------------------------------------------------------------------
  * Header End Here
  */
@@ -5464,12 +5477,23 @@ header .header-action-items-2 {
 .banner-single {
   width: 100%;
   height: 100%;
-  background-image: url("../images/finance.jfif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   padding: 165px 0;
   position: relative;
+}
+
+.banner-single1{
+  background-image: url("../images/finance.jfif");
+}
+
+.banner-single2{
+  background-image: url("../images/trending/sport2.webp");
+}
+
+.banner-single3{
+  background-image: url("../images/trending/primeiraDama.jfif");
 }
 
 .banner-single .banner-content {

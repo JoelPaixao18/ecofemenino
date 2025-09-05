@@ -55,7 +55,7 @@
                         <div class="footer-widget">
                             <h3 class="footer-widget-title">Publicações Recentes</h3>
                             <div class="recent-post">
-                                <div class="picture"><a href="news-details.htm"><img src="assets/user/images/footer/1.png"
+                                <div class="picture"><a href="news-details.htm"><img src="assets/user/images/trending/tecno.jfif"
                                             alt="side-post-image"></a></div>
                                 <div class="content">
                                     <div class="recent-post-title"><a href="#0">Atualmente tenho amado a tecnologia</a>
@@ -65,10 +65,10 @@
                                 </div>
                             </div>
                             <div class="recent-post">
-                                <div class="picture"><a href="news-details.htm"><img src="assets/user/images/footer/2.png"
+                                <div class="picture"><a href="news-details.htm"><img src="assets/user/images/trending/transferir.jfif"
                                             alt="side-post-image"></a></div>
                                 <div class="content">
-                                    <div class="recent-post-title"><a href="#0">A educação tem tido fácil acesso com os dispositivos electrônicos</a>
+                                    <div class="recent-post-title"><a href="#0">A educação tem tido fácil acesso</a>
                                     </div>
                                     <a href="author.html" class="post-author item"><img class="span-icon"
                                             src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>

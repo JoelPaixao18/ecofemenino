@@ -45,7 +45,7 @@
             <div class="swiper bannerSlide">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="banner-single">
+                        <div class="banner-single banner-single1">
                             <div class="container">
                                 <div class="banner-content">
                                     <a href="#" class="content-catagory-tag">Mundo
@@ -72,9 +72,9 @@
                         </div>
                     </div>
 
-                        <!-- Slide 2 -->
-                        <div class="swiper-slide">
-                        <div class="banner-single" style="background-image: url('assets/user/images/trending/sport2.webp');">
+                    <!-- Slide 2 -->
+                    <div class="swiper-slide">
+                        <div class="banner-single banner-single2" >
                             <div class="container">
                             <div class="banner-content">
                                 <a href="#" class="content-catagory-tag">Esportes</a>
@@ -86,11 +86,11 @@
                             </div>
                             </div>
                         </div>
-                        </div>
+                    </div>
 
-                        <!-- Slide 3 -->
-                        <div class="swiper-slide">
-                        <div class="banner-single" style="background-image: url('assets/user/images/trending/primeiraDama.jfif');">
+                    <!-- Slide 3 -->
+                    <div class="swiper-slide">
+                        <div class="banner-single banner-single3">
                             <div class="container">
                             <div class="banner-content">
                                 <a href="#" class="content-catagory-tag">Política</a>
@@ -103,7 +103,7 @@
                             </div>
                             </div>
                         </div>
-                        </div>
+                    </div>
 
                 </div>
             </div>
