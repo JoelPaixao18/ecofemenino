@@ -11914,6 +11914,64 @@ header .header-action-items-2 {
       -ms-flex-align: center;
           align-items: center;
 }
+
+.rts-author-profile-area .news-topbar{
+  font-family: 'Playfair Display', serif !important;
+}
+
+.author-profile-picture {
+  width: 65rem !important;
+  margin-left: -2rem !important;
+}
+
+.author-information {
+  width: 35rem !important;
+  margin-top: -10rem !important;
+}
+
+/* Responsivo para tablets */
+@media (max-width: 1024px) {
+  .author-profile-picture {
+    width: 40rem !important;
+    margin: auto !important;
+  }
+  .author-information {
+    width: 25rem !important;
+    margin-top: auto !important;
+  }
+  .wide-border {
+    display: none !important;
+  }
+}
+
+/* Responsivo para celulares grandes */
+@media (max-width: 768px) {
+  .author-profile-picture {
+    width: 25rem !important;
+    margin: auto !important;
+  }
+  .author-information {
+    width: 20rem !important;
+    margin-top: auto !important;
+  }
+}
+
+/* Celulares pequenos */
+@media (max-width: 480px) {
+  .author-profile-picture {
+    width: 20rem !important;
+    margin: auto !important;
+  }
+  .author-information {
+    width: 100% !important; /* ocupa toda a largura disponível */
+    margin-top: auto !important;
+  }
+  .wide-border {
+    display: none !important;
+  }
+}
+
+
 .rts-author-profile-area .author-profile-box .author-profile-picture {
   width: 100%;
   margin-right: 50px;

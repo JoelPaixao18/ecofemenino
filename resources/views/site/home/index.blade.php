@@ -1,5 +1,201 @@
 @extends('site.layout.main')
 @section('content-home')
+    <!--================= Banner Section Start Here =================-->
+    <div class="banner-2">
+        <div class="swiper bannerSlide">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="banner-single banner-single1">
+                        <div class="container">
+                            <div class="banner-content">
+                                <a href="#" class="content-catagory-tag">Mundo
+                                    Feminino</a>
+                                <div class="contents">
+                                    <div class="content-title"><a href="news-details.html">A ministra das Finanças,
+                                            Vera Daves de Sousa fala sobre gestão da dívida pública.</a></div>
+                                    <div class="post-bottom-info content-bottom-info mb--25">
+                                        <a href="author.html" class="content-author item"><img
+                                                src="assets/user/images/user.svg" alt="user-icon">Mauro
+                                            Oliveira</a>
+                                        <span class="content-date item"><img src="assets/user/images/date.svg"
+                                                alt="date-icon">Januário
+                                            16, 2024</span>
+                                        <span
+                                            class="content-comment
+                                                    item"><img
+                                                src="assets/user/images/comment.svg" alt="date-icon">7
+                                            comentários</span>
+                                    </div>
+                                </div>
+                                <a href="#0" class="border-btn">Ler
+                                    Mais</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 2 -->
+                <div class="swiper-slide">
+                    <div class="banner-single banner-single2">
+                        <div class="container">
+                            <div class="banner-content">
+                                <a href="#" class="content-catagory-tag">Esportes</a>
+                                <div class="contents">
+                                    <div class="content-title">
+                                        <a href="news-details.html">Angola vence campeonato regional de basquete.</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Slide 3 -->
+                <div class="swiper-slide">
+                    <div class="banner-single banner-single3">
+                        <div class="container">
+                            <div class="banner-content">
+                                <a href="#" class="content-catagory-tag">Política</a>
+                                <div class="contents">
+                                    <div class="content-title">
+                                        <a href="news-details.html">Primeira dama de angola,
+                                            Ana Dias Lourenço visita Serra Leoa</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="banner-slider-navigation">
+            <div class="swiper-button-prev nav-btn"><i class="fal
+                            fa-angle-left"></i></div>
+            <div class="swiper-button-next nav-btn"><i class="fal
+                            fa-angle-right"></i></div>
+        </div>
+    </div>
+    <!--================= Banner Section End Here =================-->
+
+    <!--================= Topics Section Start Here =================-->
+    <div class="topics">
+        <div class="container">
+            <div class="topics-inner">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-xl-3">
+                        <div class="action">
+                            <h2 class="topics-title">Melhores
+                                Tópicos da Atualidade</h2>
+                            <div class="swiper-pagination"></div>
+                        </div>
+                    </div>
+                    <div class="col-xl-9">
+                        <div class="slider-area">
+                            <div class="swiper noGapSlide">
+                                <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/trending/fititel.webp"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">TI
+                                                    Notícias</h3>
+                                                <p>7 postagens</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/topics/afro-moda2.jpg"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">Moda</h3>
+                                                <p>6 postagens</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/trending/tecno.jfif"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">Tecnologia</h3>
+                                                <p>3 postagens</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/trending/magazine.jpg"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">Magazine</h3>
+                                                <p>5 postagens</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="swiper-slide">
+                                        <a href="#" class="topic">
+                                            <div class="topic-picture"><img src="assets/user/images/trending/sport.webp"
+                                                    alt="topic-picture"></div>
+                                            <div class="content">
+                                                <h3 class="item-title">Sports</h3>
+                                                <p>4 postagens</p>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> <br>
+    </div>
+    <!--================= Topics Section End Here =================-->
+
+    <!--================= Author Profile Section Start Here =================-->
+    <div class="rts-author-profile-area section-gap-2">
+        <div class="container">
+            <div class="news-topbar news-topbar-2">
+                <h2 class="section-title">Autores</h2>
+                <div class="wide-border" style="width: 55rem !important"></div>
+            </div>
+
+            <div class="author-profile-box">
+                <div class="author-profile-picture"><img src="{{ asset('assets/user/images/items/author-picture.jpg') }}"
+                        alt="author-profile-picture">
+                </div>
+
+                <div class="author-information" {{-- style="margin-top: -10rem !important" --}}>
+                    <span class="author-level">Senior Author</span>
+                    <h3 class="author-name mb--20">Floyd Miles</h3>
+                    <p class="mb--50">Non dolorem rerum et accusantium neque sed animi magnam ut nihil ratione qui
+                        perspiciatis harum.
+                        sut quia ratione et quia sunt aut unde maxime aut dolores ducimus! Ea voluptatem omnis est
+                        laborum numquam ut assumenda excepturi ut dolor officia.</p>
+                    <div class="author-achives">
+                        <div class="author-follow">
+                            <span class="follow-title">Follow:</span>
+                            <ul class="social-links">
+                                <li> <a href="#" class="platform"><i class="fab fa-facebook-f"></i></a></li>
+                                <li> <a href="#" class="platform"><i class="fab fa-pinterest-p"></i></a>
+                                </li>
+                                <li><a href="#" class="platform"><i class="fab fa-linkedin-in"></i></a></li>
+                                <li> <a href="#" class="platform"><i class="fab fa-vimeo-v"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="articles-published"><span class="article-value">44</span>Articles Published</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--================= Author Profile Section End Here =================-->
+
     <!--================= Trending Section Start Here =================-->
     <div class="rts-trending-section section-gap-2 wow fadeIn" data-wow-duration="1.5s">
         <div class="container">
@@ -19,7 +215,8 @@
                     <div class="col-xl-8 col-lg-8">
                         <div class="rts-main-post rts-post-2 rts-post-2-large rts-post-2-inside">
                             <div class="post-picture"><a href="news-details.html"><img
-                                        src="assets/user/images/trending/primeiraDama.jfif" alt="main-post-image"></a></div>
+                                        src="assets/user/images/trending/primeiraDama.jfif" alt="main-post-image"></a>
+                            </div>
                             <div class="contents">
                                 <a href="#0" class="news-catagory-tag-2">Política</a>
                                 <div class="post-title"><a href="news-details.html">Primeira dama de angola,
@@ -32,7 +229,8 @@
                                             src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January 16, 2024</span>
-                                    <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
+                                    <span class="post-date item"><img src="assets/user/images/share.svg"
+                                            alt="date-icon">16
                                         Shares</span>
                                 </div>
                             </div>
@@ -389,6 +587,85 @@
     </div>
     <!--================= Trending Section End Here =================-->
 
+    <!--================= Gallery Section Start Here =================-->
+    <div class="rts-gallery-section gallary-page-section pt--40 mb--40">
+        <div class="container">
+            <div class="news-topbar news-topbar-2">
+                <h2 class="section-title">Nossa Equipe</h2>
+                <div class="wide-border" style="width: 55rem !important"></div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-4 col-md-4 col-sm-6">
+                    <div class="gallery-item">
+                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup1.jpg')}}" title="1.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb1.jpg')}}" alt="9.jpg" />
+                        </a>
+                        <div class="contents">
+                            <h5 class="member-role">Seo Expert</h5>
+                            <a href="#" class="member-name">Floyd Miles</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4 col-sm-6">
+                    <div class="gallery-item">
+                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup2.jpg')}}" title="2.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb2.jpg')}}" alt="9.jpg" />
+                        </a>
+                        <div class="contents">
+                            <h5 class="member-role">President of Sales</h5>
+                            <a href="#" class="member-name">Theresa Webb</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4 col-sm-6">
+                    <div class="gallery-item">
+                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup3.jpg')}}" title="3.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb3.jpg')}}" alt="9.jpg" />
+                        </a>
+                        <div class="contents">
+                            <h5 class="member-role">UI/UX Writer</h5>
+                            <a href="#" class="member-name">Cooper, Kristin</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4 col-sm-6">
+                    <div class="gallery-item">
+                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup4.jpg')}}" title="4.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb4.jpg')}}" alt="9.jpg" />
+                        </a>
+                        <div class="contents">
+                            <h5 class="member-role">Art Writer</h5>
+                            <a href="#" class="member-name">Courtney Henry</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4 col-sm-6">
+                    <div class="gallery-item">
+                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup5.jpg')}}" title="5.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb5.jpg')}}" alt="9.jpg" />
+                        </a>
+                        <div class="contents">
+                            <h5 class="member-role">Web Designer</h5>
+                            <a href="#" class="member-name">Marvin McKinney</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-md-4 col-sm-6">
+                    <div class="gallery-item">
+                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup6.jpg')}}" title="6.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb6.jpg')}}" alt="9.jpg" />
+                        </a>
+                        <div class="contents">
+                            <h5 class="member-role">Design Writer</h5>
+                            <a href="#" class="member-name">Guy Hawkins</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--================= Gallery Section End Here =================-->
 
     <!--================= Updates Section Start Here =================-->
     <div class="rts-updates-section section-gap-2 wow fadeIn" data-wow-duration="1.5s">
@@ -554,7 +831,7 @@
                                         <div class="contents">
                                             <div class="news-catagory-tag">Moda</div>
                                             <div class="post-title"><a href="news-details.html">Eva Rap Diva
-                                                exibindo um visual mais formal</a></div>
+                                                    exibindo um visual mais formal</a></div>
                                             <div class="post-bottom-info">
                                                 <span class="post-date item"><img class="span-icon"
                                                         src="assets/user/images/date.svg" alt="date-icon">
@@ -568,8 +845,8 @@
                                                     alt="main-post-image"></a></div>
                                         <div class="contents">
                                             <div class="news-catagory-tag">Tecnologia</div>
-                                            <div class="post-title"><a href="news-details.html">Explore 
-                                                novos dispositivos eletrônicos</a></div>
+                                            <div class="post-title"><a href="news-details.html">Explore
+                                                    novos dispositivos eletrônicos</a></div>
                                             <div class="post-bottom-info">
                                                 <span class="post-date item"><img class="span-icon"
                                                         src="assets/user/images/date.svg" alt="date-icon">
@@ -584,7 +861,7 @@
                                         <div class="contents">
                                             <div class="news-catagory-tag">TI</div>
                                             <div class="post-title"><a href="news-details.html">Exposição
-                                                de projetos na FITITEL</a></div>
+                                                    de projetos na FITITEL</a></div>
                                             <div class="post-bottom-info">
                                                 <span class="post-date item"><img class="span-icon"
                                                         src="assets/user/images/date.svg" alt="date-icon">
@@ -599,7 +876,7 @@
                                         <div class="contents">
                                             <div class="news-catagory-tag">Cultura</div>
                                             <div class="post-title"><a href="news-details.html">Celebração
-                                                do povo no Moxico</a></div>
+                                                    do povo no Moxico</a></div>
                                             <div class="post-bottom-info">
                                                 <span class="post-date item"><img class="span-icon"
                                                         src="assets/user/images/date.svg" alt="date-icon">
@@ -1133,7 +1410,8 @@
                     </div>
                 </div>
                 <div class="col-xl-9">
-                    <a class="view-more-news" href="#0">Read More Stories<i class="far fa-long-arrow-right"></i></a>
+                    <a class="view-more-news" href="#0">Read More Stories<i
+                            class="far fa-long-arrow-right"></i></a>
                 </div>
             </div>
         </div>
@@ -1147,35 +1425,40 @@
             <div class="row">
                 <div class="col-xl-2 col-md-4 col-sm-4 col-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/1.jpg" title="1.jpg">
+                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/1.jpg"
+                            title="1.jpg">
                             <img src="assets/user/images/gallery/1.jpg" alt="9.jpg" />
                         </a>
                     </div>
                 </div>
                 <div class="col-xl-2 col-md-4 col-sm-4 col-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/2.jpg" title="2.jpg">
+                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/2.jpg"
+                            title="2.jpg">
                             <img src="assets/user/images/gallery/2.jpg" alt="9.jpg" />
                         </a>
                     </div>
                 </div>
                 <div class="col-xl-2 col-md-4 col-sm-4 col-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/3.jpg" title="3.jpg">
+                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/3.jpg"
+                            title="3.jpg">
                             <img src="assets/user/images/gallery/3.jpg" alt="9.jpg" />
                         </a>
                     </div>
                 </div>
                 <div class="col-xl-2 col-md-4 col-sm-4 col-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/4.jpg" title="4.jpg">
+                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/4.jpg"
+                            title="4.jpg">
                             <img src="assets/user/images/gallery//4.png" alt="9.jpg" />
                         </a>
                     </div>
                 </div>
                 <div class="col-xl-2 col-md-4 col-sm-4 col-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/5.jpg" title="5.jpg">
+                        <a class="image-popup-vertical-fit" href="assets/user/images/gallery/popup/5.jpg"
+                            title="5.jpg">
                             <img src="assets/user/images/gallery/5.jpg" alt="9.jpg" />
                         </a>
                     </div>
@@ -1193,8 +1476,8 @@
     </div>
 
     <!--
-           Color switcher
-        -->
+                                       Color switcher
+                                    -->
     <div class="modal-sidebar-scroll rts-dark-light">
         <ul>
             <li><span>Dark</span><i class="rts-go-dark fal fa-moon"></i></li>
