@@ -160,22 +160,27 @@
     <div class="rts-author-profile-area section-gap-2">
         <div class="container">
             <div class="news-topbar news-topbar-2">
-                <h2 class="section-title">Autores</h2>
+                <h2 class="section-title">Primeira Dama</h2>
                 <div class="wide-border" style="width: 55rem !important"></div>
             </div>
 
             <div class="author-profile-box">
-                <div class="author-profile-picture"><img src="{{ asset('assets/user/images/items/author-picture.jpg') }}"
+                <div class="author-profile-picture"><img src="{{ asset('assets/user/images/PRIMEIRA-DAMA-DE-ANGOLA-8850-scaled.jpg') }}"
                         alt="author-profile-picture">
                 </div>
 
                 <div class="author-information" {{-- style="margin-top: -10rem !important" --}}>
-                    <span class="author-level">Senior Author</span>
-                    <h3 class="author-name mb--20">Floyd Miles</h3>
-                    <p class="mb--50">Non dolorem rerum et accusantium neque sed animi magnam ut nihil ratione qui
-                        perspiciatis harum.
-                        sut quia ratione et quia sunt aut unde maxime aut dolores ducimus! Ea voluptatem omnis est
-                        laborum numquam ut assumenda excepturi ut dolor officia.</p>
+                    {{-- <span class="author-level">Senior Author</span> --}}
+                    <h2 class="author-name mb--20">Ana Dias Lourenço</h2>
+                    <p class="mb--50">Ana Afonso Dias Lourenço (Luanda, 13 de abril de 1957) é uma economista e política
+                        angolana, primeira-dama de Angola desde 2017 como esposa do presidente João Lourenço e deputada
+                        desde 2008. Ela possui ampla experiência na administração pública, destacando-se em planeamento
+                        económico, investimento e análise de projetos. <br> <br>
+
+                        Desde 2019, participa ativamente em iniciativas internacionais e nacionais, como o Grupo de Mulheres
+                        Líderes pela Igualdade de Género da ONU, a Fundação Ngana Zanza e o Fórum de Parceiros da UNESCO
+                        (Bienal de Luanda). Seu trabalho é voltado para o empoderamento feminino e o desenvolvimento
+                        sustentável, em parceria com figuras como a ativista indiana Licypriya Kangujam.</p>
                     <div class="author-achives">
                         <div class="author-follow">
                             <span class="follow-title">Follow:</span>
@@ -598,8 +603,9 @@
             <div class="row">
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup1.jpg')}}" title="1.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb1.jpg')}}" alt="9.jpg" />
+                        <a class="image-popup-vertical-fit"
+                            href="{{ url('assets/user/images/gallery/popup/popup1.jpg') }}" title="1.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb1.jpg') }}" alt="9.jpg" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Seo Expert</h5>
@@ -609,8 +615,9 @@
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup2.jpg')}}" title="2.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb2.jpg')}}" alt="9.jpg" />
+                        <a class="image-popup-vertical-fit"
+                            href="{{ url('assets/user/images/gallery/popup/popup2.jpg') }}" title="2.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb2.jpg') }}" alt="9.jpg" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">President of Sales</h5>
@@ -620,8 +627,9 @@
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup3.jpg')}}" title="3.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb3.jpg')}}" alt="9.jpg" />
+                        <a class="image-popup-vertical-fit"
+                            href="{{ url('assets/user/images/gallery/popup/popup3.jpg') }}" title="3.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb3.jpg') }}" alt="9.jpg" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">UI/UX Writer</h5>
@@ -631,8 +639,9 @@
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup4.jpg')}}" title="4.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb4.jpg')}}" alt="9.jpg" />
+                        <a class="image-popup-vertical-fit"
+                            href="{{ url('assets/user/images/gallery/popup/popup4.jpg') }}" title="4.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb4.jpg') }}" alt="9.jpg" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Art Writer</h5>
@@ -642,8 +651,9 @@
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup5.jpg')}}" title="5.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb5.jpg')}}" alt="9.jpg" />
+                        <a class="image-popup-vertical-fit"
+                            href="{{ url('assets/user/images/gallery/popup/popup5.jpg') }}" title="5.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb5.jpg') }}" alt="9.jpg" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Web Designer</h5>
@@ -653,8 +663,9 @@
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/popup6.jpg')}}" title="6.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb6.jpg')}}" alt="9.jpg" />
+                        <a class="image-popup-vertical-fit"
+                            href="{{ url('assets/user/images/gallery/popup/popup6.jpg') }}" title="6.jpg">
+                            <img src="{{ url('assets/user/images/gallery/thumb6.jpg') }}" alt="9.jpg" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Design Writer</h5>
@@ -1476,8 +1487,8 @@
     </div>
 
     <!--
-                                       Color switcher
-                                    -->
+                                                   Color switcher
+                                                -->
     <div class="modal-sidebar-scroll rts-dark-light">
         <ul>
             <li><span>Dark</span><i class="rts-go-dark fal fa-moon"></i></li>

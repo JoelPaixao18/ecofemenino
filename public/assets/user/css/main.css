@@ -11924,10 +11924,19 @@ header .header-action-items-2 {
   margin-left: -2rem !important;
 }
 
+/* .author-profile-picture img {
+  width: 45rem !important;
+  height: 50rem !important;
+} */
+
 .author-information {
   width: 35rem !important;
-  margin-top: -10rem !important;
+  margin-top: -1rem !important;
 }
+
+/* .author-information  {
+  font-size: 22px !important;
+} */
 
 /* Responsivo para tablets */
 @media (max-width: 1024px) {
