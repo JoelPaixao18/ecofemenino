@@ -682,6 +682,9 @@
                         </div>
                     </div>
                 </div>
+                <div class="col-xl-6 mx-auto">
+                    <a class="view-more-news" href="#0">Ver Mais<i class="far fa-long-arrow-right"></i></a>
+                </div>
             </div>
         </div>
     </div>
@@ -690,7 +693,7 @@
     <!--================= Updates Section Start Here =================-->
     <div class="rts-updates-section section-gap-2 wow fadeIn" data-wow-duration="1.5s">
         <div class="container">
-            <div class="col-xl-9">
+            <div class="col-xl-">
                 <div class="news-topbar news-topbar-2">
                     <h2 class="section-title">Novidades</h2>
                     <div class="wide-border"></div>
@@ -953,7 +956,7 @@
                     </div>
                 </div>
                 <div class="col-xl-9">
-                    <a class="view-more-news" href="#0">View More News<i class="far fa-long-arrow-right"></i></a>
+                    <a class="view-more-news" href="#0">Ver Mais<i class="far fa-long-arrow-right"></i></a>
                 </div>
             </div>
         </div>
