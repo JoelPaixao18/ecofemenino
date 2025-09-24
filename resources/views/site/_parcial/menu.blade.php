@@ -3,8 +3,8 @@
                 <div class="container">
                     <div class="navbar-inner">
                         <a href="index.html" class="logo">
-                            <img class="logo-default" src="assets/user/images/ecofem1.png" alt="ecofemenino-logo">
-                            <img class="logo-dark" src="assets/user/images/ecofem1.png" alt="Barrons24-logo">
+                            <img class="logo-default" src="assets/user/images/eco1.png" alt="ecofemenino-logo">
+                            <img class="logo-dark" src="assets/user/images/eco1.png" alt="Barrons24-logo">
                         </a>
                         <div class="rts-menu rts-menu1 m-0">
                             <nav class="menus menu-toggle">
@@ -105,7 +105,7 @@
                 <a class="hamburger mobile-hamburger ml--30" href="#"><span></span></a>
                 <div class="offset-widget offset-logo mb-30">
                     <a href="index.html">
-                        <img src="assets/user/images/ecofem1.png" alt="logo">
+                        <img src="assets/user/images/eco1.png" alt="logo">
                     </a>
                 </div>
             </div>

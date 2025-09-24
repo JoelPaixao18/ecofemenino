@@ -165,7 +165,8 @@
             </div>
 
             <div class="author-profile-box">
-                <div class="author-profile-picture"><img src="{{ asset('assets/user/images/PRIMEIRA-DAMA-DE-ANGOLA-8850-scaled.jpg') }}"
+                <div class="author-profile-picture"><img
+                        src="{{ asset('assets/user/images/PRIMEIRA-DAMA-DE-ANGOLA-8850-scaled.jpg') }}"
                         alt="author-profile-picture">
                 </div>
 
@@ -220,23 +221,22 @@
                     <div class="col-xl-8 col-lg-8">
                         <div class="rts-main-post rts-post-2 rts-post-2-large rts-post-2-inside">
                             <div class="post-picture"><a href="news-details.html"><img
-                                        src="assets/user/images/trending/primeiraDama.jfif" alt="main-post-image"></a>
+                                        src="assets/user/images/oma-2.webp" alt="main-post-image"></a>
                             </div>
                             <div class="contents">
                                 <a href="#0" class="news-catagory-tag-2">Política</a>
-                                <div class="post-title"><a href="news-details.html">Primeira dama de angola,
-                                        Ana Dias Lourenço, realizou encontro de trabalho com a sua homóloga da serra leoa,
-                                        após eleição como presidente e vice presidente da oaflad.</a></div>
+                                <div class="post-title"><a href="news-details.html">A Organização da Mulher Angolana (OMA)
+                                        anunciou hoje, em Luanda, a convocação do seu 8.º Congresso Ordinário.</a></div>
                                 <div class="post-bottom-info">
                                     <a href="author.html"
                                         class="post-author
                                             item"><img
                                             src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
-                                            alt="date-icon">January 16, 2024</span>
+                                            alt="date-icon">16 Janeiro, 2025</span>
                                     <span class="post-date item"><img src="assets/user/images/share.svg"
                                             alt="date-icon">16
-                                        Shares</span>
+                                        Partilhas</span>
                                 </div>
                             </div>
                         </div>
@@ -251,16 +251,16 @@
                                                 src="assets/user/images/trending/fititel.webp" alt="main-post-image"></a>
                                     </div>
                                     <div class="contents">
-                                        <a href="#0" class="news-catagory-tag-2">Technology</a>
-                                        <div class="post-title"><a href="news-details.html">Zayn malik returns instagram
-                                                new selfie afterlong hiatus</a></div>
+                                        <a href="#0" class="news-catagory-tag-2">Tecnologia</a>
+                                        <div class="post-title"><a href="news-details.html">Estudantes do ITEL expõe seu
+                                                Projeto no Angotic</a></div>
                                         <div class="post-bottom-info">
                                             <a href="author.html"
                                                 class="post-author
                                                 item"><img
                                                     src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">January 16, 2024</span>
+                                                    alt="date-icon">16 Janeiro, 2025</span>
                                         </div>
                                     </div>
                                 </div>
@@ -273,17 +273,16 @@
                                                 src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image"></a>
                                     </div>
                                     <div class="contents">
-                                        <a href="#0" class="news-catagory-tag-2">IT
-                                            News</a>
-                                        <div class="post-title"><a href="news-details.html">The coach who gave Valieva a
-                                                'chilling' reception</a></div>
+                                        <a href="#0" class="news-catagory-tag-2">Moda</a>
+                                        <div class="post-title"><a href="news-details.html">Georgina De Almeida realiza
+                                                novo desfile de moda</a></div>
                                         <div class="post-bottom-info">
                                             <a href="author.html"
                                                 class="post-author
                                                 item"><img
                                                     src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">January 16, 2024</span>
+                                                    alt="date-icon">16 Setembro, 2025</span>
                                         </div>
                                     </div>
                                 </div>
@@ -299,7 +298,7 @@
                             <div class="post-picture"><a href="news-details.html"><img
                                         src="assets/user/images/trending/1.jpg" alt="main-post-image"></a></div>
                             <div class="contents">
-                                <a href="#0" class="news-catagory-tag-2">Games</a>
+                                <a href="#0" class="news-catagory-tag-2">Jogos</a>
                                 <div class="post-title"><a href="news-details.html">Kanye west
                                         on why he bought house
                                         across from kim kardashian</a></div>
@@ -309,10 +308,10 @@
                                             item"><img
                                             src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
-                                            alt="date-icon">January 16, 2024</span>
+                                            alt="date-icon">16 Setembro, 2025</span>
                                     <span class="post-date item"><img src="assets/user/images/share.svg"
                                             alt="date-icon">16
-                                        Shares</span>
+                                        Partilhas</span>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +325,7 @@
                                     <div class="post-picture"><a href="news-details.html"><img
                                                 src="assets/user/images/trending/3.jpg" alt="main-post-image"></a></div>
                                     <div class="contents">
-                                        <a href="#0" class="news-catagory-tag-2">Technology</a>
+                                        <a href="#0" class="news-catagory-tag-2">Tecnologia</a>
                                         <div class="post-title"><a href="news-details.html">Zayn malik returns instagram
                                                 new selfie afterlong hiatus</a></div>
                                         <div class="post-bottom-info">
@@ -604,72 +603,82 @@
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
-                            href="{{ url('assets/user/images/gallery/popup/popup1.jpg') }}" title="1.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb1.jpg') }}" alt="9.jpg" />
+                            href="{{ url('assets/user/images/gallery/popup/Auria Machado, Rainha dos Porcos.jpg') }}"
+                            style="height: 350px !important" title="1.jpg">
+                            <img src="{{ url('assets/user/images/gallery/Auria Machado, Rainha dos Porcos.jpg') }}"
+                                alt="9.jpg" />
                         </a>
                         <div class="contents">
-                            <h5 class="member-role">Seo Expert</h5>
-                            <a href="#" class="member-name">Floyd Miles</a>
+                            <h5 class="member-role">Rainha dos Porcos</h5>
+                            <a href="#" class="member-name">Auria Machados</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
-                            href="{{ url('assets/user/images/gallery/popup/popup2.jpg') }}" title="2.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb2.jpg') }}" alt="9.jpg" />
+                            href="{{ url('assets/user/images/gallery/popup/Ana Lemos Apresentadora..jpg') }}"
+                            style="height: 350px !important" title="2.jpg">
+                            <img src="{{ url('assets/user/images/gallery/Ana Lemos Apresentadora..jpg') }}"
+                                alt="9.jpg" />
                         </a>
                         <div class="contents">
-                            <h5 class="member-role">President of Sales</h5>
-                            <a href="#" class="member-name">Theresa Webb</a>
+                            <h5 class="member-role">Apresentadora</h5>
+                            <a href="#" class="member-name">Ana Lemos</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
-                            href="{{ url('assets/user/images/gallery/popup/popup3.jpg') }}" title="3.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb3.jpg') }}" alt="9.jpg" />
+                            href="{{ url('assets/user/images/gallery/popup/Yola Semedo Cantora.jpg') }}"
+                            style="height: 350px !important" title="3.jpg">
+                            <img src="{{ url('assets/user/images/gallery/Yola Semedo Cantora.jpg') }}" alt="9.jpg" />
                         </a>
                         <div class="contents">
-                            <h5 class="member-role">UI/UX Writer</h5>
-                            <a href="#" class="member-name">Cooper, Kristin</a>
+                            <h5 class="member-role">Cantora</h5>
+                            <a href="#" class="member-name">Yola Semedo</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
-                            href="{{ url('assets/user/images/gallery/popup/popup4.jpg') }}" title="4.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb4.jpg') }}" alt="9.jpg" />
+                            href="{{ url('assets/user/images/gallery/popup/Silvia Lutucuta Ministra da Saude.jpg') }}"
+                            style="height: 350px !important" title="4.jpg">
+                            <img src="{{ url('assets/user/images/gallery/Silvia Lutucuta Ministra da Saude.jpg') }}"
+                                alt="9.jpg" />
                         </a>
                         <div class="contents">
-                            <h5 class="member-role">Art Writer</h5>
-                            <a href="#" class="member-name">Courtney Henry</a>
+                            <h5 class="member-role">Ministra da Saúde</h5>
+                            <a href="#" class="member-name">Silvia Lutucuta</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
-                            href="{{ url('assets/user/images/gallery/popup/popup5.jpg') }}" title="5.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb5.jpg') }}" alt="9.jpg" />
+                            href="{{ url('assets/user/images/gallery/popup/Leila Lopes Miss.jpg') }}" title="5.jpg">
+                            <img src="{{ url('assets/user/images/gallery/Leila Lopes Miss.jpg') }}"
+                                style="height: 350px !important" alt="9.jpg" />
                         </a>
                         <div class="contents">
-                            <h5 class="member-role">Web Designer</h5>
-                            <a href="#" class="member-name">Marvin McKinney</a>
+                            <h5 class="member-role">Miss</h5>
+                            <a href="#" class="member-name">Leila Lopes</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
-                            href="{{ url('assets/user/images/gallery/popup/popup6.jpg') }}" title="6.jpg">
-                            <img src="{{ url('assets/user/images/gallery/thumb6.jpg') }}" alt="9.jpg" />
+                            href="{{ url('assets/user/images/gallery/popup/Vera Daves Ministra das Financas.jpeg') }}"
+                            title="6.jpg">
+                            <img src="{{ url('assets/user/images/gallery/Vera Daves Ministra das Financas.jpeg') }}"
+                                alt="9.jpg" />
                         </a>
                         <div class="contents">
-                            <h5 class="member-role">Design Writer</h5>
-                            <a href="#" class="member-name">Guy Hawkins</a>
+                            <h5 class="member-role">Ministra das Finanças</h5>
+                            <a href="#" class="member-name">Vera Daves</a>
                         </div>
                     </div>
                 </div>
@@ -1487,8 +1496,8 @@
     </div>
 
     <!--
-                                                   Color switcher
-                                                -->
+                                                                   Color switcher
+                                                                -->
     <div class="modal-sidebar-scroll rts-dark-light">
         <ul>
             <li><span>Dark</span><i class="rts-go-dark fal fa-moon"></i></li>
