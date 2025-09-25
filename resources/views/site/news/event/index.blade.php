@@ -6,7 +6,7 @@
     <div class="rts-lifestyle-section" style="background: #e9ecec;">
         <div class="container">
             <div class="site-map">
-                <h1 class="page-title">Lifestyle</h1>
+                <h1 class="page-title">Eventos</h1>
             </div>
             <div class="fashion-posts-section">
                 <div class="row">

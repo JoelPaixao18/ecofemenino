@@ -221,69 +221,83 @@
                 <div class="row">
                     <div class="col-xl-8 col-lg-8">
                         <div class="rts-main-post rts-post-2 rts-post-2-large rts-post-2-inside">
-                            <div class="post-picture"><a href="news-details.html"><img
-                                        src="assets/user/images/oma-2.webp" alt="main-post-image"></a>
+                            <div class="post-picture">
+                                <a class="image-popup-vertical-fit" href="assets/user/images/oma-2.webp"
+                                    title="<h5>OMA</h5><p>A Organização da Mulher Angolana (OMA) convocou o seu 8.º Congresso Ordinário em Luanda.</p>">
+                                    <img src="assets/user/images/oma-2.webp" alt="main-post-image">
+                                </a>
                             </div>
                             <div class="contents">
                                 <a href="#0" class="news-catagory-tag-2">Política</a>
-                                <div class="post-title"><a href="news-details.html">A Organização da Mulher Angolana (OMA)
-                                        anunciou hoje, em Luanda, a convocação do seu 8.º Congresso Ordinário.</a></div>
+                                <div class="post-title">
+                                    <a href="news-details.html">A Organização da Mulher Angolana (OMA) anunciou hoje, em
+                                        Luanda, a convocação do seu 8.º Congresso Ordinário.</a>
+                                </div>
                                 <div class="post-bottom-info">
-                                    <a href="author.html"
-                                        class="post-author
-                                            item"><img
-                                            src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                    <span class="post-date item"><img src="assets/user/images/date.svg"
-                                            alt="date-icon">16 Janeiro, 2025</span>
-                                    <span class="post-date item"><img src="assets/user/images/share.svg"
-                                            alt="date-icon">16
-                                        Partilhas</span>
+                                    <a href="author.html" class="post-author item">
+                                        <img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham
+                                    </a>
+                                    <span class="post-date item">
+                                        <img src="assets/user/images/date.svg" alt="date-icon">16 Janeiro, 2025
+                                    </span>
+                                    <span class="post-date item">
+                                        <img src="assets/user/images/share.svg" alt="date-icon">16 Partilhas
+                                    </span>
                                 </div>
                             </div>
                         </div>
                     </div>
+
                     <div class="col-xl-4 col-lg-4 col-sm-12">
                         <div class="row">
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div
-                                    class="rts-post-2 rts-post-2-medium
-                                    rts-post-2-inside mb--20">
-                                    <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/fititel.webp" alt="main-post-image"></a>
+                                <div class="rts-post-2 rts-post-2-medium rts-post-2-inside mb--20">
+                                    <div class="post-picture">
+                                        <a class="image-popup-vertical-fit"
+                                            href="assets/user/images/trending/fititel.webp"
+                                            title="<h5>Estudantes do ITEL</h5><p>Apresentaram o seu projeto no Angotic, destacando inovação tecnológica.</p>">
+                                            <img src="assets/user/images/trending/fititel.webp" alt="main-post-image">
+                                        </a>
                                     </div>
                                     <div class="contents">
                                         <a href="#0" class="news-catagory-tag-2">Tecnologia</a>
-                                        <div class="post-title"><a href="news-details.html">Estudantes do ITEL expõe seu
-                                                Projeto no Angotic</a></div>
+                                        <div class="post-title">
+                                            <a href="news-details.html">Estudantes do ITEL expõe seu Projeto no Angotic</a>
+                                        </div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html"
-                                                class="post-author
-                                                item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">Penny Tool</a>
-                                            <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">16 Janeiro, 2025</span>
+                                            <a href="author.html" class="post-author item">
+                                                <img src="assets/user/images/user.svg" alt="user-icon">Penny Tool
+                                            </a>
+                                            <span class="post-date item">
+                                                <img src="assets/user/images/date.svg" alt="date-icon">16 Janeiro, 2025
+                                            </span>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
                             <div class="col-xl-12 col-lg-12 col-md-6 col-sm-12">
-                                <div
-                                    class="rts-post-2 rts-post-2-medium
-                                    rts-post-2-inside">
-                                    <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image"></a>
+                                <div class="rts-post-2 rts-post-2-medium rts-post-2-inside">
+                                    <div class="post-picture">
+                                        <a class="image-popup-vertical-fit"
+                                            href="assets/user/images/trending/afro-moda.jpg"
+                                            title="<h5>Georgina De Almeida</h5><p>Realizou um novo desfile de moda, destacando talento e criatividade no setor.</p>">
+                                            <img src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image">
+                                        </a>
                                     </div>
                                     <div class="contents">
                                         <a href="#0" class="news-catagory-tag-2">Moda</a>
-                                        <div class="post-title"><a href="news-details.html">Georgina De Almeida realiza
-                                                novo desfile de moda</a></div>
+                                        <div class="post-title">
+                                            <a href="news-details.html">Georgina De Almeida realiza novo desfile de
+                                                moda</a>
+                                        </div>
                                         <div class="post-bottom-info">
-                                            <a href="author.html"
-                                                class="post-author
-                                                item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">Hans Down</a>
-                                            <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">16 Setembro, 2025</span>
+                                            <a href="author.html" class="post-author item">
+                                                <img src="assets/user/images/user.svg" alt="user-icon">Hans Down
+                                            </a>
+                                            <span class="post-date item">
+                                                <img src="assets/user/images/date.svg" alt="date-icon">16 Setembro, 2025
+                                            </span>
                                         </div>
                                     </div>
                                 </div>
@@ -603,25 +617,26 @@
             <div class="row">
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
-                        <a class="image-popup-vertical-fit"
-                            href="{{ url('assets/user/images/gallery/popup/Auria Machado, Rainha dos Porcos.jpg') }}"
-                            style="height: 350px !important" title="1.jpg">
-                            <img src="{{ url('assets/user/images/gallery/Auria Machado, Rainha dos Porcos.jpg') }}"
-                                alt="9.jpg" />
+                        <a class="image-popup-vertical-fit" href="{{ url('assets/user/images/gallery/popup/auria.jpg') }}"
+                            style="height: 350px !important"
+                            title="<h5>Auria Machado</h5><p>Conhecida como 'Rainha dos Porcos', personalidade marcante no cenário cultural.</p>">
+                            <img src="{{ url('assets/user/images/gallery/auria.jpg') }}" alt="Auria Machado" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Rainha dos Porcos</h5>
-                            <a href="#" class="member-name">Auria Machados</a>
+                            <a href="#" class="member-name">Auria Machado</a>
                         </div>
                     </div>
                 </div>
+
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
                             href="{{ url('assets/user/images/gallery/popup/Ana Lemos Apresentadora..jpg') }}"
-                            style="height: 350px !important" title="2.jpg">
+                            style="height: 350px !important"
+                            title="<h5>Ana Lemos</h5><p>Apresentadora reconhecida pela sua presença em programas televisivos.</p>">
                             <img src="{{ url('assets/user/images/gallery/Ana Lemos Apresentadora..jpg') }}"
-                                alt="9.jpg" />
+                                alt="Ana Lemos" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Apresentadora</h5>
@@ -629,12 +644,15 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
                             href="{{ url('assets/user/images/gallery/popup/Yola Semedo Cantora.jpg') }}"
-                            style="height: 350px !important" title="3.jpg">
-                            <img src="{{ url('assets/user/images/gallery/Yola Semedo Cantora.jpg') }}" alt="9.jpg" />
+                            style="height: 350px !important"
+                            title="<h5>Yola Semedo</h5><p>Cantora angolana, ícone da música romântica e semba contemporâneo.</p>">
+                            <img src="{{ url('assets/user/images/gallery/Yola Semedo Cantora.jpg') }}"
+                                alt="Yola Semedo" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Cantora</h5>
@@ -642,13 +660,15 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
                             href="{{ url('assets/user/images/gallery/popup/Silvia Lutucuta Ministra da Saude.jpg') }}"
-                            style="height: 350px !important" title="4.jpg">
+                            style="height: 350px !important"
+                            title="<h5>Silvia Lutucuta</h5><p>Ministra da Saúde de Angola desde 2017. Médica cardiologista e professora universitária.</p>">
                             <img src="{{ url('assets/user/images/gallery/Silvia Lutucuta Ministra da Saude.jpg') }}"
-                                alt="9.jpg" />
+                                alt="Silvia Lutucuta" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Ministra da Saúde</h5>
@@ -656,12 +676,14 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
-                            href="{{ url('assets/user/images/gallery/popup/Leila Lopes Miss.jpg') }}" title="5.jpg">
-                            <img src="{{ url('assets/user/images/gallery/Leila Lopes Miss.jpg') }}"
-                                style="height: 350px !important" alt="9.jpg" />
+                            href="{{ url('assets/user/images/gallery/popup/Leila Lopes Miss.jpg') }}"
+                            style="height: 350px !important"
+                            title="<h5>Leila Lopes</h5><p>Miss Universo 2011, referência da beleza angolana a nível internacional.</p>">
+                            <img src="{{ url('assets/user/images/gallery/Leila Lopes Miss.jpg') }}" alt="Leila Lopes" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Miss</h5>
@@ -669,13 +691,15 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-xl-4 col-md-4 col-sm-6">
                     <div class="gallery-item">
                         <a class="image-popup-vertical-fit"
                             href="{{ url('assets/user/images/gallery/popup/Vera Daves Ministra das Financas.jpeg') }}"
-                            title="6.jpg">
+                            style="height: 350px !important"
+                            title="<h5>Vera Daves</h5><p>Ministra das Finanças de Angola, primeira mulher a assumir a pasta.</p>">
                             <img src="{{ url('assets/user/images/gallery/Vera Daves Ministra das Financas.jpeg') }}"
-                                alt="9.jpg" />
+                                alt="Vera Daves" />
                         </a>
                         <div class="contents">
                             <h5 class="member-role">Ministra das Finanças</h5>
@@ -683,11 +707,14 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-xl-6 mx-auto">
-                    <a class="view-more-news" href="{{ route('site.news.profile') }}">Ver Mais<i
-                            class="far fa-long-arrow-right"></i></a>
+                    <a class="view-more-news" href="{{ route('site.news.profile') }}">
+                        Ver Mais<i class="far fa-long-arrow-right"></i>
+                    </a>
                 </div>
             </div>
+
         </div>
     </div>
     <!--================= Gallery Section End Here =================-->
@@ -705,22 +732,28 @@
             <div class="row">
                 <div class="col-xl-5 col-md-7">
                     <div class="rts-post-2 mb--30">
-                        <div class="post-picture"><a href="news-details.html"><img
-                                    src="assets/user/images/trending/afro-moda2.jpg" alt="main-post-image"></a></div>
+                        <div class="post-picture">
+                            <a class="image-popup-vertical-fit" href="assets/user/images/trending/afro-moda2.jpg"
+                                title="<h5>Lesliana Pereira</h5><p>A modelo surpreendeu os fãs ao explicar que a produção não foi apenas uma escolha estética, mas também uma forma de transmitir confiança e autenticidade no tapete vermelho.</p>">
+                                <img src="assets/user/images/trending/afro-moda2.jpg" alt="main-post-image">
+                            </a>
+                        </div>
                         <div class="contents">
                             <a href="#0" class="news-catagory-tag-2">Fotografia</a>
-                            <div class="post-title"><a href="news-details.html">Lesliana Pereira revela o motivo por trás
-                                    da
-                                    sua volta triunfal às passarelas.</a></div>
+                            <div class="post-title">
+                                <a href="news-details.html">Lesliana Pereira revela o motivo por trás da sua volta triunfal
+                                    às passarelas.</a>
+                            </div>
                             <div class="post-bottom-info">
-                                <a href="author.html"
-                                    class="post-author
-                                        item"><img
-                                        src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                <span class="post-date item"><img src="assets/user/images/date.svg" alt="date-icon">16 de
-                                    Setembro, 2025</span>
-                                <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
-                                    Partilhas</span>
+                                <a href="author.html" class="post-author item">
+                                    <img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham
+                                </a>
+                                <span class="post-date item">
+                                    <img src="assets/user/images/date.svg" alt="date-icon">16 de Setembro, 2025
+                                </span>
+                                <span class="post-date item">
+                                    <img src="assets/user/images/share.svg" alt="share-icon">16 Partilhas
+                                </span>
                             </div>
                             <p>A modelo surpreendeu os fãs ao explicar que a produção não foi apenas uma escolha estética,
                                 mas também uma forma de transmitir confiança e autenticidade no tapete vermelho.</p>
@@ -728,22 +761,28 @@
                         </div>
                     </div>
                     <div class="rts-post-2 mb--30">
-                        <div class="post-picture"><a href="news-details.html"><img
-                                    src="assets/user/images/trending/neurolideranca.jpg" alt="main-post-image"></a>
+                        <div class="post-picture">
+                            <a class="image-popup-vertical-fit" href="assets/user/images/trending/neurolideranca.jpg"
+                                title="<h5>Programa de Neuroliderança</h5><p>A PWN Luanda abriu inscrições para a 2.ª edição do Programa de Neuroliderança, que decorrerá durante dois meses a partir de setembro. Destinado a profissionais com experiência mínima de dois anos a liderar equipas, o programa visa desenvolver competências de liderança baseadas nos avanços da neurociência, ajudando gestores a equilibrar razão e emoção, comunicar de forma clara e inspirar as suas equipas em contextos de elevada pressão.</p>">
+                                <img src="assets/user/images/trending/neurolideranca.jpg" alt="main-post-image">
+                            </a>
                         </div>
                         <div class="contents">
                             <a href="#0" class="news-catagory-tag-2">Fotografia</a>
-                            <div class="post-title"><a href="news-details.html">Programa de Neuroliderança regressa a
-                                    Luanda para capacitar líderes</a></div>
+                            <div class="post-title">
+                                <a href="news-details.html">Programa de Neuroliderança regressa a Luanda para capacitar
+                                    líderes</a>
+                            </div>
                             <div class="post-bottom-info">
-                                <a href="author.html"
-                                    class="post-author
-                                        item"><img
-                                        src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                <span class="post-date item"><img src="assets/user/images/date.svg" alt="date-icon">16 de
-                                    Setembro, 2025</span>
-                                <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
-                                    Partilhas</span>
+                                <a href="author.html" class="post-author item">
+                                    <img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham
+                                </a>
+                                <span class="post-date item">
+                                    <img src="assets/user/images/date.svg" alt="date-icon">16 de Setembro, 2025
+                                </span>
+                                <span class="post-date item">
+                                    <img src="assets/user/images/share.svg" alt="share-icon">16 Partilhas
+                                </span>
                             </div>
                             <p>A PWN Luanda abriu inscrições para a 2.ª edição do Programa de Neuroliderança, que decorrerá
                                 durante dois meses a partir de setembro. Destinado a profissionais com experiência mínima de
@@ -755,88 +794,67 @@
                     </div>
 
 
-                    {{-- <div class="rts-post-2 mb--30">
-                        <div class="post-picture"><a href="news-details.html"><img
-                                    src="assets/user/images/trending/jaqueline.png" alt="main-post-image"></a>
-                        </div>
-                        <div class="contents">
-                            <a href="#0" class="news-catagory-tag-2">Fotografia</a>
-                            <div class="post-title"><a href="news-details.html">Jaqueline Ngulo e a transformação
-                                    a Women in Tech Angola em motor de mudança.</a></div>
-                            <div class="post-bottom-info">
-                                <a href="author.html"
-                                    class="post-author
-                                        item"><img
-                                        src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                <span class="post-date item"><img src="assets/user/images/date.svg" alt="date-icon">16 de
-                                    Setembro, 2025</span>
-                                <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
-                                    Partilhas</span>
-                            </div>
-                            <p> Jaqueline Ngulo recentemente assumiu a direção da <b> Women in Tech Angola</b>, capítulo
-                                nacional
-                                da maior organização mundial dedicada a reduzir a desigualdade de género na tecnologia. Ela
-                                diz: <b> “Sou
-                                    uma mulher que teve de recomeçar, de me reinventar, de despertar para diferentes facetas
-                                    da
-                                    vida."</b></p>
-                            <a href="#0" class="read-more-btn">Ler Mais</a>
-                        </div>
-                    </div> --}}
                 </div>
                 <div class="col-xl-4 col-md-5 col-sm-12">
                     <div class="row">
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-6">
                             <div class="rts-post-2 rts-post-medium rts-post-2-medium mb--30">
-                                <div class="post-picture"><a href="news-details.html"><img
-                                            src="assets/user/images/trending/evaDiva.jfif" alt="main-post-image"></a>
+                                <div class="post-picture">
+                                    <a class="image-popup-vertical-fit" href="assets/user/images/trending/evaDiva.jfif"
+                                        title="<h5>Eva Rap Diva</h5><p>Eva Rap Diva, é candidata a deputada à Assembleia da República Portuguesa, pelo Partido Socialista (PS). O nome da artista surge na oitava posição da lista, o que a torna elegível para um assento no Parlamento.</p>">
+                                        <img src="assets/user/images/trending/evaDiva.jfif" alt="main-post-image">
+                                    </a>
                                 </div>
                                 <div class="contents">
                                     <a href="#0" class="news-catagory-tag-2">Fotografia</a>
-                                    <div class="post-title"><a href="news-details.html">Eva Rap Diva se firmando no mundo
-                                            empresarial.</a></div>
+                                    <div class="post-title">
+                                        <a href="news-details.html">Eva Rap Diva se firmando no mundo empresarial.</a>
+                                    </div>
                                     <div class="post-bottom-info">
-                                        <a href="author.html"
-                                            class="post-author
-                                                item"><img
-                                                src="assets/user/images/user.svg" alt="user-icon">Ashley
-                                            Graham</a>
-                                        <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                alt="date-icon">16 de Setembro, 2025</span>
-                                        <span class="post-date item"><img src="assets/user/images/share.svg"
-                                                alt="date-icon">16
-                                            Partilhas</span>
+                                        <a href="author.html" class="post-author item">
+                                            <img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham
+                                        </a>
+                                        <span class="post-date item">
+                                            <img src="assets/user/images/date.svg" alt="date-icon">16 de Setembro, 2025
+                                        </span>
+                                        <span class="post-date item">
+                                            <img src="assets/user/images/share.svg" alt="share-icon">16 Partilhas
+                                        </span>
                                     </div>
                                     <p>Eva Rapdiva, é candidata a deputada à Assembleia da República Portuguesa, pelo
-                                        Partido
-                                        Socialista (PS). O nome da artista surge na oitava posição da lista, o que a torna
-                                        elegível
-                                        para um assento no Parlamento.</p>
+                                        Partido Socialista (PS). O nome da artista surge na oitava posição da lista, o que a
+                                        torna
+                                        elegível para um assento no Parlamento.</p>
                                     <a href="#0" class="read-more-btn">Ler Mais</a>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-6">
                             <div class="rts-post-2 rts-post-medium rts-post-2-medium">
-                                <div class="post-picture"><a href="news-details.html"><img
-                                            src="assets/user/images/trending/orange_girl.jfif" alt="main-post-image"></a>
+                                <div class="post-picture">
+                                    <a class="image-popup-vertical-fit"
+                                        href="assets/user/images/trending/orange_girl.jfif"
+                                        title="<h5>Leila Lopes</h5><p>Leila Lopes é uma angolana que conquistou o título de Miss Universo em 2011, tornando-se a primeira angolana a alcançar essa distinção.</p>">
+                                        <img src="assets/user/images/trending/orange_girl.jfif" alt="main-post-image">
+                                    </a>
                                 </div>
                                 <div class="contents">
                                     <a href="#0" class="news-catagory-tag-2">Fotografia</a>
-                                    <div class="post-title"><a href="news-details.html"> Leila Lopes fala sobre como se
-                                            tornou a Miss Universo em 2011.
-                                        </a></div>
+                                    <div class="post-title">
+                                        <a href="news-details.html">Leila Lopes fala sobre como se tornou a Miss Universo
+                                            em 2011.</a>
+                                    </div>
                                     <div class="post-bottom-info">
-                                        <a href="author.html"
-                                            class="post-author
-                                                item"><img
-                                                src="assets/user/images/user.svg" alt="user-icon">Ashley
-                                            Graham</a>
-                                        <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                alt="date-icon">16 de Setembro, 2025</span>
-                                        <span class="post-date item"><img src="assets/user/images/share.svg"
-                                                alt="date-icon">16
-                                            Partilhas</span>
+                                        <a href="author.html" class="post-author item">
+                                            <img src="assets/user/images/user.svg" alt="user-icon">Ashley Graham
+                                        </a>
+                                        <span class="post-date item">
+                                            <img src="assets/user/images/date.svg" alt="date-icon">16 de Setembro, 2025
+                                        </span>
+                                        <span class="post-date item">
+                                            <img src="assets/user/images/share.svg" alt="share-icon">16 Partilhas
+                                        </span>
                                     </div>
                                     <p>Leila Lopes é uma angolana que conquistou o título de Miss Universo em 2011,
                                         tornando-se a primeira angolana a alcançar essa distinção.</p>
@@ -844,6 +862,7 @@
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
                 <div class="col-xl-3">
@@ -967,16 +986,6 @@
         </div>
     </div>
     <!--================= Updates Section End Here =================-->
-
-
-    {{-- <!--================= Ad Section Start Here =================-->
-        <div class="rts-ad-section wow fadeIn" data-wow-duration="1.5s">
-            <div class="container">
-                <div class="ad"><img src="assets/user/images/items/ad-banner1.png" alt="ad-banner"></div>
-            </div>
-        </div>
-        <!--================= Ad Section End Here =================-->
-    --}}
 
 
     <!--================= Featured video Section Start Here =================-->
@@ -1164,107 +1173,126 @@
                         <div class="row">
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
-                                    <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/jaqueline.png" alt="main-post-image"></a>
+                                    <div class="post-picture">
+                                        <a class="image-popup-vertical-fit"
+                                            href="assets/user/images/trending/jaqueline.png"
+                                            title="<h5>Jaqueline Ngulo</h5><p>Jaqueline Ngulo recentemente assumiu a direção da Women in Tech Angola, capítulo nacional da maior organização mundial dedicada a reduzir a desigualdade de género na tecnologia.</p>">
+                                            <img src="assets/user/images/trending/jaqueline.png" alt="main-post-image">
+                                        </a>
                                     </div>
                                     <div class="contents">
-                                        <div class="post-title"><a href="news-details.html">Jaqueline Ngulo e a
-                                                transformação da Women in Tech</a></div>
-                                        <p>Jaqueline Ngulo recentemente assumiu a direção da <b> Women in Tech Angola</b>,
-                                            capítulo nacional da maior organização mundial dedicada a reduzir a desigualdade de género na
-                                            tecnologia.</p>
+                                        <div class="post-title">
+                                            <a href="news-details.html">Jaqueline Ngulo e a transformação da Women in
+                                                Tech</a>
+                                        </div>
+                                        <p>Jaqueline Ngulo recentemente assumiu a direção da <b>Women in Tech Angola</b>,
+                                            capítulo nacional da maior organização mundial dedicada a reduzir a desigualdade
+                                            de género na tecnologia.</p>
                                         <div class="post-bottom-info">
-                                            <a href="author.html"
-                                                class="post-author
-                                                            item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">Por
-                                                Jenny
-                                                Wilson</a>
-                                            <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">16 de Setembro, 2025</span>
+                                            <a href="author.html" class="post-author item">
+                                                <img src="assets/user/images/user.svg" alt="user-icon">Por Jenny Wilson
+                                            </a>
+                                            <span class="post-date item">
+                                                <img src="assets/user/images/date.svg" alt="date-icon">16 de Setembro,
+                                                2025
+                                            </span>
                                         </div>
                                         <a href="#0" class="read-more-btn">Ler Mais</a>
                                     </div>
                                 </div>
                             </div>
+
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
-                                    <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/afro-moda.jpg" alt="main-post-image"></a>
+                                    <div class="post-picture">
+                                        <a class="image-popup-vertical-fit" href="assets/user/images/planeamento.jpg"
+                                            title="<h5>Planeamento familiar</h5><p>Apesar do avanço das instituições de saúde em infra-estrutura e capacidade técnica, o acesso e a adesão ao planeamento familiar em Angola continuam a ser limitados.</p>">
+                                            <img src="assets/user/images/planeamento.jpg" alt="main-post-image">
+                                        </a>
                                     </div>
                                     <div class="contents">
-                                        <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
-                                                Every
-                                                Freelancer Should Know</a></div>
-                                        <p>Tenetur culpa, senectus inceptos porttitor dictumst animi at? Laoreet
-                                            sagittis
-                                            bibendum quisque turpis placerat.</p>
+                                        <div class="post-title">
+                                            <a href="news-details.html">Planeamento familiar: uma necessidade de saúde
+                                                feminina em Angola</a>
+                                        </div>
+                                        <p>Apesar do avanço das instituições de saúde em infra-estrutura e capacidade
+                                            técnica, o acesso e a adesão ao planeamento familiar em Angola, continuam a ser
+                                            limitados.</p>
                                         <div class="post-bottom-info">
-                                            <a href="author.html"
-                                                class="post-author
-                                                            item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">Por
-                                                Jenny
-                                                Wilson</a>
-                                            <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">16 de Setembro, 2025</span>
+                                            <a href="author.html" class="post-author item">
+                                                <img src="assets/user/images/user.svg" alt="user-icon">Por Jenny Wilson
+                                            </a>
+                                            <span class="post-date item">
+                                                <img src="assets/user/images/date.svg" alt="date-icon">16 de Setembro,
+                                                2025
+                                            </span>
                                         </div>
                                         <a href="#0" class="read-more-btn">Ler Mais</a>
                                     </div>
                                 </div>
                             </div>
+
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
-                                    <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/primeiraDama.jfif"
-                                                alt="main-post-image"></a></div>
+                                    <div class="post-picture">
+                                        <a class="image-popup-vertical-fit"
+                                            href="assets/user/images/trending/primeiraDama.jfif"
+                                            title="<h5>Ana Dias Lourenço</h5><p>Vice-Presidente da Organização das Primeiras Damas Africanas para o Desenvolvimento (OAFLAD). Demonstra o compromisso de Angola com o desenvolvimento humano e as causas sociais no continente.</p>">
+                                            <img src="assets/user/images/trending/primeiraDama.jfif"
+                                                alt="main-post-image">
+                                        </a>
+                                    </div>
                                     <div class="contents">
-                                        <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
-                                                Every
-                                                Freelancer Should Know</a></div>
-                                        <p>Tenetur culpa, senectus inceptos porttitor dictumst animi at? Laoreet
-                                            sagittis
-                                            bibendum quisque turpis placerat.</p>
+                                        <div class="post-title">
+                                            <a href="news-details.html">Vice-Presidente da Organização das Primeiras Damas
+                                                Africanas para o Desenvolvimento (OAFLAD)</a>
+                                        </div>
+                                        <p>Ana Dias Lourenço demonstra o compromisso de Angola com o desenvolvimento humano
+                                            e as causas sociais no continente. </p>
                                         <div class="post-bottom-info">
-                                            <a href="author.html"
-                                                class="post-author
-                                                            item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">Por
-                                                Jenny
-                                                Wilson</a>
-                                            <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">16 de Setembro, 2025</span>
+                                            <a href="author.html" class="post-author item">
+                                                <img src="assets/user/images/user.svg" alt="user-icon">Por Jenny Wilson
+                                            </a>
+                                            <span class="post-date item">
+                                                <img src="assets/user/images/date.svg" alt="date-icon">16 de Setembro,
+                                                2025
+                                            </span>
                                         </div>
                                         <a href="#0" class="read-more-btn">Ler Mais</a>
                                     </div>
                                 </div>
                             </div>
+
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide">
-                                    <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/bodiva.jfif" alt="main-post-image"></a>
+                                    <div class="post-picture">
+                                        <a class="image-popup-vertical-fit"
+                                            href="assets/user/images/trending/bodiva.jfif"
+                                            title="<h5>FILDA 2025</h5><p>Negociações na BODIVA atingem montantes record em Junho, movimentando 394 mil milhões de kwanzas.</p>">
+                                            <img src="assets/user/images/trending/bodiva.jfif" alt="main-post-image">
+                                        </a>
                                     </div>
                                     <div class="contents">
-                                        <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
-                                                Every
-                                                Freelancer Should Know</a></div>
-                                        <p>Tenetur culpa, senectus inceptos porttitor dictumst animi at? Laoreet
-                                            sagittis
-                                            bibendum quisque turpis placerat.</p>
+                                        <div class="post-title">
+                                            <a href="news-details.html">FILDA 2025: Negociações na BODIVA atingem
+                                                montantes record em Junho</a>
+                                        </div>
+                                        <p>A Bolsa de Dívida e Valores de Angola (BODIVA) fechou o primeiro semestre deste
+                                            ano negociando somente em Junho 394 mil milhões de kwanzas (Kz).</p>
                                         <div class="post-bottom-info">
-                                            <a href="author.html"
-                                                class="post-author
-                                                            item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">Por
-                                                Jenny
-                                                Wilson</a>
-                                            <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">16 de Setembro, 2025</span>
+                                            <a href="author.html" class="post-author item">
+                                                <img src="assets/user/images/user.svg" alt="user-icon">Por Jenny Wilson
+                                            </a>
+                                            <span class="post-date item">
+                                                <img src="assets/user/images/date.svg" alt="date-icon">16 de Setembro,
+                                                2025
+                                            </span>
                                         </div>
                                         <a href="#0" class="read-more-btn">Ler Mais</a>
                                     </div>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                     <div class="rts-post-area recentsnews hide">
@@ -1514,4 +1542,5 @@
             <li><span>Light</span><i class="rts-go-light far fa-sun"></i></li>
         </ul>
     </div>
+
 @endsection

@@ -12,7 +12,7 @@
 
             <div class="author-profile-box" style="background: #e9ecef !important;">
                 <div class="author-profile-picture"><img style="height: 40rem"
-                        src="{{ asset('assets/user/images/vice.jpeg') }}" alt="author-profile-picture">
+                        src="{{ asset('assets/user/images/vice.jpg') }}" alt="author-profile-picture">
                 </div>
 
                 <div class="author-information" {{-- style="margin-top: -10rem !important" --}}>
@@ -51,151 +51,151 @@
     <div class="rts-featured_video-section section-bg ptb--60 wow fadeIn" id="debate-femenino" data-wow-duration="1.5s">
         <div class="container">
             <div class="news-topbar news-topbar-2">
-                <h2 class="section-title">Debate Femenino</h2>
+                <h2 class="section-title">Debate Feminino</h2>
                 <div class="wide-border" style="background: #a09797 !important;"></div>
                 <div class="slider-navigation">
                     <div class="swiper-button-prev navigation-btn"><i class="far fa-chevron-left"></i></div>
                     <div class="swiper-button-next navigation-btn"><i class="far fa-chevron-right"></i></div>
                 </div>
             </div>
-            <div class="swiper rts-cmmnSlider">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="{{ url('assets/user/images/trending/fititel.webp') }}"
-                                    alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
-                                </div>
-                            </div>
-                            
 
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
+            <!--================= Read Section Start Here =================-->
+            <div class="rts-read-section1 section-gap-2 wow fadeIn" data-wow-duration="1.5s">
+                <div class="container">
+                    <div class="row no-gutters3">
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+
+                                    <!-- Aqui: link da imagem com popup -->
+                                    <a href="{{ url('assets/user/images/more/image1.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">
+                                        <img src="{{ url('assets/user/images/more/image1.png') }}" alt="main-post-image">
+                                    </a>
+
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">FASHION</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image1.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">Postpones
+                                                    tour after
+                                                    syndrome leaves</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Alan Fresco</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April 03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <a href="#0" class="card-title">The 3
-                                    Beauty Trends That Are Taking Over
-                                    London Right
-                                    Now.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">16
-                                    Partilhas</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img
-                                    src="{{ url('assets/user/images/topics/transferir (2).jfif') }}" alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
-                                    <a href="#0" class="video-tag red-tag">História de Vida</a>
-                                </div>
-                            </div>
-                            
 
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+                                    <a href="{{ url('assets/user/images/more/image2.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>"><img
+                                            src="{{ url('assets/user/images/more/image2.png') }}" alt="main-post-image"></a>
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">MUSIC</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image2.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">With
+                                                    ‘Jurassic World’
+                                                    ending,
+                                                    Bryce Dallas</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Barry Tone</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April
+                                                        03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <a href="#0" class="card-title">The body organism sustain growth and vital processes
-                                    and
-                                    to furnish energy.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="heart-icon">10</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="share-icon">6</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">10
-                                    Partilhas</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img
-                                    src="{{ url('assets/user/images/topics/transferir.jfif') }}" alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Economia</a>
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+                                    <a href="{{ url('assets/user/images/more/image3.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>"><img
+                                            src="{{ url('assets/user/images/more/image3.png') }}"
+                                            alt="main-post-image"></a>
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">LIFESTYLE</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image3.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">‘The
+                                                    Bachelor’ made a
+                                                    ‘sideshow’</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Hilari Ouse</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April
+                                                        03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                            
-
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
-                                </div>
-                                <a href="#0" class="card-title">Economia agencies are a need of every country and a
-                                    medium
-                                    of Economiaing.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">16
-                                    Partilhas</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img
-                                    src="{{ url('assets/user/images/topics/transferir (1).jfif') }}"
-                                    alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Política</a>
-                                    <a href="#0" class="video-tag red-tag">História de Vida</a>
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+                                    <a href="{{ url('assets/user/images/more/image4.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>"><img
+                                            src="{{ url('assets/user/images/more/image4.png') }}"
+                                            alt="main-post-image"></a>
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">SPORTS</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image4.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">Curry
+                                                    exploits help
+                                                    Warriors
+                                                    level Finals</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Norman Gordon</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April
+                                                        03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                            
-
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
-                                </div>
-                                <a href="#0" class="card-title">According to eyewitness elephants ran for higher
-                                    ground
-                                    ahead.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">16
-                                    Partilhas</span>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!--================= Read Section End Here =================-->
         </div>
     </div>
     <!--================= Featured video Section End Here =================-->
@@ -204,309 +204,297 @@
     <div class="rts-featured_video-section section-bg ptb--60 wow fadeIn" style="background: #e9ecef !important;"
         id="direitos-humanos" data-wow-duration="1.5s">
         <div class="container">
-            <div class="news-topbar news-topbar-2">
-                <h2 class="section-title">Direitos Humanos e Género</h2>
+        <div class="news-topbar news-topbar-2">
+                <h2 class="section-title">Direitos Humanos</h2>
                 <div class="wide-border" style="background: #a09797 !important;"></div>
                 <div class="slider-navigation">
                     <div class="swiper-button-prev navigation-btn"><i class="far fa-chevron-left"></i></div>
                     <div class="swiper-button-next navigation-btn"><i class="far fa-chevron-right"></i></div>
                 </div>
-            </div>
-            <div class="swiper rts-cmmnSlider">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="{{ url('assets/user/images/trending/fititel.webp') }}"
-                                    alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
-                                </div>
-                            </div>
-                            
+        </div>
+        </div>
+        <div class="rts-read-section1 section-gap-2 wow fadeIn" data-wow-duration="1.5s">
+                <div class="container">
+                    <div class="row no-gutters3">
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
 
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
+                                    <!-- Aqui: link da imagem com popup -->
+                                    <a href="{{ url('assets/user/images/more/image1.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">
+                                        <img src="{{ url('assets/user/images/more/image1.png') }}" alt="main-post-image">
+                                    </a>
+
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">FASHION</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image1.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">Postpones
+                                                    tour after
+                                                    syndrome leaves</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Alan Fresco</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April 03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <a href="#0" class="card-title">The 3
-                                    Beauty Trends That Are Taking Over
-                                    London Right
-                                    Now.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">16
-                                    Partilhas</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img
-                                    src="{{ url('assets/user/images/topics/transferir (2).jfif') }}"
-                                    alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
-                                    <a href="#0" class="video-tag red-tag">História de Vida</a>
-                                </div>
-                            </div>
-                            
 
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+                                    <a href="{{ url('assets/user/images/more/image2.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>"><img
+                                            src="{{ url('assets/user/images/more/image2.png') }}" alt="main-post-image"></a>
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">MUSIC</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image2.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">With
+                                                    ‘Jurassic World’
+                                                    ending,
+                                                    Bryce Dallas</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Barry Tone</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April
+                                                        03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <a href="#0" class="card-title">The body organism sustain growth and vital processes
-                                    and
-                                    to furnish energy.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="heart-icon">10</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="share-icon">6</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">10
-                                    Partilhas</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img
-                                    src="{{ url('assets/user/images/topics/transferir.jfif') }}" alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Economia</a>
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+                                    <a href="{{ url('assets/user/images/more/image3.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>"><img
+                                            src="{{ url('assets/user/images/more/image3.png') }}"
+                                            alt="main-post-image"></a>
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">LIFESTYLE</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image3.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">‘The
+                                                    Bachelor’ made a
+                                                    ‘sideshow’</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Hilari Ouse</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April
+                                                        03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                            
-
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
-                                </div>
-                                <a href="#0" class="card-title">Economia agencies are a need of every country and a
-                                    medium
-                                    of Economiaing.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">16
-                                    Partilhas</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img
-                                    src="{{ url('assets/user/images/topics/transferir (1).jfif') }}"
-                                    alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Política</a>
-                                    <a href="#0" class="video-tag red-tag">História de Vida</a>
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+                                    <a href="{{ url('assets/user/images/more/image4.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>"><img
+                                            src="{{ url('assets/user/images/more/image4.png') }}"
+                                            alt="main-post-image"></a>
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">SPORTS</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image4.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">Curry
+                                                    exploits help
+                                                    Warriors
+                                                    level Finals</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Norman Gordon</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April
+                                                        03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                            
-
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
-                                </div>
-                                <a href="#0" class="card-title">According to eyewitness elephants ran for higher
-                                    ground
-                                    ahead.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">16
-                                    Partilhas</span>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
     </div>
     <!--================= Featured video Section End Here =================-->
 
     <!--================= Featured video Section Start Here =================-->
-    <div class="rts-featured_video-section section-bg ptb--60 wow fadeIn" id="coluna-internacional"
-        data-wow-duration="1.5s">
+    <div class="rts-featured_video-section section-bg ptb--60 wow fadeIn"
+        id="coluna-internacional" data-wow-duration="1.5s">
         <div class="container">
-            <div class="news-topbar news-topbar-2">
+        <div class="news-topbar news-topbar-2">
                 <h2 class="section-title">Coluna Internacional</h2>
                 <div class="wide-border" style="background: #a09797 !important;"></div>
                 <div class="slider-navigation">
                     <div class="swiper-button-prev navigation-btn"><i class="far fa-chevron-left"></i></div>
                     <div class="swiper-button-next navigation-btn"><i class="far fa-chevron-right"></i></div>
                 </div>
-            </div>
-            <div class="swiper rts-cmmnSlider">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="{{ url('assets/user/images/trending/fititel.webp') }}"
-                                    alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
-                                </div>
-                            </div>
-                            
+        </div>
+        </div>
+        <div class="rts-read-section1 section-gap-2 wow fadeIn" data-wow-duration="1.5s">
+                <div class="container">
+                    <div class="row no-gutters3">
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
 
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
+                                    <!-- Aqui: link da imagem com popup -->
+                                    <a href="{{ url('assets/user/images/more/image1.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">
+                                        <img src="{{ url('assets/user/images/more/image1.png') }}" alt="main-post-image">
+                                    </a>
+
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">FASHION</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image1.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">Postpones
+                                                    tour after
+                                                    syndrome leaves</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Alan Fresco</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April 03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <a href="#0" class="card-title">The 3
-                                    Beauty Trends That Are Taking Over
-                                    London Right
-                                    Now.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">16
-                                    Partilhas</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img
-                                    src="{{ url('assets/user/images/topics/transferir (2).jfif') }}"
-                                    alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
-                                    <a href="#0" class="video-tag red-tag">História de Vida</a>
-                                </div>
-                            </div>
-                            
 
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+                                    <a href="{{ url('assets/user/images/more/image2.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>"><img
+                                            src="{{ url('assets/user/images/more/image2.png') }}" alt="main-post-image"></a>
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">MUSIC</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image2.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">With
+                                                    ‘Jurassic World’
+                                                    ending,
+                                                    Bryce Dallas</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Barry Tone</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April
+                                                        03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <a href="#0" class="card-title">The body organism sustain growth and vital processes
-                                    and
-                                    to furnish energy.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="heart-icon">10</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="share-icon">6</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">10
-                                    Partilhas</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img
-                                    src="{{ url('assets/user/images/topics/transferir.jfif') }}" alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Economia</a>
-                                    <a href="#0" class="video-tag red-tag">Sociedade</a>
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+                                    <a href="{{ url('assets/user/images/more/image3.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>"><img
+                                            src="{{ url('assets/user/images/more/image3.png') }}"
+                                            alt="main-post-image"></a>
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">LIFESTYLE</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image3.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">‘The
+                                                    Bachelor’ made a
+                                                    ‘sideshow’</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Hilari Ouse</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April
+                                                        03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                            
-
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
-                                </div>
-                                <a href="#0" class="card-title">Economia agencies are a need of every country and a
-                                    medium
-                                    of Economiaing.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">16
-                                    Partilhas</span>
                             </div>
                         </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="featured-video-card">
-                            <div class="video-thumbnail"><img
-                                    src="{{ url('assets/user/images/topics/transferir (1).jfif') }}"
-                                    alt="video-thumbnail">
-                                <div class="video-tags-area">
-                                    <a href="#0" class="video-tag red-tag">Política</a>
-                                    <a href="#0" class="video-tag red-tag">História da Vida</a>
+                        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+                            <div class="rts-post1 rts-post-medium1">
+                                <div class="post-picture">
+                                    <div class="overlay"></div>
+                                    <a href="{{ url('assets/user/images/more/image4.png') }}"
+                                        class="image-popup-vertical-fit"
+                                        title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>"><img
+                                            src="{{ url('assets/user/images/more/image4.png') }}"
+                                            alt="main-post-image"></a>
+                                    <div class="section-content">
+                                        <a href="catagory-details.html" class="news-catagory-tag">SPORTS</a>
+                                        <div class="contents">
+                                            <div class="post-title"><a
+                                                    href="{{ url('assets/user/images/more/image4.png') }}"
+                                                    class="image-popup-vertical-fit"
+                                                    title="<h5>Post Title</h5><p>Descrição ou resumo do post.</p>">Curry
+                                                    exploits help
+                                                    Warriors
+                                                    level Finals</a></div>
+                                            <div class="post-bottom-info">
+                                                <a href="author.html" class="post-author item1">Norman Gordon</a>
+                                                <div class="post-bottom">
+                                                    <span class="post-date item1">April
+                                                        03, 2024</span>
+                                                    <span class="post-time">1 day ago</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
-                            
-
-                            <div class="contents">
-                                <div class="post-info">
-                                    <div class="item"><span><img class="span-icon"
-                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
-                                            16,
-                                            2024</span></div>
-                                </div>
-                                <a href="#0" class="card-title">According to eyewitness elephants ran for higher
-                                    ground
-                                    ahead.</a>
-                            </div>
-                            <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
-                                        alt="date-icon">12</span>
-                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
-                                        alt="date-icon">16
-                                    Partilhas</span>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
     </div>
     <!--================= Featured video Section End Here =================-->
 

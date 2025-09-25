@@ -19,11 +19,11 @@
                                                 class="fas fa-chevron-down"></i></a>
                                         <ul class="dropdown-sub">
                                             <li class="flyout-right1 flyout"><a class="flyout-link-1"
-                                                    href="author.html">Imagens</a></li>
+                                                    href="{{ route('site.multimedia') }}#imagens">Imagens</a></li>
                                             <li class="flyout-right1 flyout"><a class="flyout-link-1"
-                                                    href="team.html">Videos</a></li>
+                                                    href="{{ route('site.multimedia') }}#videos">Videos</a></li>
                                             <li class="flyout-right1 dropdown"><a class="flyout-link-1"
-                                                    href="#">Podcasts</a></li>
+                                                    href="{{ route('site.multimedia') }}#podcasts">Podcasts</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a class="menu-item item-2"
