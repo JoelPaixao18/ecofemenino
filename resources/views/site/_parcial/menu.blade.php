@@ -2,17 +2,20 @@
             <div class="navbar-part navbar-part2">
                 <div class="container">
                     <div class="navbar-inner">
-                        <a href="index.html" class="logo">
-                            <img class="logo-default" src="assets/user/images/eco1.png" alt="ecofemenino-logo">
-                            <img class="logo-dark" src="assets/user/images/eco2.png" alt="Barrons24-logo">
+                        <a href="{{ route('site.home') }}" class="logo">
+                            <img class="logo-default" src="{{ url('assets/user/images/eco1.png') }}"
+                                alt="ecofemenino-logo">
+                            <img class="logo-dark" src="{{ url('assets/user/images/eco2.png') }}" alt="Barrons24-logo">
                         </a>
                         <div class="rts-menu rts-menu1 m-0">
                             <nav class="menus menu-toggle">
                                 <ul class="nav__menu">
                                     <li class="dropdown"><a class="menu-item item-1 item-2 active"
-                                            href="#">Início</a></li>
-                                    <li class="dropdown"><a class="menu-item item-2" href="#">Sobre Nós</a></li>
-                                    <li class="dropdown"><a class="menu-item item-2" href="#">Multimídia<i
+                                            href="{{ route('site.home') }}">Início</a></li>
+                                    {{-- <li class="dropdown"><a class="menu-item item-2"
+                                            href="{{ route('site.about') }}">Sobre Nós</a></li> --}}
+                                    <li class="dropdown"><a class="menu-item item-2"
+                                            href="{{ route('site.multimedia') }}">Multimídia<i
                                                 class="fas fa-chevron-down"></i></a>
                                         <ul class="dropdown-sub">
                                             <li class="flyout-right1 flyout"><a class="flyout-link-1"
@@ -23,54 +26,78 @@
                                                     href="#">Podcasts</a></li>
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a class="menu-item item-2" href="fashion.html">Atualidades<i
+                                    <li class="dropdown"><a class="menu-item item-2"
+                                            href="{{ route('site.news') }}">Atualidades<i
                                                 class="fas fa-chevron-down"></i></a>
                                         <ul class="dropdown-sub">
                                             <li class="flyout-right1 flyout"><a class="flyout-link-1"
-                                                    href="author.html">Perfil Inspirador</a></li>
-                                            <li class="dropdown"><a class="flyout-link-1" href="team.html">Notícias<i
+                                                    href="{{ route('site.news.profile') }}">Perfil Inspirador</a></li>
+                                            <li class="dropdown"><a class="flyout-link-1"
+                                                    href="{{ route('site.news.notice') }}">Notícias<i
                                                         class="fas fa-chevron-down"></i></a>
                                                 <ul class="sub-flyout">
                                                     <li class="flyout1 flyout2"><a class="flyout-sub-link1"
-                                                            href="catagory-details.html">Mulher na Política</a>
+                                                            href="{{ route('site.news.notice') }}#mulher-na-politica">Mulher
+                                                            na Política</a>
                                                     </li>
                                                     <li class="flyout1 flyout2"><a class="flyout-sub-link1"
-                                                            href="catagory-details2.html">Mulher na Economia</a>
+                                                            href="{{ route('site.news.notice') }}#mulher-na-economia">Mulher
+                                                            na Economia</a>
                                                     </li>
                                                     <li class="flyout1 flyout2"><a class="flyout-sub-link1"
-                                                            href="catagory-details2.html">Sociedade e Cultura</a>
+                                                            href="{{ route('site.news.notice') }}#sociedade-e-cultura">Sociedade
+                                                            e Cultura</a>
                                                     </li>
                                                     <li class="flyout1 flyout2"><a class="flyout-sub-link1"
-                                                            href="catagory-details2.html">Coluna Internacional</a>
+                                                            href="{{ route('site.news.notice') }}#coluna-internacional">Coluna
+                                                            Internacional</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                             <li class="flyout-right1 flyout"><a class="flyout-link-1"
-                                                    href="author.html">Eventos</a></li>
-                                            <li class="dropdown"><a class="flyout-link-1" href="team.html">Artigos<i
+                                                    href="{{ route('site.news.event') }}">Eventos</a></li>
+                                            <li class="dropdown"><a class="flyout-link-1"
+                                                    href="{{ route('site.news.article') }}">Artigos<i
                                                         class="fas fa-chevron-down"></i></a>
                                                 <ul class="sub-flyout">
                                                     <li class="flyout1 flyout2"><a class="flyout-sub-link1"
-                                                            href="catagory-details.html">Editorial</a>
+                                                            href="{{ route('site.news.article') }}#editorial">Editorial</a>
                                                     </li>
                                                     <li class="flyout1 flyout2"><a class="flyout-sub-link1"
-                                                            href="catagory-details2.html">Debate Femenino</a>
+                                                            href="{{ route('site.news.article') }}#debate-femenino">Debate Femenino</a>
                                                     </li>
                                                     <li class="flyout1 flyout2"><a class="flyout-sub-link1"
-                                                            href="catagory-details2.html">Direito Humanos e Género</a>
+                                                            href="{{ route('site.news.article') }}#direitos-humanos">Direito Humanos e Género</a>
                                                     </li>
                                                     <li class="flyout1 flyout2"><a class="flyout-sub-link1"
-                                                            href="catagory-details2.html">Coluna Internacional</a>
+                                                            href="{{ route('site.news.article') }}#coluna-internacional">Coluna Internacional</a>
                                                     </li>
                                                 </ul>
                                             </li>
                                         </ul>
                                     </li>
 
-                                    <li><a class="menu-item item-2" href="lifestyle.html">Juventude e Liderança</a>
+                                    <li class="dropdown"><a class="menu-item item-2"
+                                            href="{{ route('site.youth') }}">Juventude e
+                                            Liderança<i class="fas fa-chevron-down"></i></a>
+                                        <ul class="dropdown-sub">
+                                            <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                    href="{{ route('site.youth') }}#desporto">Desporto</a>
+                                            </li>
+                                            <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                    href="{{ route('site.youth') }}#educacao">Educação</a>
+                                            </li>
+                                            <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                    href="{{ route('site.youth') }}#tecnologia">Tecnologia</a>
+                                            </li>
+                                            <li class="flyout1 flyout2"><a class="flyout-sub-link1"
+                                                    href="{{ route('site.youth') }}#empreendedorismo">Empreendedorismo Jovem</a>
+                                            </li>
+                                        </ul>
 
                                     </li>
-                                    <li><a class="menu-item item-2" href="contact.html">Contacto</a></li>
+                                    <li><a class="menu-item item-2" href="{{ route('site.contact') }}">Contacto</a>
+                                    </li>
                                 </ul>
                             </nav>
                         </div>
@@ -80,7 +107,7 @@
                                         class="far
                                             fa-search"></i></div>
                                 <div class="search-input-div">
-                                    <input type="text" placeholder="Type your keyword...">
+                                    <input type="text" placeholder="Faça a sua pesquisa...">
                                 </div>
                             </div>
                         </div>
@@ -104,18 +131,20 @@
             <div class="offset-sidebar">
                 <a class="hamburger mobile-hamburger ml--30" href="#"><span></span></a>
                 <div class="offset-widget offset-logo mb-30">
-                    <a href="index.html">
-                        <img src="assets/user/images/eco1.png" alt="logo">
+                    <a href="{{ route('site.home') }}" class="logo">
+                        <img src="{{ url('assets/user/images/eco1.png') }}" alt="logo">
                     </a>
                 </div>
             </div>
             <!-- side-mobile-menu start -->
             <nav class="side-mobile-menu">
                 <ul id="mobile-menu-active">
-                    <li class="dropdown"><a class="menu-item item-1 item-2 active" href="#">Início</a></li>
-                    <li class="dropdown"><a class="menu-item item-2" href="#">Sobre Nós</a></li>
-                    <li class="dropdown"><a class="menu-item item-2" href="#">Multimídia<i
-                                class="fas fa-chevron-down"></i></a>
+                    <li class="dropdown"><a class="menu-item item-1 item-2 active"
+                            href="{{ route('site.home') }}">Início</a></li>
+                    {{-- <li class="dropdown"><a class="menu-item item-2" href="{{ route('site.about') }}">Sobre Nós</a>
+                    </li> --}}
+                    <li class="dropdown"><a class="menu-item item-2"
+                            href="{{ route('site.multimedia') }}">Multimídia<i class="fas fa-chevron-down"></i></a>
                         <ul class="dropdown-sub">
                             <li class="flyout-right1 flyout"><a class="flyout-link-1" href="author.html">Imagens</a>
                             </li>
@@ -125,7 +154,7 @@
                             </li>
                         </ul>
                     </li>
-                    <li class="dropdown"><a class="menu-item item-2" href="fashion.html">Atualidades<i
+                    <li class="dropdown"><a class="menu-item item-2" href="{{ route('site.news') }}">Atualidades<i
                                 class="fas fa-chevron-down"></i></a>
                         <ul class="dropdown-sub">
                             <li class="flyout-right1 flyout"><a class="flyout-link-1" href="author.html">Perfil
@@ -169,10 +198,10 @@
                         </ul>
                     </li>
 
-                    <li><a class="menu-item item-2" href="lifestyle.html">Juventude e Liderança</a>
+                    <li><a class="menu-item item-2" href="{{ route('site.youth') }}">Juventude e Liderança</a>
 
                     </li>
-                    <li><a class="menu-item item-2" href="contact.html">Contacto</a></li>
+                    <li><a class="menu-item item-2" href="{{ route('site.contact') }}">Contacto</a></li>
                 </ul>
             </nav>
             <!-- side-mobile-menu end -->

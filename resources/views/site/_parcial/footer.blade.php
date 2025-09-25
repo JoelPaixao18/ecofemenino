@@ -5,8 +5,8 @@
                 <div class="row">
                     <div class="col-xl-3 col-md-6 col-sm-6">
                         <div class="footer-widget">
-                            <div class="footer-logo"><img class="logo-default" src="assets/user/images/eco2.png" alt="ecofemenino-logo">
-                                <img class="logo-dark" src="assets/user/images/eco2.png"
+                            <div class="footer-logo"><img class="logo-default" src="{{url('assets/user/images/eco2.png')}}" alt="ecofemenino-logo">
+                                <img class="logo-dark" src="{{url('assets/user/images/eco2.png')}}"
                                     alt="Barrons24-logo">
                             </div>
                             <p class="text">Quando um impressor desconhecido pegou,
@@ -55,23 +55,23 @@
                         <div class="footer-widget">
                             <h3 class="footer-widget-title">Publicações Recentes</h3>
                             <div class="recent-post">
-                                <div class="picture"><a href="news-details.htm"><img src="assets/user/images/trending/tecno.jfif"
+                                <div class="picture"><a href="news-details.htm"><img src="{{url('assets/user/images/trending/tecno.jfif')}}"
                                             alt="side-post-image"></a></div>
                                 <div class="content">
                                     <div class="recent-post-title"><a href="#0">Atualmente tenho amado a tecnologia</a>
                                     </div>
                                     <a href="author.html" class="post-author item"><img class="span-icon"
-                                            src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                            src="{{url('assets/user/images/user.svg')}}" alt="user-icon">Ashley Graham</a>
                                 </div>
                             </div>
                             <div class="recent-post">
-                                <div class="picture"><a href="news-details.htm"><img src="assets/user/images/trending/transferir.jfif"
+                                <div class="picture"><a href="news-details.htm"><img src="{{url('assets/user/images/trending/transferir.jfif')}}"
                                             alt="side-post-image"></a></div>
                                 <div class="content">
                                     <div class="recent-post-title"><a href="#0">A educação tem tido fácil acesso</a>
                                     </div>
                                     <a href="author.html" class="post-author item"><img class="span-icon"
-                                            src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
+                                            src="{{url('assets/user/images/user.svg')}}" alt="user-icon">Ashley Graham</a>
                                 </div>
                             </div>
                         </div>

@@ -1,5 +1,6 @@
 @extends('site.layout.main')
-@section('content-home')
+@section('title', 'EcoFeminino - Home')
+@section('content')
     <!--================= Banner Section Start Here =================-->
     <div class="banner-2">
         <div class="swiper bannerSlide">
@@ -385,7 +386,7 @@
                                             alt="date-icon">January 16, 2024</span>
                                     <span class="post-date item"><img src="assets/user/images/share.svg"
                                             alt="date-icon">16
-                                        Shares</span>
+                                        Partilhas</span>
                                 </div>
                             </div>
                         </div>
@@ -459,7 +460,7 @@
                                             alt="date-icon">January 16, 2024</span>
                                     <span class="post-date item"><img src="assets/user/images/share.svg"
                                             alt="date-icon">16
-                                        Shares</span>
+                                        Partilhas</span>
                                 </div>
                             </div>
                         </div>
@@ -533,7 +534,7 @@
                                             alt="date-icon">January 16, 2024</span>
                                     <span class="post-date item"><img src="assets/user/images/share.svg"
                                             alt="date-icon">16
-                                        Shares</span>
+                                        Partilhas</span>
                                 </div>
                             </div>
                         </div>
@@ -683,7 +684,8 @@
                     </div>
                 </div>
                 <div class="col-xl-6 mx-auto">
-                    <a class="view-more-news" href="#0">Ver Mais<i class="far fa-long-arrow-right"></i></a>
+                    <a class="view-more-news" href="{{ route('site.news.profile') }}">Ver Mais<i
+                            class="far fa-long-arrow-right"></i></a>
                 </div>
             </div>
         </div>
@@ -697,7 +699,7 @@
                 <div class="news-topbar news-topbar-2">
                     <h2 class="section-title">Novidades</h2>
                     <div class="wide-border"></div>
-                    <a href="#0" class="border-btn">View Archive <i class="far fa-long-arrow-right"></i></a>
+                    <a href="#0" class="border-btn">Ver Arquivo <i class="far fa-long-arrow-right"></i></a>
                 </div>
             </div>
             <div class="row">
@@ -706,75 +708,81 @@
                         <div class="post-picture"><a href="news-details.html"><img
                                     src="assets/user/images/trending/afro-moda2.jpg" alt="main-post-image"></a></div>
                         <div class="contents">
-                            <a href="#0" class="news-catagory-tag-2">Photography</a>
-                            <div class="post-title"><a href="news-details.html">Kanye west on
-                                    why he bought house
-                                    across from kim kardashian</a></div>
+                            <a href="#0" class="news-catagory-tag-2">Fotografia</a>
+                            <div class="post-title"><a href="news-details.html">Lesliana Pereira revela o motivo por trás
+                                    da
+                                    sua volta triunfal às passarelas.</a></div>
                             <div class="post-bottom-info">
                                 <a href="author.html"
                                     class="post-author
                                         item"><img
                                         src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                <span class="post-date item"><img src="assets/user/images/date.svg"
-                                        alt="date-icon">January
-                                    16, 2024</span>
+                                <span class="post-date item"><img src="assets/user/images/date.svg" alt="date-icon">16 de
+                                    Setembro, 2025</span>
                                 <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
-                                    Shares</span>
+                                    Partilhas</span>
                             </div>
-                            <p>Ipsam justo impedit! Sagittis quos culpa.
-                                Dictum esse eligendi ultrices, incididunt
-                                mollit sociosqu, dapibus quisque. asperiores
-                                metus autem quos sodales sagittis.</p>
-                            <a href="#0" class="read-more-btn">Read more</a>
+                            <p>A modelo surpreendeu os fãs ao explicar que a produção não foi apenas uma escolha estética,
+                                mas também uma forma de transmitir confiança e autenticidade no tapete vermelho.</p>
+                            <a href="#0" class="read-more-btn">Ler Mais</a>
                         </div>
                     </div>
                     <div class="rts-post-2 mb--30">
+                        <div class="post-picture"><a href="news-details.html"><img
+                                    src="assets/user/images/trending/neurolideranca.jpg" alt="main-post-image"></a>
+                        </div>
                         <div class="contents">
-                            <a href="#0" class="news-catagory-tag-2">Photography</a>
-                            <div class="post-title"><a href="news-details.html">City barbecue joint tells customers:
-                                    Don’t buy the brisket.</a></div>
+                            <a href="#0" class="news-catagory-tag-2">Fotografia</a>
+                            <div class="post-title"><a href="news-details.html">Programa de Neuroliderança regressa a
+                                    Luanda para capacitar líderes</a></div>
                             <div class="post-bottom-info">
                                 <a href="author.html"
                                     class="post-author
                                         item"><img
                                         src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                <span class="post-date item"><img src="assets/user/images/date.svg"
-                                        alt="date-icon">January
-                                    16, 2024</span>
+                                <span class="post-date item"><img src="assets/user/images/date.svg" alt="date-icon">16 de
+                                    Setembro, 2025</span>
                                 <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
-                                    Shares</span>
+                                    Partilhas</span>
                             </div>
-                            <p>Ipsam justo impedit! Sagittis quos culpa.
-                                Dictum esse eligendi ultrices, incididunt
-                                mollit sociosqu, dapibus quisque. asperiores
-                                metus autem quos sodales sagittis.</p>
-                            <a href="#0" class="read-more-btn">Read more</a>
+                            <p>A PWN Luanda abriu inscrições para a 2.ª edição do Programa de Neuroliderança, que decorrerá
+                                durante dois meses a partir de setembro. Destinado a profissionais com experiência mínima de
+                                dois anos a liderar equipas, o programa visa desenvolver competências de liderança baseadas
+                                nos avanços da neurociência, ajudando gestores a equilibrar razão e emoção, comunicar de
+                                forma clara e inspirar as suas equipas em contextos de elevada pressão.</p>
+                            <a href="#0" class="read-more-btn">Ler Mais</a>
                         </div>
                     </div>
-                    <div class="rts-post-2 mb--30">
+
+
+                    {{-- <div class="rts-post-2 mb--30">
+                        <div class="post-picture"><a href="news-details.html"><img
+                                    src="assets/user/images/trending/jaqueline.png" alt="main-post-image"></a>
+                        </div>
                         <div class="contents">
-                            <a href="#0" class="news-catagory-tag-2">Photography</a>
-                            <div class="post-title"><a href="news-details.html">Kanye west on
-                                    why he bought house
-                                    across from kim kardashian</a></div>
+                            <a href="#0" class="news-catagory-tag-2">Fotografia</a>
+                            <div class="post-title"><a href="news-details.html">Jaqueline Ngulo e a transformação
+                                    a Women in Tech Angola em motor de mudança.</a></div>
                             <div class="post-bottom-info">
                                 <a href="author.html"
                                     class="post-author
                                         item"><img
                                         src="assets/user/images/user.svg" alt="user-icon">Ashley Graham</a>
-                                <span class="post-date item"><img src="assets/user/images/date.svg"
-                                        alt="date-icon">January
-                                    16, 2024</span>
+                                <span class="post-date item"><img src="assets/user/images/date.svg" alt="date-icon">16 de
+                                    Setembro, 2025</span>
                                 <span class="post-date item"><img src="assets/user/images/share.svg" alt="date-icon">16
-                                    Shares</span>
+                                    Partilhas</span>
                             </div>
-                            <p>Ipsam justo impedit! Sagittis quos culpa.
-                                Dictum esse eligendi ultrices, incididunt
-                                mollit sociosqu, dapibus quisque. asperiores
-                                metus autem quos sodales sagittis.</p>
-                            <a href="#0" class="read-more-btn">Read more</a>
+                            <p> Jaqueline Ngulo recentemente assumiu a direção da <b> Women in Tech Angola</b>, capítulo
+                                nacional
+                                da maior organização mundial dedicada a reduzir a desigualdade de género na tecnologia. Ela
+                                diz: <b> “Sou
+                                    uma mulher que teve de recomeçar, de me reinventar, de despertar para diferentes facetas
+                                    da
+                                    vida."</b></p>
+                            <a href="#0" class="read-more-btn">Ler Mais</a>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
                 <div class="col-xl-4 col-md-5 col-sm-12">
                     <div class="row">
@@ -784,9 +792,9 @@
                                             src="assets/user/images/trending/evaDiva.jfif" alt="main-post-image"></a>
                                 </div>
                                 <div class="contents">
-                                    <a href="#0" class="news-catagory-tag-2">Photography</a>
-                                    <div class="post-title"><a href="news-details.html">The New York Times faces 'cancel
-                                            culture' for 'telling the truth'</a></div>
+                                    <a href="#0" class="news-catagory-tag-2">Fotografia</a>
+                                    <div class="post-title"><a href="news-details.html">Eva Rap Diva se firmando no mundo
+                                            empresarial.</a></div>
                                     <div class="post-bottom-info">
                                         <a href="author.html"
                                             class="post-author
@@ -794,17 +802,17 @@
                                                 src="assets/user/images/user.svg" alt="user-icon">Ashley
                                             Graham</a>
                                         <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                alt="date-icon">January
-                                            16, 2024</span>
+                                                alt="date-icon">16 de Setembro, 2025</span>
                                         <span class="post-date item"><img src="assets/user/images/share.svg"
                                                 alt="date-icon">16
-                                            Shares</span>
+                                            Partilhas</span>
                                     </div>
-                                    <p>Ipsam justo impedit! Sagittis quos culpa.
-                                        Dictum esse eligendi ultrices, incididunt
-                                        mollit sociosqu, dapibus quisque. asperiores
-                                        metus autem quos sodales sagittis.</p>
-                                    <a href="#0" class="read-more-btn">Read more</a>
+                                    <p>Eva Rapdiva, é candidata a deputada à Assembleia da República Portuguesa, pelo
+                                        Partido
+                                        Socialista (PS). O nome da artista surge na oitava posição da lista, o que a torna
+                                        elegível
+                                        para um assento no Parlamento.</p>
+                                    <a href="#0" class="read-more-btn">Ler Mais</a>
                                 </div>
                             </div>
                         </div>
@@ -814,9 +822,10 @@
                                             src="assets/user/images/trending/orange_girl.jfif" alt="main-post-image"></a>
                                 </div>
                                 <div class="contents">
-                                    <a href="#0" class="news-catagory-tag-2">Photography</a>
-                                    <div class="post-title"><a href="news-details.html">We know Van Gogh’s face from his
-                                            self-portraits.</a></div>
+                                    <a href="#0" class="news-catagory-tag-2">Fotografia</a>
+                                    <div class="post-title"><a href="news-details.html"> Leila Lopes fala sobre como se
+                                            tornou a Miss Universo em 2011.
+                                        </a></div>
                                     <div class="post-bottom-info">
                                         <a href="author.html"
                                             class="post-author
@@ -824,17 +833,14 @@
                                                 src="assets/user/images/user.svg" alt="user-icon">Ashley
                                             Graham</a>
                                         <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                alt="date-icon">January
-                                            16, 2024</span>
+                                                alt="date-icon">16 de Setembro, 2025</span>
                                         <span class="post-date item"><img src="assets/user/images/share.svg"
                                                 alt="date-icon">16
-                                            Shares</span>
+                                            Partilhas</span>
                                     </div>
-                                    <p>Ipsam justo impedit! Sagittis quos culpa.
-                                        Dictum esse eligendi ultrices, incididunt
-                                        mollit sociosqu, dapibus quisque. asperiores
-                                        metus autem quos sodales sagittis.</p>
-                                    <a href="#0" class="read-more-btn">Read more</a>
+                                    <p>Leila Lopes é uma angolana que conquistou o título de Miss Universo em 2011,
+                                        tornando-se a primeira angolana a alcançar essa distinção.</p>
+                                    <a href="#0" class="read-more-btn">Ler Mais</a>
                                 </div>
                             </div>
                         </div>
@@ -845,7 +851,7 @@
                         <div class="row">
 
                             <div class="col-xl-12 col-md-6">
-                                <div class="popular-stories mb--50">
+                                <div class="popular-stories mb--50"> <br> <br> <br>
                                     <h3 class="side-content-title">Histórias Populares</h3>
                                     <div class="rts-post rts-post-small">
                                         <div class="post-picture"><a href="news-details.html"><img
@@ -935,49 +941,49 @@
                             </div>
                             <div class="col-xl-12 col-md-6">
                                 <div class="rts-tags">
-                                    <h3 class="side-content-title">Tags</h3>
+                                    <h3 class="side-content-title">Etiquetas</h3>
                                     <ul>
-                                        <li><a class="tag-item" href="#0">Techology</a></li>
-                                        <li><a class="tag-item" href="#0">Travel</a></li>
-                                        <li><a class="tag-item" href="#0">Community</a></li>
-                                        <li><a class="tag-item" href="#0">Canada</a></li>
-                                        <li><a class="tag-item" href="#0">Accessories</a></li>
-                                        <li><a class="tag-item" href="#0">Beauty</a></li>
-                                        <li><a class="tag-item" href="#0">Chemical</a></li>
-                                        <li><a class="tag-item" href="#0">Business</a></li>
-                                        <li><a class="tag-item" href="#0">IT Solution</a></li>
-                                        <li><a class="tag-item" href="#0">Food</a></li>
-                                        <li><a class="tag-item" href="#0">Painting</a></li>
-                                        <li><a class="tag-item" href="#0">Personality</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Tecnologia</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Viagem</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Comunidade</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Acessórios</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Beleza</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Química</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Negócios</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Solução de TI</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Alimentação</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Pintura</a></li>
+                                        <li><a class="tag-item" href="{{ route('site.youth') }}">Personalidade</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-9">
+                {{-- <div class="col-xl-9">
                     <a class="view-more-news" href="#0">Ver Mais<i class="far fa-long-arrow-right"></i></a>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>
     <!--================= Updates Section End Here =================-->
 
 
-    <!--================= Ad Section Start Here =================-->
-    <div class="rts-ad-section wow fadeIn" data-wow-duration="1.5s">
-        <div class="container">
-            <div class="ad"><img src="assets/user/images/items/ad-banner1.png" alt="ad-banner"></div>
+    {{-- <!--================= Ad Section Start Here =================-->
+        <div class="rts-ad-section wow fadeIn" data-wow-duration="1.5s">
+            <div class="container">
+                <div class="ad"><img src="assets/user/images/items/ad-banner1.png" alt="ad-banner"></div>
+            </div>
         </div>
-    </div>
-    <!--================= Ad Section End Here =================-->
+        <!--================= Ad Section End Here =================-->
+    --}}
 
 
     <!--================= Featured video Section Start Here =================-->
     <div class="rts-featured_video-section section-bg ptb--60 wow fadeIn" data-wow-duration="1.5s">
         <div class="container">
             <div class="news-topbar news-topbar-2">
-                <h2 class="section-title">Vídeos em Destaque</h2>
+                <h2 class="section-title">Videos em Destaque</h2>
                 <div class="wide-border"></div>
                 <div class="slider-navigation">
                     <div class="swiper-button-prev navigation-btn"><i class="far fa-chevron-left"></i></div>
@@ -988,7 +994,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/trending/fititel.webp"
+                            <div class="video-thumbnail"><img src="{{ url('assets/user/images/trending/fititel.webp') }}"
                                     alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Fashion</a>
@@ -997,13 +1003,13 @@
                             </div>
                             <div class="play-btn play-video"><a class="popup-video"
                                     href="https://www.youtube.com/watch?v=hQ41QrQE_iE"
-                                    data-effect="mfp-move-horizontal"><img src="assets/user/images/play-btn-2.svg"
-                                        alt="play-btn"></a></div>
+                                    data-effect="mfp-move-horizontal"><img
+                                        src="{{ url('assets/user/images/play-btn-2.svg') }}" alt="play-btn"></a></div>
 
                             <div class="contents">
                                 <div class="post-info">
-                                    <div class="item"><span><img class="span-icon" src="assets/user/images/date.svg"
-                                                alt="date-icon">June
+                                    <div class="item"><span><img class="span-icon"
+                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
                                             16,
                                             2024</span></div>
                                 </div>
@@ -1013,18 +1019,20 @@
                                     Now.</a>
                             </div>
                             <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="assets/user/images/comment.svg"
+                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
                                         alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="assets/user/images/heart.svg"
+                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
                                         alt="date-icon">12</span>
-                                <span class="post-share item"><img src="assets/user/images/share.svg" alt="date-icon">16
-                                    Shares</span>
+                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
+                                        alt="date-icon">16
+                                    Partilhas</span>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/topics/transferir (2).jfif"
+                            <div class="video-thumbnail"><img
+                                    src="{{ url('assets/user/images/topics/transferir (2).jfif') }}"
                                     alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Fashion</a>
@@ -1033,13 +1041,13 @@
                             </div>
                             <div class="play-btn play-video"><a class="popup-video"
                                     href="https://www.youtube.com/watch?v=hQ41QrQE_iE"
-                                    data-effect="mfp-move-horizontal"><img src="assets/user/images/play-btn-2.svg"
-                                        alt="play-btn"></a></div>
+                                    data-effect="mfp-move-horizontal"><img
+                                        src="{{ url('assets/user/images/play-btn-2.svg') }}" alt="play-btn"></a></div>
 
                             <div class="contents">
                                 <div class="post-info">
-                                    <div class="item"><span><img class="span-icon" src="assets/user/images/date.svg"
-                                                alt="date-icon">June
+                                    <div class="item"><span><img class="span-icon"
+                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
                                             16,
                                             2024</span></div>
                                 </div>
@@ -1048,19 +1056,20 @@
                                     to furnish energy.</a>
                             </div>
                             <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="assets/user/images/comment.svg"
+                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
                                         alt="heart-icon">10</span>
-                                <span class="post-heart item"><img src="assets/user/images/heart.svg"
+                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
                                         alt="share-icon">6</span>
-                                <span class="post-share item"><img src="assets/user/images/share.svg" alt="date-icon">10
-                                    Shares</span>
+                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
+                                        alt="date-icon">10
+                                    Partilhas</span>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/topics/transferir.jfif"
-                                    alt="video-thumbnail">
+                            <div class="video-thumbnail"><img
+                                    src="{{ url('assets/user/images/topics/transferir.jfif') }}" alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Travel</a>
                                     <a href="#0" class="video-tag red-tag">Fashion</a>
@@ -1068,13 +1077,13 @@
                             </div>
                             <div class="play-btn play-video"><a class="popup-video"
                                     href="https://www.youtube.com/watch?v=hQ41QrQE_iE"
-                                    data-effect="mfp-move-horizontal"><img src="assets/user/images/play-btn-2.svg"
-                                        alt="play-btn"></a></div>
+                                    data-effect="mfp-move-horizontal"><img
+                                        src="{{ url('assets/user/images/play-btn-2.svg') }}" alt="play-btn"></a></div>
 
                             <div class="contents">
                                 <div class="post-info">
-                                    <div class="item"><span><img class="span-icon" src="assets/user/images/date.svg"
-                                                alt="date-icon">June
+                                    <div class="item"><span><img class="span-icon"
+                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
                                             16,
                                             2024</span></div>
                                 </div>
@@ -1083,18 +1092,20 @@
                                     of traveling.</a>
                             </div>
                             <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="assets/user/images/comment.svg"
+                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
                                         alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="assets/user/images/heart.svg"
+                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
                                         alt="date-icon">12</span>
-                                <span class="post-share item"><img src="assets/user/images/share.svg" alt="date-icon">16
-                                    Shares</span>
+                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
+                                        alt="date-icon">16
+                                    Partilhas</span>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="featured-video-card">
-                            <div class="video-thumbnail"><img src="assets/user/images/topics/transferir (1).jfif"
+                            <div class="video-thumbnail"><img
+                                    src="{{ url('assets/user/images/topics/transferir (1).jfif') }}"
                                     alt="video-thumbnail">
                                 <div class="video-tags-area">
                                     <a href="#0" class="video-tag red-tag">Animal</a>
@@ -1103,13 +1114,13 @@
                             </div>
                             <div class="play-btn play-video"><a class="popup-video"
                                     href="https://www.youtube.com/watch?v=hQ41QrQE_iE"
-                                    data-effect="mfp-move-horizontal"><img src="assets/user/images/play-btn-2.svg"
-                                        alt="play-btn"></a></div>
+                                    data-effect="mfp-move-horizontal"><img
+                                        src="{{ url('assets/user/images/play-btn-2.svg') }}" alt="play-btn"></a></div>
 
                             <div class="contents">
                                 <div class="post-info">
-                                    <div class="item"><span><img class="span-icon" src="assets/user/images/date.svg"
-                                                alt="date-icon">June
+                                    <div class="item"><span><img class="span-icon"
+                                                src="{{ url('assets/user/images/date.svg') }}" alt="date-icon">June
                                             16,
                                             2024</span></div>
                                 </div>
@@ -1118,12 +1129,13 @@
                                     ahead.</a>
                             </div>
                             <div class="card-action-bar action-bar">
-                                <span class="post-comment item"><img src="assets/user/images/comment.svg"
+                                <span class="post-comment item"><img src="{{ url('assets/user/images/comment.svg') }}"
                                         alt="date-icon">12</span>
-                                <span class="post-heart item"><img src="assets/user/images/heart.svg"
+                                <span class="post-heart item"><img src="{{ url('assets/user/images/heart.svg') }}"
                                         alt="date-icon">12</span>
-                                <span class="post-share item"><img src="assets/user/images/share.svg" alt="date-icon">16
-                                    Shares</span>
+                                <span class="post-share item"><img src="{{ url('assets/user/images/share.svg') }}"
+                                        alt="date-icon">16
+                                    Partilhas</span>
                             </div>
                         </div>
                     </div>
@@ -1153,27 +1165,25 @@
                             <div class="col-xl-12 col-md-12">
                                 <div class="rts-post-2 rts-post-2-wide mb--20">
                                     <div class="post-picture"><a href="news-details.html"><img
-                                                src="assets/user/images/trending/finance.jfif" alt="main-post-image"></a>
+                                                src="assets/user/images/trending/jaqueline.png" alt="main-post-image"></a>
                                     </div>
                                     <div class="contents">
-                                        <div class="post-title"><a href="news-details.html">5 Personal Finance Tips
-                                                Every
-                                                Freelancer Should Know</a></div>
-                                        <p>Tenetur culpa, senectus inceptos porttitor dictumst animi at? Laoreet
-                                            sagittis
-                                            bibendum quisque turpis placerat.</p>
+                                        <div class="post-title"><a href="news-details.html">Jaqueline Ngulo e a
+                                                transformação da Women in Tech</a></div>
+                                        <p>Jaqueline Ngulo recentemente assumiu a direção da <b> Women in Tech Angola</b>,
+                                            capítulo nacional da maior organização mundial dedicada a reduzir a desigualdade de género na
+                                            tecnologia.</p>
                                         <div class="post-bottom-info">
                                             <a href="author.html"
                                                 class="post-author
                                                             item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">By
+                                                    src="assets/user/images/user.svg" alt="user-icon">Por
                                                 Jenny
                                                 Wilson</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">January
-                                                16, 2024</span>
+                                                    alt="date-icon">16 de Setembro, 2025</span>
                                         </div>
-                                        <a href="#0" class="read-more-btn">Read more</a>
+                                        <a href="#0" class="read-more-btn">Ler Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -1193,14 +1203,13 @@
                                             <a href="author.html"
                                                 class="post-author
                                                             item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">By
+                                                    src="assets/user/images/user.svg" alt="user-icon">Por
                                                 Jenny
                                                 Wilson</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">January
-                                                16, 2024</span>
+                                                    alt="date-icon">16 de Setembro, 2025</span>
                                         </div>
-                                        <a href="#0" class="read-more-btn">Read more</a>
+                                        <a href="#0" class="read-more-btn">Ler Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -1220,14 +1229,13 @@
                                             <a href="author.html"
                                                 class="post-author
                                                             item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">By
+                                                    src="assets/user/images/user.svg" alt="user-icon">Por
                                                 Jenny
                                                 Wilson</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">January
-                                                16, 2024</span>
+                                                    alt="date-icon">16 de Setembro, 2025</span>
                                         </div>
-                                        <a href="#0" class="read-more-btn">Read more</a>
+                                        <a href="#0" class="read-more-btn">Ler Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -1247,14 +1255,13 @@
                                             <a href="author.html"
                                                 class="post-author
                                                             item"><img
-                                                    src="assets/user/images/user.svg" alt="user-icon">By
+                                                    src="assets/user/images/user.svg" alt="user-icon">Por
                                                 Jenny
                                                 Wilson</a>
                                             <span class="post-date item"><img src="assets/user/images/date.svg"
-                                                    alt="date-icon">January
-                                                16, 2024</span>
+                                                    alt="date-icon">16 de Setembro, 2025</span>
                                         </div>
-                                        <a href="#0" class="read-more-btn">Read more</a>
+                                        <a href="#0" class="read-more-btn">Ler Mais</a>
                                     </div>
                                 </div>
                             </div>
@@ -1273,13 +1280,13 @@
                                     <a href="author.html"
                                         class="post-author
                                                     item"><img
-                                            src="assets/user/images/user.svg" alt="user-icon">By Jenny
+                                            src="assets/user/images/user.svg" alt="user-icon">Por Jenny
                                         Wilson</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January
                                         16, 2024</span>
                                 </div>
-                                <a href="#0" class="read-more-btn">Read more</a>
+                                <a href="#0" class="read-more-btn">Ler Mais</a>
                             </div>
                         </div>
                         <div class="rts-post-2 rts-post-2-wide mb--20">
@@ -1294,13 +1301,13 @@
                                     <a href="author.html"
                                         class="post-author
                                                     item"><img
-                                            src="assets/user/images/user.svg" alt="user-icon">By Jenny
+                                            src="assets/user/images/user.svg" alt="user-icon">Por Jenny
                                         Wilson</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January
                                         16, 2024</span>
                                 </div>
-                                <a href="#0" class="read-more-btn">Read more</a>
+                                <a href="#0" class="read-more-btn">Ler Mais</a>
                             </div>
                         </div>
                         <div class="rts-post-2 rts-post-2-wide mb--20">
@@ -1315,13 +1322,13 @@
                                     <a href="author.html"
                                         class="post-author
                                                     item"><img
-                                            src="assets/user/images/user.svg" alt="user-icon">By Jenny
+                                            src="assets/user/images/user.svg" alt="user-icon">Por Jenny
                                         Wilson</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January
                                         16, 2024</span>
                                 </div>
-                                <a href="#0" class="read-more-btn">Read more</a>
+                                <a href="#0" class="read-more-btn">Ler Mais</a>
                             </div>
                         </div>
                         <div class="rts-post-2 rts-post-2-wide">
@@ -1336,7 +1343,7 @@
                                     <a href="author.html"
                                         class="post-author
                                                     item"><img
-                                            src="assets/user/images/user.svg" alt="user-icon">By Jenny
+                                            src="assets/user/images/user.svg" alt="user-icon">Por Jenny
                                         Wilson</a>
                                     <span class="post-date item"><img src="assets/user/images/date.svg"
                                             alt="date-icon">January
@@ -1355,7 +1362,7 @@
                                         alt="post-picture">
                                 </div>
                                 <div class="contents">
-                                    <div class="news-catagory-tag-2">Fashion</div>
+                                    <div class="news-catagory-tag-2">Economia</div>
                                     <div class="post-title"><a href="news-details.html">Marta ceo after stepping in
                                             Suicide
                                             front of train</a>
@@ -1369,7 +1376,7 @@
                             </div>
                             <div class="rts-post-2 rts-post-2-small">
                                 <div class="contents">
-                                    <div class="news-catagory-tag-2-2">Travel</div>
+                                    <div class="news-catagory-tag-2-2">Moda</div>
                                     <div class="post-title"><a href="news-details.html">Marta ceo after stepping in
                                             Suicide
                                             front of train</a><a href="#" class="go-icon"><i
@@ -1384,7 +1391,7 @@
                             </div>
                             <div class="rts-post-2 rts-post-2-small">
                                 <div class="contents">
-                                    <div class="news-catagory-tag-2-2">Technology</div>
+                                    <div class="news-catagory-tag-2-2">Tecnologia</div>
                                     <div class="post-title"><a href="news-details.html">Marta ceo after stepping in
                                             Suicide
                                             front of train</a><a href="#" class="go-icon"><i
@@ -1399,7 +1406,7 @@
                             </div>
                             <div class="rts-post-2 rts-post-2-small mb--20">
                                 <div class="contents">
-                                    <div class="news-catagory-tag-2-2">Robot</div>
+                                    <div class="news-catagory-tag-2-2">Sociedade</div>
                                     <div class="post-title"><a href="news-details.html">Marta ceo after stepping in
                                             Suicide
                                             front of train</a><a href="#" class="go-icon"><i
@@ -1433,7 +1440,7 @@
                     </div>
                 </div>
                 <div class="col-xl-9">
-                    <a class="view-more-news" href="#0">Read More Stories<i
+                    <a class="view-more-news" href="{{ route('site.news.notice') }}">Ler Mais Stories<i
                             class="far fa-long-arrow-right"></i></a>
                 </div>
             </div>
@@ -1442,7 +1449,7 @@
     <!--================= News Section End Here =================-->
 
 
-    <!--================= Gallery Section Start Here =================-->
+    {{-- <!--================= Gallery Section Start Here =================-->
     <div class="rts-gallery-section wow fadeIn" data-wow-duration="1.5s">
         <div class="container">
             <div class="row">
@@ -1496,11 +1503,11 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
-    <!--
-                                                                   Color switcher
-                                                                -->
+    <!--================= Gallery Section End Here =================-->
+
+    <!--================= Color switcher =================-->
     <div class="modal-sidebar-scroll rts-dark-light">
         <ul>
             <li><span>Dark</span><i class="rts-go-dark fal fa-moon"></i></li>

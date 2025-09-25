@@ -12,7 +12,7 @@
                 <div class="topbar-inner">
                     <div class="right-part">
                         <div class="quick-weather">
-                            <span class="weather-tempreture"><img src="assets/user/images/icons/weather.svg"
+                            <span class="weather-tempreture"><img src="{{url('assets/user/images/icons/weather.svg')}}"
                                     alt="weather-icon"> 10.7<span>C</span>
                             </span>
                             <span class="weather-location">New York</span>

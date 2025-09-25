@@ -9,53 +9,67 @@ use App\Model\Car;
 class HomeController extends Controller
 {
 
- 
     public function index()
     {
         // Envia para a view
         return view('site.home.index');
     }
 
-    public function reservation(Request $request)
+    public function contact()
     {
-        // Captura os filtros do form
-        $local      = $request->input('location'); // local de retirada
-        $dataRetira = $request->input('data_retirada');
-        $dataDev    = $request->input('data_devolucao');
-        $carId    = $request->input('car_id'); // id do carro selecionado
-
-        // Query inicial
-        $cars = Car::with(['brand', 'models', 'color', 'fuel'])->get();
-
-
-        // Retorna para a view de listagem
-        return view('site.home.reservation.index', compact('cars', 'local', 'dataRetira', 'dataDev'));
+        // Envia para a view
+        return view('site.contact.index');
+    }
+    public function about()
+    {
+        // Envia para a view
+        return view('site.about.index');
+    }
+    public function news()
+    {
+        // Envia para a view
+        return view('site.news.index');
     }
 
-     public function carBook(Request $request)
+    public function newsProfile()
     {
-        $carId = $request->get('car_id');
-
-        // Busca o carro no banco
-        $car = Car::with(['brand', 'models'])->findOrFail($carId);
-
-        return view('site.home.car_book.index', compact('car'));
+        // Envia para a view
+        return view('site.news.profile.index');
     }
 
-    public function carDetails($car_id)
-{
-    // Fetch the car with its related data
-    $car = Car::with(['brand', 'models', 'color', 'fuel'])->findOrFail($car_id);
+    public function newsNotice()
+    {
+        // Envia para a view
+        return view('site.news.notice.index');
+    }
 
-    // Fetch similar cars (e.g., same category, excluding the current car)
-    $cars = Car::with(['brand', 'models', 'color', 'fuel'])
-        ->where('category', $car->category)
-        ->where('id', '!=', $car->id)
-        ->take(3)
-        ->get();
+    public function newsEvent()
+    {
+        // Envia para a view
+        return view('site.news.event.index');
+    }
+    
+    public function newsEventDetail()
+    {
+        // Envia para a view
+        return view('site.news.event.detail.index');
+    }
 
-    // Pass the car and similar cars to the view
-    return view('site.home.car_details.index', compact('car', 'cars'));
-}
+    public function newsArticle()
+    {
+        // Envia para a view
+        return view('site.news.article.index');
+    }
+
+    public function multimedia()
+    {
+        // Envia para a view
+        return view('site.multimedia.index');
+    }
+    public function youth()
+    {
+        // Envia para a view
+        return view('site.youth.index');
+    }
 }
 

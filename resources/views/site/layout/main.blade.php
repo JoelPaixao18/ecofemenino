@@ -33,7 +33,7 @@
 <body class="bg-1">
 
     @include('site._parcial.header')
-    @yield('content-home')
+    @yield('content')
     @include('site._parcial.footer')
 
     <!--================= Scroll to Top Start =================-->

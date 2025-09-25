@@ -11904,6 +11904,37 @@ header .header-action-items-2 {
   }
 }
 
+
+/* tenta evitar cortes e força o submenu a ajustar-se ao conteúdo */
+.sub-flyout,
+.sub-flyout li,
+.sub-flyout li a,
+.flyout-sub-link1 {
+  overflow: visible !important;
+  white-space: nowrap !important;
+  width: auto !important;
+  min-width: max-content !important;
+  box-sizing: content-box !important;
+  text-indent: 0 !important;
+  text-overflow: clip !important;
+  transform: none !important;
+}
+
+/* se o submenu for posicionado absoluto, garante que fica visível */
+.sub-flyout {
+  position: absolute !important;
+  left: auto !important;
+  right: auto !important;
+  z-index: 9999 !important;
+}
+
+/* tenta desbloquear possíveis cortes por pais */
+.dropdown, .flyout, .flyout1, .flyout2, .flyout-right1 {
+  overflow: visible !important;
+}
+
+
+
 .rts-author-profile-area .author-profile-box {
   background: #fff;
   padding: 30px;
